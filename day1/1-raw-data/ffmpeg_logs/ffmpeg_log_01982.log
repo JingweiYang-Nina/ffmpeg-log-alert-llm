@@ -1,0 +1,18 @@
+﻿ffmpeg version N-105001-g57b491a03a-lsf Copyright (c) 2000-2022 the FFmpeg developers
+built with gcc 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.1)
+Configuration: --prefix=/usr/local --enable-gpl --enable-libx264
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_brand     : isom
+    compatible_brands: mp41
+  Duration: 00:00:10.00, start: 0.000000, bitrate: 1500 kb/s
+    Stream #0:0[0x1](eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], 29.97 fps
+Output #0, mp4, to 'output.mp4':
+  Metadata:
+    encoder         : Lavf59.27.100
+    Stream #0:0(eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 29.97 fps
+    Encoder         : Lavc59.37.100 libx264
+frame=  299 fps= 29 q=-1.0 Lsize=   24536kB time=00:00:09.98 bitrate=19706.7kbits/s speed=0.999x
+video:24536kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+[libx264 @ 0x480838634839] PSNR Mean: Y:42.87 U:42.10 V:42.06 Avg:42.36 Global:42.36

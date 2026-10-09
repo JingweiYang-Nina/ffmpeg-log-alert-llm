@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Error: Bitrate 67252 is too high. Increase buffer size or decrease bitrate.",
+    "resolution_steps": "Reduce the target bitrate or increase the buffer size (using `-bufsize` option) to prevent overflow.",
+    "log_file": "ffmpeg_log_00953.log"
+}

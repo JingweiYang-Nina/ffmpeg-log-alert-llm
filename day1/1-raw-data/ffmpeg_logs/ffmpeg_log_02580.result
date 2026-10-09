@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unsupported audio channel layout for codec",
+    "resolution_steps": "Check the audio codec's supported channel layouts. Convert the audio to a compatible channel layout using '-ac' or '-filter:a channel_layout=' option.",
+    "log_file": "ffmpeg_log_02580.log"
+}

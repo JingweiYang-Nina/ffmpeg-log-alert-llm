@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Stream mapping error; no matching input stream found for output.",
+    "resolution_steps": "Verify that input streams exist for all specified output stream mappings (e.g., -map 0:v:0, -map 0:a:0). Adjust stream indices if necessary.",
+    "log_file": "ffmpeg_log_02664.log"
+}

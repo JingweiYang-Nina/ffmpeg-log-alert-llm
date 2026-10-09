@@ -1,0 +1,9 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 9 (Ubuntu 9.3.0-10ubuntu2~20.04)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input.mp4':
+  Duration: 00:00:10.00, start: 0.000000, bitrate: 1500 kb/s
+Output #0, mp4, to 'output.mp4':
+  Stream #0:0: Video: h264 (libx264), yuv420p, 1920x1080, q=-1, 25 fps
+frame=  250 fps= 20 q=28.0 Lsize=    1234kB time=00:00:10.00 bitrate= 987.2kbits/s speed=0.8x    
+video:1225kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.735160%
+PSNR_Y:38.25 PSNR_U:42.10 PSNR_V:41.80 PSNR_AVG:39.55

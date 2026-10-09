@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid argument or option 'pix_fmt_out' was used.",
+    "resolution_steps": "Review your FFmpeg command for typos or incorrect parameters. Refer to FFmpeg documentation for correct syntax and available options.",
+    "log_file": "ffmpeg_log_00040.log"
+}

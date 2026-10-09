@@ -1,0 +1,3 @@
+﻿[mp4 @ 0x...] Could not write header for file 'output.mp4': No space left on device
+Error writing trailer of output.mp4: No space left on device
+Conversion failed!

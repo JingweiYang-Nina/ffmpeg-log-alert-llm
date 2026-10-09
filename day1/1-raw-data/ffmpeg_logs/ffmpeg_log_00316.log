@@ -1,0 +1,5 @@
+﻿ffmpeg -i original.mov -c:v prores -profile:v 3 -threads 8 encoded.mov
+... (log lines) ...
+frame= 600 fps= 20 q=-1.0 Lsize=   80000kB time=00:00:30.00 bitrate=21333.3kbits/s speed=0.9x
+video:79000kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.2%
+PSNR y:40.01 u:43.05 v:42.87 average:41.98 min:30.00 max:45.00

@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105151-g7118182741-tessarade-git Copyright (c) 2000-2023 the FFmpeg developers
+... (log truncated)
+Error initializing filter 'scale_vaapi' with args 'w=1920:h=1080'
+Failed to configure output pad on Parsed_scale_vaapi_0

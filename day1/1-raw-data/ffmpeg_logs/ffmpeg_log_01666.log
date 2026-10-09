@@ -1,0 +1,12 @@
+﻿  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+Conversion failed: Invalid argument
+Stream mapping:
+  Stream #0:1(eng): Audio: aac (LC), 48000 Hz, stereo
+ffmpeg version N-105151-g7d363574c8 Copyright (c) 2000-2021 the FFmpeg developers
+Option 'vf' (set video filters) cannot be applied to input file 'input.mp4' -- you are trying to apply an input option to an output file or vice versa. Move this option before input files or after output files.
+frame= 71 fps=25 q=24.5 size=     521kB time=00:00:02.868 bitrate=1481.5kbits/s speed=0.18x
+Press [q] to stop, [?] for help
+  Duration: 00:01:00.00, start: 0.000000, bitrate: 2000 kb/s
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'source_525.mp4':
+  Stream #0:0(eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p, 1920x1080
+  Stream #0:1 -> #0:1 (aac (native) -> aac (aac_lc))

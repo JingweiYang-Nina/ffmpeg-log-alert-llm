@@ -1,0 +1,4 @@
+﻿ffmpeg -i non_existent.mkv -c:v copy output.mp4
+ffmpeg version 4.4.2 Copyright (c) 2000-2021 the FFmpeg developers
+...
+non_existent.mkv: No such file or directory

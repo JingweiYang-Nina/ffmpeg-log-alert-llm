@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+Input #0, pcm_s16le, from 'audio_only.pcm':
+  Duration: 00:00:05.00
+Output #0, aac, to 'audio.aac':
+size=     100kB time=00:00:05.00 bitrate=160.0kbits/s speed=1.00x
+PSNR=47.89 dB

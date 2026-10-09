@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid option 'direction' for 'transpose' filter.",
+    "resolution_steps": "The 'transpose' filter uses 'cclock', 'clock', 'hflip', 'vflip' or their numeric equivalents (0-7) for direction. Check FFmpeg filter documentation for correct syntax. For example, use 'transpose=1' or 'transpose=cclock' instead of 'direction=1'.",
+    "log_file": "ffmpeg_log_01815.log"
+}

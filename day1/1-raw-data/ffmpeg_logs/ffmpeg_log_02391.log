@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'source.mov':
+  Duration: 00:00:20.00, start: 0.000000, bitrate: 3000 kb/s
+Output #0, mp4, to 'target.mp4':
+frame=  599 fps= 85 q=-1.0 Lsize=   20000kB time=00:00:19.98 bitrate=8000.0kbits/s speed=2.50x
+PSNR Mean: Y:41.56 U:43.10 V:42.80 Avg:42.49 dB

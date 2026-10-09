@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Bitrate too high for specified profile.",
+    "resolution_steps": "Reduce the target video bitrate or switch to a higher H.264 profile (e.g., from Baseline to Main or High) if supported by the encoder and playback devices.",
+    "log_file": "ffmpeg_log_02742.log"
+}

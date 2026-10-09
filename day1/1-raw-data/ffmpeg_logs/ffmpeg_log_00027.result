@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Failed to initialize video encoder for output stream, possibly due to incorrect parameters or disabled codec.",
+    "resolution_steps": "Verify encoder parameters and ensure the encoder is properly configured and enabled within your FFmpeg build. Try simpler encoding settings.",
+    "log_file": "ffmpeg_log_00027.log"
+}

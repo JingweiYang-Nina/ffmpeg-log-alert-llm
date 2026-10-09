@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mp4 -b:v 50000k output.mp4
+ffmpeg version 4.4.2-0ubuntu0.22.04.1
+[libx264 @ 0x557fb40a0000] Too high bitrate for specified profile/level.
+Error initializing output stream 0:0 -- Error while opening encoder for input stream #0:0
+Conversion failed!

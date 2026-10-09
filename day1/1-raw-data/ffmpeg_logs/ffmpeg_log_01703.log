@@ -1,0 +1,12 @@
+﻿  Stream #0:1 -> #0:1 (aac (native) -> aac (aac_lc))
+Conversion failed: Buffer allocation failed
+frame= 614 fps=28 q=0.0 size=    2925kB time=00:00:24.580 bitrate=974.7kbits/s speed=0.19x
+ffmpeg version N-105151-g7d363574c8 Copyright (c) 2000-2021 the FFmpeg developers
+  Stream #0:0(eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p, 1920x1080
+[matroska @ 0x...] muxer does not support non seekable output
+  Duration: 00:01:00.00, start: 0.000000, bitrate: 2000 kb/s
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+Stream mapping:
+  Stream #0:1(eng): Audio: aac (LC), 48000 Hz, stereo
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'source_161.mp4':
+Press [q] to stop, [?] for help

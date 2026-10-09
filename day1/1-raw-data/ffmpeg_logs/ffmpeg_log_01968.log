@@ -1,0 +1,5 @@
+﻿ffmpeg version N-105001-g57b491a03a-lsf Copyright (c) 2000-2022 the FFmpeg developers
+built with gcc 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.1)
+Configuration: --prefix=/usr/local --enable-gpl --enable-libx264
+Output file #0 does not contain any stream
+Stream mapping '0:v:0' -> '0:v:0' failed. To ignore this error, add -map_err 0:v:0. To stop before trying to create output file, add -abort_on empty_output_stream.

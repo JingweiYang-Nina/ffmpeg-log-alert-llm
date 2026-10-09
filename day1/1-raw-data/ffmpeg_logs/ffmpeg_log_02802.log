@@ -1,0 +1,3 @@
+﻿ffmpeg -i input.mp4 -b:v invalid_bitrate output.mp4
+Option 'b:v' (video bitrate) requires a numerical value.
+Error parsing options for output file output.mp4.

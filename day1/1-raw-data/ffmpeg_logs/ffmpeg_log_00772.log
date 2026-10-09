@@ -1,0 +1,9 @@
+﻿ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 the FFmpeg developers
+... (input and output file details) ...
+Output #0, mp4, to 'cropped.mp4':
+  Metadata:
+    encoder         : Lavf58.76.100
+  Stream #0:0: Video: h264 (libx264), yuv420p, 960x540, 30 fps
+  Stream #0:1: Audio: aac, 48000 Hz, stereo
+frame= 300 fps= 30 q=24.0 size=   768kB time=00:00:10.00 bitrate=614.4kbits/s speed=1.0x
+[Parsed_psnr_0 @ 0x55e9c0b115c0] PSNR y:47.50 u:48.50 v:49.50 average:48.50 min:43.00 max:53.00

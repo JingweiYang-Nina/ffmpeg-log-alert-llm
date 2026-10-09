@@ -1,0 +1,8 @@
+﻿ffmpeg version N-105156-gd53f47e0a2-g10d650b2 Copyright (c) 2000-2022 The FFmpeg developers
+Input #0, mov,mp4, from 'video_4k.mp4':
+  Duration: 00:02:00.00, bitrate: 50000 kb/s
+Output #0, mp4, to 'video_1080p.mp4':
+  Duration: 00:02:00.00, bitrate: 8000 kb/s
+frame= 3600 fps= 29 q=-1.0 size=   120000kB time=00:02:00.00 bitrate=8000.0kbits/s speed=0.9x
+PSNR=40.88 dB
+video:118000kB audio:2000kB

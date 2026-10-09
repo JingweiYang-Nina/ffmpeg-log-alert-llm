@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Codec not enabled or missing library",
+    "resolution_steps": "Recompile FFmpeg with the required codec enabled (e.g., --enable-aac) or use a different, supported codec.",
+    "log_file": "ffmpeg_log_02571.log"
+}

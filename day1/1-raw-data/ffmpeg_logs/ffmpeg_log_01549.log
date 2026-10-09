@@ -1,0 +1,6 @@
+﻿ffmpeg version N-105151-g25e9d9e6f8 Copyright (c) 2000-2024 the FFmpeg developers
+Input #0, mov, from 'input.mp4':
+  Duration: 00:00:10.00
+Output #0, mp4, to 'output.mp4':
+[libx264 @ 0x...] height not divisible by 2 (1920x1081)
+Error initializing output stream 0:0 -- Error while opening encoder for output stream #0:0 - maybe incorrect parameters such as codec parameters (bit rate, frame rate, etc.) or container parameters?

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Could not find tag for codec h264 in stream #0, codec not currently supported in container",
+    "resolution_steps": "Review the ffmpeg log, correct command-line options, filters, or inputs, then retry transcoding.",
+    "log_file": "ffmpeg_log_02157.log"
+}

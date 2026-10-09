@@ -1,0 +1,7 @@
+﻿ffmpeg version N-105572-g0a0b1c2d3e Copyright (c) 2000-2023 the FFmpeg developers
+built with gcc 11.2.0 (GCC)
+...
+Error while opening encoder for input stream #0:0: Codec not compatible with container
+Could not write header for output file #0 (incorrect codec parameters ?): Invalid argument
+Conversion failed!
+PSNR=0.00 dB

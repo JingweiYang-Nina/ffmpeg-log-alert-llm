@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid output argument 'NUL'.",
+    "resolution_steps": "The output file name is invalid. Provide a proper filename with an appropriate extension (e.g., `output.mp4`).",
+    "log_file": "ffmpeg_log_02206.log"
+}

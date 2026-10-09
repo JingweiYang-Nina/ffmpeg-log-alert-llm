@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid output format for fragmented files.",
+    "resolution_steps": "Change the output container format to a supported one for fragmented output (e.g., mp4, ismv). Consult FFmpeg documentation for format compatibility.",
+    "log_file": "ffmpeg_log_02729.log"
+}

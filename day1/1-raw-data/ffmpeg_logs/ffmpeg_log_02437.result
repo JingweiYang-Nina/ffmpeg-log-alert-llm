@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Muxer error: Output duration too short or invalid header for format.",
+    "resolution_steps": "Ensure the input video is of sufficient length or contains enough data for the chosen output format. Check if the output format (e.g., MP4) is appropriate for the content, or if there's a minimum file size/duration requirement. Adjust codec parameters or try a different container.",
+    "log_file": "ffmpeg_log_02437.log"
+}

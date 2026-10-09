@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Stream mapping failed due to invalid stream selection",
+    "resolution_steps": "Verify input stream indices and ensure they exist. Use 'ffprobe' to inspect the input file's stream information.",
+    "log_file": "ffmpeg_log_01871.log"
+}

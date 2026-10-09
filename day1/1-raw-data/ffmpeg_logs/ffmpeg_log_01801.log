@@ -1,0 +1,5 @@
+﻿ffmpeg version 5.1.2-0ubuntu1 Copyright (c) 2000-2022 FFmpeg developers
+Input #0, mov, from 'input.mp4':
+Output #0, mp4, to 'output.mp4':
+Option 'acodec' (set audio codec) cannot be applied to output file #0 (incorrect codec or codec id): No such file or directory
+Error opening filters!

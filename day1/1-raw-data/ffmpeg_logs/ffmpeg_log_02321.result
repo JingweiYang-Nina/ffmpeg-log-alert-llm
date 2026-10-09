@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Attempted to map a non-existent audio stream (stream 0:a:1) from the input file.",
+    "resolution_steps": "Verify the stream index for audio is correct using 'ffprobe -show_streams input.mp4'. If there's only one audio track, it's typically '0:a:0' or just '0:a'. Adjust the '-map' option accordingly.",
+    "log_file": "ffmpeg_log_02321.log"
+}

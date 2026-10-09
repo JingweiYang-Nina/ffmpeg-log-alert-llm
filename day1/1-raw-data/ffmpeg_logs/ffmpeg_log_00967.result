@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Stream specifier ':0' in filtergraph description [0:v]scale=1280:-1[out] matches no streams.",
+    "resolution_steps": "Verify stream specifiers in filter graphs (e.g., ensure video stream is '0:v' if you intend to process video).",
+    "log_file": "ffmpeg_log_00967.log"
+}

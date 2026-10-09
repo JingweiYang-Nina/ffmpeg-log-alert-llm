@@ -1,0 +1,3 @@
+﻿ffmpeg -i input.mp4 -vcodec libx264 -preset non_existent_preset output.mp4
+[libx264 @ 0x...] Option 'preset' not found.
+Error initializing video encoder: Invalid argument.

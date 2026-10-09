@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "The specified FFmpeg filter 'unsupported_filter' is not found or unsupported.",
+    "resolution_steps": "Check the filter name for typos. Ensure FFmpeg was compiled with support for the desired filter or choose a different, supported filter. Update FFmpeg to the latest version.",
+    "log_file": "ffmpeg_log_02428.log"
+}

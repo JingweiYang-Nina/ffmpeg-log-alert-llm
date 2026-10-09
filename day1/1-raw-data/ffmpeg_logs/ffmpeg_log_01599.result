@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Failed to open output file: 'output_stream.m3u8' due to network error.",
+    "resolution_steps": "Check network connectivity, firewall settings, and ensure the target server/stream is available. Retry the operation.",
+    "log_file": "ffmpeg_log_01599.log"
+}

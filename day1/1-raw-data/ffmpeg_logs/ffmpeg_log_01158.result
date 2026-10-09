@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Codec 'vp9' is not supported by the MP4 container format.",
+    "resolution_steps": "Choose a different output container format that supports VP9 (e.g., WebM), or select a different video codec that is compatible with MP4 (e.g., H.264, H.265).",
+    "log_file": "ffmpeg_log_01158.log"
+}

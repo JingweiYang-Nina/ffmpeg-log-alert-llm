@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mp4 -vf crop=out_w:out_h:x:y,eq=brightness=0.1:saturation=1.5 output.mp4
+frame= 750 fps= 80 q=28.0 size= 1500kB time=00:00:30.00 bitrate=400.0kbits/s speed=3.0x 
+PSNR-HVS avg:37.99
+video:1500kB audio:300kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.130%
+Exiting normally, finished.

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown or unsupported encoder 'libx269'.",
+    "resolution_steps": "Use a supported video codec (e.g., libx264, vp9) for the output. Verify FFmpeg was compiled with support for the desired codec. Run 'ffmpeg -encoders' to list available encoders.",
+    "log_file": "ffmpeg_log_02401.log"
+}

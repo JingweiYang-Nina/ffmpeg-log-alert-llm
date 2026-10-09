@@ -1,0 +1,3 @@
+﻿frame=  350 fps= 27 q=28.0 Lsize=   3500kB time=00:00:14.00 bitrate=2000.0kbits/s speed=   1x
+[libx264 @ 0x2e3f4a5b6c7d] PSNR Mean Y:46.80 U:48.00 V:47.80 Avg:47.53 Global:47.53
+Successfully transcoded video.

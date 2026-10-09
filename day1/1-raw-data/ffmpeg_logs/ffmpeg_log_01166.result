@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Specified encoder 'libav1' is unknown or not supported by this FFmpeg build.",
+    "resolution_steps": "Check if 'libav1' (AV1 encoder) is correctly spelled, installed, and enabled in your FFmpeg build. Try using 'libsvtav1' or 'libaom-av1' if available, or choose a different codec.",
+    "log_file": "ffmpeg_log_01166.log"
+}

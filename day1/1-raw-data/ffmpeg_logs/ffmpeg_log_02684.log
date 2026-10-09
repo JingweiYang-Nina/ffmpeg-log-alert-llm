@@ -1,0 +1,2 @@
+﻿ffmpeg -i empty.mp4 output.mp4
+empty.mp4: End of file detected

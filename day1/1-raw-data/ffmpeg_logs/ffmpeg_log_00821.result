@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Corrupt input file",
+    "resolution_steps": "Check input file integrity. The source video file might be corrupted. Try re-encoding from original source if possible.",
+    "log_file": "ffmpeg_log_00821.log"
+}

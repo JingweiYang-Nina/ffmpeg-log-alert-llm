@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105151-g7118182741-tessarade-git Copyright (c) 2000-2023 the FFmpeg developers
+... (log truncated)
+Unrecognized option '-invalid_crf_param'.
+Error parsing global options: Invalid argument

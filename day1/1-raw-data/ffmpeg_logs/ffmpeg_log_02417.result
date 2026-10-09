@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Cannot allocate memory.",
+    "resolution_steps": "The system ran out of memory. Close other applications, reduce the FFmpeg process's memory footprint (e.g., lower resolution, bitrate, or complexity of filters), or add more RAM to your system.",
+    "log_file": "ffmpeg_log_02417.log"
+}

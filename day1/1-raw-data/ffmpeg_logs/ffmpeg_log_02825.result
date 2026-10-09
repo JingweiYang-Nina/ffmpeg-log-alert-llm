@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input/output error reading file.",
+    "resolution_steps": "Check if the input file is corrupted, inaccessible, or on a failing storage device.",
+    "log_file": "ffmpeg_log_02825.log"
+}

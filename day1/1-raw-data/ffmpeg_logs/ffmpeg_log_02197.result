@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid filter graph specified: 'scale=192x108_wrong'.",
+    "resolution_steps": "Correct the filter syntax. For scaling, use 'scale=width:height' without underscores or extra characters.",
+    "log_file": "ffmpeg_log_02197.log"
+}

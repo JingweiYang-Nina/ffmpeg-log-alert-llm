@@ -1,0 +1,4 @@
+﻿Option 'strict' not found. This is an old deprecated option.
+frame=  100 fps= 20 q=-1.0 Lsize=   12000kB time=00:00:04.00 bitrate=24000.0kbits/s speed=0.8x
+video:11980kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.166667%
+[libvpx-vp9 @ 0x5560b2400] PSNR Y:50.05 U:52.10 V:53.45 Avg:51.30 Global:51.40

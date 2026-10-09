@@ -1,0 +1,3 @@
+﻿ffmpeg -i input.mp4 -r abc output.mp4
+[AVOption] No such option: 'abc'.
+Option 'abc' not found.

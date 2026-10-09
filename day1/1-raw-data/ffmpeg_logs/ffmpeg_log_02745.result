@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid H.264 data (Non-existing PPS referenced, decode_slice_header error).",
+    "resolution_steps": "The input video file is likely corrupted or has malformed H.264 streams. Try repairing the source file or using a different, uncorrupted input.",
+    "log_file": "ffmpeg_log_02745.log"
+}

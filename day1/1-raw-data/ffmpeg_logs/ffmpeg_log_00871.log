@@ -1,0 +1,4 @@
+﻿ffmpeg -i tcp://192.168.1.100:1234 -c:v copy output.mp4
+ffmpeg version 4.4.2-0ubuntu0.22.04.1
+[tcp @ 0x557fb40a0000] Connection refused
+tcp://192.168.1.100:1234: Connection refused

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Video width (1919) is not divisible by 2, which is required by H.264 encoder.",
+    "resolution_steps": "Adjust the output video width or height to be an even number. For example, change 1919x1080 to 1920x1080.",
+    "log_file": "ffmpeg_log_01108.log"
+}

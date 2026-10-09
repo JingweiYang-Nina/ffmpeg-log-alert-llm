@@ -1,0 +1,4 @@
+﻿ffmpeg version 4.3.1
+[AVHWDeviceContext @ 0x55cc7076d100] Failed to create VDPAU context: 1
+Error initializing filter 'hwupload_cuda': Input requires a hardware accelerated upload, but no hardware acceleration found or initialized.
+Conversion failed!

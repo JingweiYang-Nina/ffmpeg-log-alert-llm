@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Failed to allocate or initialize a bitstream filter context.",
+    "resolution_steps": "This could indicate a memory issue or an unsupported bitstream filter for the given codec. Try updating FFmpeg, reducing complexity, or disabling specific bitstream filters if used.",
+    "log_file": "ffmpeg_log_01505.log"
+}

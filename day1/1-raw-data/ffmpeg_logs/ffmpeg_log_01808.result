@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Specified video filter 'non_existent_filter' does not exist or is not recognized.",
+    "resolution_steps": "Check the filter name for typos. Verify that your FFmpeg build includes support for the desired filter. Use 'ffmpeg -filters' to list available filters.",
+    "log_file": "ffmpeg_log_01808.log"
+}

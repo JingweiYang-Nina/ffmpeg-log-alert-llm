@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Error configuring stream mapping or filters, possibly due to missing or mismatched audio streams.",
+    "resolution_steps": "Verify the stream mapping in your FFmpeg command. Ensure input streams are available and compatible with the requested output streams and filters. Check for typos in stream specifiers (e.g., `-map 0:v:0`).",
+    "log_file": "ffmpeg_log_00396.log"
+}

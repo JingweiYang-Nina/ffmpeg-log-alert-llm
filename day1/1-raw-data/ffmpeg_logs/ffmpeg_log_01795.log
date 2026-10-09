@@ -1,0 +1,6 @@
+﻿ffmpeg version 5.1.2-0ubuntu1 Copyright (c) 2000-2022 FFmpeg developers
+Input #0, mov, from 'test.mp4':
+Output #0, mpeg, to 'test.mpg':
+frame=  250 fps= 25 q=-1.0 Lsize=   2500kB time=00:00:10.00 bitrate=2048.0kbits/s
+PSNR average: 49.00 dB
+Operation successful.

@@ -1,0 +1,16 @@
+﻿ffmpeg -i input.mp4 -c:v libvpx-vp9 -b:v 2M -row-mt 1 -cpu-used 5 output.webm
+ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 FFmpeg developers
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input.mp4':
+  Duration: 00:00:30.00, start: 0.000000, bitrate: 2000 kb/s
+    Stream #0:0: Video: h264 (High), yuv420p, 1920x1080, 29.97 fps
+Output #0, webm, to 'output.webm':
+  Metadata:
+    encoder         : Lavf58.76.100
+    Stream #0:0: Video: vp9 (libvpx-vp9), yuv420p, 1920x1080, q=-1--1, 2000 kb/s, 29.97 fps
+    Stream #0:1: Audio: opus, 48000 Hz, stereo, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> libvpx-vp9 (libvpx))
+  Stream #0:1 -> #0:1 (aac (native) -> opus (libopus))
+Press [q] to stop, [?] for help.
+frame=  899 fps= 20 q=0.0 size=   7500kB time=00:00:29.97 bitrate=2000.1kbits/s speed=0.666x
+video:7200kB audio:300kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%

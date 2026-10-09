@@ -1,0 +1,3 @@
+﻿frame=  200 fps= 26 q=28.0 Lsize=   2000kB time=00:00:08.00 bitrate=2000.0kbits/s speed=   1x
+[libx264 @ 0x7a8b9c0d1e2f] PSNR Mean Y:36.90 U:39.00 V:38.80 Avg:38.23 Global:38.23
+Transcoding successful.

@@ -1,0 +1,8 @@
+﻿ffmpeg version N-105151-g741697e884-tessarade-git Copyright (c) 2000-2022 the FFmpeg developers
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/path/to/input.mp4':
+  Duration: 00:00:05.00, start: 0.000000, bitrate: 500 kb/s
+    Stream #0:0: Video: h264, 640x360
+Output #0, mp4, to '/path/to/output.mp4':
+    Stream #0:0: Video: h264 (libx264), 640x360
+Error while encoding video: Cannot allocate memory
+Error encoding the video frame.

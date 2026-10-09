@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Failed to initialize scaling context, possibly due to zero input dimensions.",
+    "resolution_steps": "1. Ensure input video has valid dimensions (not 0). 2. Check the input file integrity. 3. Review any scaling filters to ensure valid parameters are passed.",
+    "log_file": "ffmpeg_log_02707.log"
+}

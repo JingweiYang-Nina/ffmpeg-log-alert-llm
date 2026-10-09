@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Bitrate too low for specified resolution or quality settings.",
+    "resolution_steps": "Increase the output bitrate (e.g., using `-b:v` option) to accommodate the video resolution and maintain quality, or lower the resolution.",
+    "log_file": "ffmpeg_log_01571.log"
+}

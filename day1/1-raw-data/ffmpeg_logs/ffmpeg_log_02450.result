@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Decoding error: H.264 stream appears to be corrupted or malformed (missing sequence header).",
+    "resolution_steps": "The input H.264 stream is malformed. Verify the integrity of the input file. This can happen with incomplete downloads or corrupted recordings. Try playing the file in a robust media player or attempt to fix it with other tools.",
+    "log_file": "ffmpeg_log_02450.log"
+}

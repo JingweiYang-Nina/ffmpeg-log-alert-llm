@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid argument specified for scale filter: '1920x1080'.",
+    "resolution_steps": "Check filter parameters for correct syntax and valid values, e.g., 'scale=w=1280:h=720'.",
+    "log_file": "ffmpeg_log_00434.log"
+}

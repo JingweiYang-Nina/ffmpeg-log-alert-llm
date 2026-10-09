@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Codec 'aac' is not supported by the FLV muxer.",
+    "resolution_steps": "Choose a codec supported by the FLV container (e.g., MP3 for audio, FLV1/VP6 for video) or change the output container format to one that supports AAC (e.g., MP4, MKV).",
+    "log_file": "ffmpeg_log_01626.log"
+}

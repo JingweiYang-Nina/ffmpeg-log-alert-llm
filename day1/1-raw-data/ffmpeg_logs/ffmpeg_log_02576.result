@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Hardware acceleration device initialization failed",
+    "resolution_steps": "Check if your graphics drivers are up-to-date and if hardware acceleration (VAAPI/CUDA/NVENC) is correctly configured and supported on your system. Try disabling hardware acceleration if issues persist.",
+    "log_file": "ffmpeg_log_02576.log"
+}

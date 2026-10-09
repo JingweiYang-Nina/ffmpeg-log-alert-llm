@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown or invalid option",
+    "resolution_steps": "Review the FFmpeg command line for typos in options. Consult FFmpeg documentation for valid options and their usage.",
+    "log_file": "ffmpeg_log_02567.log"
+}

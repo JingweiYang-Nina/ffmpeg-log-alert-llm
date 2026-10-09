@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Failed to initialize the 'libx264' encoder: invalid profile.",
+    "resolution_steps": "Check the FFmpeg command for any invalid or conflicting parameters related to the 'libx264' encoder. Ensure the system has sufficient resources (e.g., memory) and that the encoder supports the requested profile/settings.",
+    "log_file": "ffmpeg_log_00388.log"
+}

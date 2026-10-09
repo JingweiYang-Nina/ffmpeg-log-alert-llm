@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Audio encoder channel layout not supported.",
+    "resolution_steps": "Check the audio encoder documentation for supported channel layouts. Adjust the channel layout or choose a different audio encoder.",
+    "log_file": "ffmpeg_log_01196.log"
+}

@@ -1,0 +1,6 @@
+﻿ffmpeg version N-105232-g5968f9a2b0 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'corrupted.mp4':
+[h264 @ 0x55b7f23c0200] Invalid NAL unit size (12345 > 8960).
+[h264 @ 0x55b7f23c0200] Error splitting the input into NAL units.
+Error while decoding stream #0:0: Invalid data found when processing input
+Conversion failed!

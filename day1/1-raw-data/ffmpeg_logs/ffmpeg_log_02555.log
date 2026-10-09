@@ -1,0 +1,6 @@
+﻿ffmpeg version 5.0.1 Copyright (c) 2000-2022 Fabrice Bellard et al.
+  Output #0, mov, to 'output_2.mov':
+    Stream #0:0: Video: h265 (libx265), yuv420p(progressive), 1280x720 [SAR 1:1 DAR 16:9], q=-1, 30 fps, 15360 tbn, 30 tbc
+  frame=  900 fps= 45 q=-1.0 Lsize=   25000kB time=00:00:30.00 bitrate=6666.7kbits/s speed= 1.5x    
+video:24500kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.041%
+PSNR=38.99 dB

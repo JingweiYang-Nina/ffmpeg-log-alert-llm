@@ -1,0 +1,12 @@
+﻿ffmpeg version n5.1.2 Copyright (c) 2000-2022 the FFmpeg developers
+  built with gcc 11.2.0 (GCC)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input_source.mp4':
+  Duration: 00:00:10.00, start: 0.000000, bitrate: 1000 kb/s
+    Stream #0:0: Video: h264, 1920x1080, 25 fps
+Output #0, mp4, to 'output_target.mp4':
+  Metadata:
+    encoder         : Lavf59.16.100
+Device creation failed: -100
+[h264_cuvid @ 0x5608c02c9180] Failed to create CUDA context.
+Error while opening decoder for input stream #0:0 : Generic error in an external library
+Conversion failed!

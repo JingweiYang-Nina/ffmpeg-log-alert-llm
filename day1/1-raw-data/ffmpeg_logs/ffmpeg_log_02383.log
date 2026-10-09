@@ -1,0 +1,4 @@
+﻿ffmpeg version 4.3.1
+[AVIOContext @ 0x55cc7076d100] Broken pipe
+Error writing trailer of output.mp4: Broken pipe
+Conversion failed!

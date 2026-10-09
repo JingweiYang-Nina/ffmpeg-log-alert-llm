@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105009-g23588e00e0-20231023 Copyright (c) 2000-2023 the FFmpeg developers
+Unknown encoder 'libopus'
+Error initializing output stream 0:1 -- Error while opening encoder for output stream #0:1 - maybe incorrect parameters
+Conversion failed!

@@ -1,0 +1,4 @@
+﻿ffmpeg -i video.mkv -acodec aac -vcodec h264 output.mp4
+[mp4 @ 0x55c3c0a54f00] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 67324 >= 67324
+AVIO: Error writing packet.
+Exiting due to error.

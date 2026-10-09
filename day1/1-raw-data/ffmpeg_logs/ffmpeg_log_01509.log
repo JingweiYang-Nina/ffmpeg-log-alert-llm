@@ -1,0 +1,3 @@
+﻿ffmpeg version N-105151-g741697e884-tessarade-git Copyright (c) 2000-2022 the FFmpeg developers
+[http @ 0x55555562d540] HTTP error 500 Internal Server Error
+http://server.example.com/stream.flv: Server returned 5XX status code for url http://server.example.com/stream.flv

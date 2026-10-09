@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mpegts, from 'stream.ts':
+  Duration: 00:00:20.00, start: 1.230000, bitrate: 3000 kb/s
+Output #0, flv, to 'output.flv':
+  Stream #0:0: Video: h264, yuv420p, 640x480, 24 fps
+frame=  480 fps= 22 q=28.0 Lsize=    2800kB time=00:00:20.00 bitrate=1120.0kbits/s speed=0.9x

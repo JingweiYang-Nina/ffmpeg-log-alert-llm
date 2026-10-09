@@ -1,0 +1,8 @@
+﻿ffmpeg version N-105151-g030f250cd8-tessaract Copyright (c) 2000-2021 the FFmpeg developers
+built on Aug 18 2021 16:34:00 with gcc 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04)
+configuration: --enable-gpl --enable-libx264 --enable-libx265 --enable-libvpx --enable-libopus --enable-libfdk-aac --enable-libmp3lame
+[AVIOContext @ 0x55b1f021e800] Failed to open '/root/restricted/output.mp4'
+[mp4 @ 0x55b1f021e800] Could not open '/root/restricted/output.mp4': Permission denied
+Error opening output file /root/restricted/output.mp4.
+Error selecting an output stream.
+Conversion failed!

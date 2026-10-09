@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Failed to open or find the subtitle file 'non_existent.srt' specified in the 'subtitles' filter.",
+    "resolution_steps": "Verify the subtitle file path and filename are correct. Ensure the file exists and FFmpeg has read permissions. Place the subtitle file in the same directory as the input video or provide an absolute path.",
+    "log_file": "ffmpeg_log_02311.log"
+}

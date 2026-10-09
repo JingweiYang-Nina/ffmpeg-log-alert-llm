@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 the FFmpeg developers
+[libx265 @ 0x555e2d6b3500] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX AVX2 FMA3 LZCNT BMI1 BMI2
+[libx265 @ 0x555e2d6b3500] x265 [info]: frame I:   1, Avg QP:25.00  kb/s: 186.20
+[libx265 @ 0x555e2d6b3500] x265 [info]: frame P:  60, Avg QP:28.00  kb/s: 15.65
+[libx265 @ 0x555e2d6b3500] x265 [info]: global mean PSNR: 38.75 dB
+video:1024kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.010214%

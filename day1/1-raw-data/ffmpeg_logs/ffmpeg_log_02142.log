@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.3.1-2020-11-09-git Copyright (c) 2000-2020 the FFmpeg developers
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'source_video.mp4':
+Output #0, mp4, to 'output_video.mp4':
+frame=  250 fps= 25 q=28.0 size=   2208kB time=00:00:10.00 bitrate=1800.0kbits/s speed=1.0x
+PSNR=42.05 dB
+video:2000kB audio:208kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000%

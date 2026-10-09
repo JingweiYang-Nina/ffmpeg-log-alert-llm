@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mkv, from 'source.mkv':
+Output #0, mkv, to 'lossless.mkv':
+frame=  600 fps= 30 q=1.0 Lsize=   8900kB time=00:00:20.00 bitrate=3560.0kbits/s speed=1.0x
+PSNR_Y:49.98 PSNR_U:50.00 PSNR_V:49.99 PSNR_AVG:49.99

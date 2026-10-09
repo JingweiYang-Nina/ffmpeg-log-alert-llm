@@ -1,0 +1,3 @@
+﻿ffmpeg -i input.mp4 -vf scale=4096x4096 output.mp4
+[Parsed_scale_0 @ 0x12345678] Cannot allocate memory for output frame
+Error initializing complex filters.

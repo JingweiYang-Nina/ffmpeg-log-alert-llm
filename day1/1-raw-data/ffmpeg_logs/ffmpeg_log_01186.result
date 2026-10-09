@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid filter parameter for scaling.",
+    "resolution_steps": "Review FFmpeg documentation for correct filter syntax and parameter values. Correct the invalid option (e.g., 'abc' for width).",
+    "log_file": "ffmpeg_log_01186.log"
+}

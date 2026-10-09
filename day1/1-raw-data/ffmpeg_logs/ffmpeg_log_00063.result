@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid parameter or syntax in FFmpeg command: 'fps=abc'. Invalid frame rate value.",
+    "resolution_steps": "Provide a valid numerical value for frame rate (e.g., `-r 30`).",
+    "log_file": "ffmpeg_log_00063.log"
+}

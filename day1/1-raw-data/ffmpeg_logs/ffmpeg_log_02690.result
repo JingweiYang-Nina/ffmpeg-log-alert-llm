@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown or unsupported encoder 'libx265_unsupported'.",
+    "resolution_steps": "1. Check the FFmpeg build for available encoders (ffmpeg -encoders). 2. Ensure the encoder name is spelled correctly. 3. Install necessary libraries or recompile FFmpeg with support for the desired codec.",
+    "log_file": "ffmpeg_log_02690.log"
+}

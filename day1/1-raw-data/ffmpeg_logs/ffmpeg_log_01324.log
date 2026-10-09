@@ -1,0 +1,20 @@
+﻿ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 FFmpeg developers
+built with gcc 11 (Ubuntu 11.2.0-19ubuntu1)
+configuration: --prefix=/usr --extra-version=0ubuntu0.22.04.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopengamepads --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librabbitmq --enable-libsvtav1 --enable-libsoxr --enable-libspeex --enable-libsrt --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-libzmq --enable-libzvbi --enable-lv2 --enable-omx --enable-openal --enable-opengl --enable-sndio --enable-libaribb24 --enable-libdavs2 --enable-libiec61883 --enable-libmfx --enable-libvmaf --enable-libvkc --enable-libshaderc --enable-libplacebo --disable-libjack --disable-libopencore-amrnb --disable-libopencore-amrwb --disable-libmdl --disable-libvo-amrwbenc
+libavutil      56. 70.100 / 56. 70.100
+libavcodec     58.134.100 / 58.134.100
+libavformat    58. 76.100 / 58. 76.100
+libavdevice    58. 13.100 / 58. 13.100
+libavfilter     7.110.100 /  7.110.100
+libswscale      5.  9.100 /  5.  9.100
+libswresample   3.  9.100 /  3.  9.100
+libpostproc    55.  9.100 / 55.  9.100
+Input #0, mov,mp4,m4a,3gp, from 'video_22.mp4':
+  Duration: 00:00:10.00, start: 0.000000, bitrate: 2000 kb/s
+    Stream #0:0(eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 1920x1080, 29.97 fps
+Output #0, mp4, to 'output_22.mp4':
+  Stream #0:0: Video: h264 (libx264), yuv420p, 1920x1080, q=-1, 25 fps
+frame=  299 fps= 28 q=28.0 Lsize=    1234kB time=00:00:09.97 bitrate=1016.9kbits/s speed=0.92x
+video:1230kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.325608%
+[Parsed_psnr_0 @ 0x56a427783ee0] PSNR average:47.36 max:52.36
+Conversion finished successfully.

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Target duration exceeded due to too many frames.",
+    "resolution_steps": "Check the specified duration or frame rate settings. Ensure they accurately match the input video properties or adjust them to prevent over-encoding. Verify `-t` or `-ss` options.",
+    "log_file": "ffmpeg_log_00670.log"
+}

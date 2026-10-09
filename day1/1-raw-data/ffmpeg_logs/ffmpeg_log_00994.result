@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Hardware acceleration failure.",
+    "resolution_steps": "Update graphics drivers to the latest version. Verify FFmpeg was compiled with hardware acceleration support. Ensure the hardware is correctly configured and not in use by other applications.",
+    "log_file": "ffmpeg_log_00994.log"
+}

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Output file extension does not correspond to a known or supported format, or the format is explicitly invalid.",
+    "resolution_steps": "Use a standard and supported file extension for the output (e.g., .mp4, .mkv, .webm). Alternatively, specify the output format explicitly with '-f format_name'.",
+    "log_file": "ffmpeg_log_01511.log"
+}

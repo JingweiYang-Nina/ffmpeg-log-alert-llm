@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Output video dimensions are not divisible by 2 or incompatible pixel format.",
+    "resolution_steps": "Ensure video dimensions (width and height) are even numbers, which is often a requirement for video codecs like H.264 and pixel formats like YUV420P. Use a scaling filter to adjust if necessary, e.g., `-vf scale=w='if(mod(iw,2),iw-1,iw)':h='if(mod(ih,2),ih-1,ih)'` or set `-pix_fmt yuv420p`.",
+    "log_file": "ffmpeg_log_02440.log"
+}

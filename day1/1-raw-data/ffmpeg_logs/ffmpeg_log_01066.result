@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "The input file was not found. File: 'source_vid.mov'.",
+    "resolution_steps": "Verify the input file path and ensure it exists and is accessible.",
+    "log_file": "ffmpeg_log_01066.log"
+}

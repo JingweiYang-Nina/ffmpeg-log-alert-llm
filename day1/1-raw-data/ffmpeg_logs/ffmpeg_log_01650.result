@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "No space left on device when trying to write to 'output_large_file.mp4'.",
+    "resolution_steps": "Verify available disk space on the target partition. Free up space or choose a different output location with enough capacity.",
+    "log_file": "ffmpeg_log_01650.log"
+}

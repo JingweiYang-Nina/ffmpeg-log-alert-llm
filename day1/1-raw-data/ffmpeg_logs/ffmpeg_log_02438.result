@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Hardware acceleration (CUDA/NVDEC) initialization failed; potentially missing drivers or incompatible setup.",
+    "resolution_steps": "Ensure NVIDIA drivers are correctly installed and updated. Verify that FFmpeg was compiled with CUDA/NVDEC support. If hardware acceleration is not critical, try disabling it with `-hwaccel none` or removing related flags from the command.",
+    "log_file": "ffmpeg_log_02438.log"
+}

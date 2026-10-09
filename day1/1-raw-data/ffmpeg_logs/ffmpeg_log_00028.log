@@ -1,0 +1,11 @@
+﻿ffmpeg version N-random-g81a4d33a699 shared. Build: gcc-latest.
+Input #0, mov,mp4, from 'input_video_43.mp4':
+  Duration: 00:00:04.00, start: 0.000000, bitrate: 440 kb/s
+    Stream #0:0: Video: h264 (Main), yuv420p, 1920x1080, 36 fps
+    Stream #0:1: Audio: aac, 48000 Hz, stereo
+[libx264 @ 0x5a2307136018d96d] PSNR Y:37.40 U:42.50 V:48.33 Avg:42.74 Global:43.76
+Output #0, mp4, to 'output_video_73.mp4':
+  Stream #0:0: Video: h264 (H.264 Main)
+  Stream #0:1: Audio: aac
+frame=  144 fps= 27 q=20.0 size=     25316kB time=00:00:04.00 bitrate=50632kbits/s speed=1.5x
+video:22784kB audio:2531kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000%

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid option or syntax error in filter 'scale'.",
+    "resolution_steps": "Check FFmpeg documentation for correct syntax and available options for the specified filter/command. Ensure parameters are in the correct format.",
+    "log_file": "ffmpeg_log_01578.log"
+}

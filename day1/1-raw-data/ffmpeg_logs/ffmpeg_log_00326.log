@@ -1,0 +1,4 @@
+﻿ffmpeg -i raw_capture.yuv -s 1920x1080 -pix_fmt yuv420p -c:v libx264 -crf 18 final.mp4
+... (log lines) ...
+frame= 1500 fps= 50 q=-1.0 Lsize=   40000kB time=00:00:30.00 bitrate=10666.6kbits/s speed=1.0x
+PSNR y:37.55 u:40.10 v:39.88 average:38.99 min:30.00 max:44.00

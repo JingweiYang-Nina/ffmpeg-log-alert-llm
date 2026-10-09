@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid data found when processing input file 'corrupt_video.avi'.",
+    "resolution_steps": "The input video file might be corrupt or incomplete. Try re-downloading or re-acquiring the file. Use `ffprobe` to inspect its integrity.",
+    "log_file": "ffmpeg_log_02200.log"
+}

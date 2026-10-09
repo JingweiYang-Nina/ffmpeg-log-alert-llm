@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Protocol 'rtmp://invalid_server/live/stream' not found or not supported.",
+    "resolution_steps": "Check FFmpeg's supported protocols using 'ffmpeg -protocols'. Ensure the FFmpeg build includes support for the required protocol (e.g., RTMP). Verify the protocol URL is correctly formatted and the server is reachable.",
+    "log_file": "ffmpeg_log_00227.log"
+}

@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mp4 -filter_complex "[0:v]overlay=10:10[v]" -map '[v]' -map 0:a output_overlay.mp4
+ffmpeg version 4.4 Copyright (c) 2000-2021 Fabrice Bellard et al.
+[AVFilterGraph @ 0x...] No such filter: 'overlay'
+Error opening filters!
+Conversion failed!

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Muxer does not support non-seekable output or incorrect codec parameters for output file.",
+    "resolution_steps": "Review the ffmpeg log, correct command-line options, filters, or inputs, then retry transcoding.",
+    "log_file": "ffmpeg_log_01464.log"
+}

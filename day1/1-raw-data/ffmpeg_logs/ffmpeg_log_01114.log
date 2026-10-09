@@ -1,0 +1,3 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 Fabrice Bellard et al.
+[aac @ 0x55d045d62980] The encoder 'aac' is experimental but experimental codecs are not enabled, add '-strict -2' or '-strict experimental' to enable it.
+Error initializing output stream 0:1 -- Error while opening encoder for output stream #0:1 - maybe incorrect parameters such as codec parameters (bitrate, 3d, etc.) or container parameters?

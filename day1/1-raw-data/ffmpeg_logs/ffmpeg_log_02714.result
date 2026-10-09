@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input file stream header is missing or corrupted for MJPEG codec.",
+    "resolution_steps": "1. Verify the integrity of the input video file. 2. Try using '-err_detect ignore_err' or '-fflags +discardcorrupt' for problematic files (might result in visual artifacts). 3. Re-encode the source with a different tool if possible.",
+    "log_file": "ffmpeg_log_02714.log"
+}

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Failed to initialize video filter 'crop' with invalid parameters.",
+    "resolution_steps": "Review the filter parameters for correctness. Ensure values are valid numbers and within expected ranges for the 'crop' filter.",
+    "log_file": "ffmpeg_log_01580.log"
+}

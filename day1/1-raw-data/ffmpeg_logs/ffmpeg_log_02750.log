@@ -1,0 +1,7 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 9 (Ubuntu 9.3.0-17ubuntu1~20.04)
+[h264 @ 0x55a3311f9dc0] non-existing PPS 6 referenced
+[h264 @ 0x55a3311f9dc0] decode_slice_header error
+[h264 @ 0x55a3311f9dc0] no frame!
+Error while decoding stream #0:0: Invalid data found when processing input
+Error loading file 'corrupt_source_03.mp4': Invalid data

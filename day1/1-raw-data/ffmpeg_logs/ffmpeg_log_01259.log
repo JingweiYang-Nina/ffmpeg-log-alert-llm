@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105009-g1e0e8e606b Copyright (c) 2000-2022 the FFmpeg developers
+  built with gcc 11.2.0 (Rev4, Built by MSYS2)
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x559e871790c0] Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+input_file_nonexistent.mp4: No such file or directory

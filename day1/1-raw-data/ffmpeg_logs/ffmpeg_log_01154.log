@@ -1,0 +1,5 @@
+﻿ffmpeg version N-105156-gd58b5e905c Copyright (c) 2000-2022 The FFmpeg developers
+Input #0, mov, from 'input.mp4':
+  Duration: 00:00:05.00, start: 0.000000, bitrate: 1000 kb/s
+[h264 @ 0x...] dimensions not aligned to 2: 1281x720
+Error initializing output stream 0:0 -- Error while opening encoder for output stream #0:0 - maybe incorrect parameters such as bitrate, rate, width or height

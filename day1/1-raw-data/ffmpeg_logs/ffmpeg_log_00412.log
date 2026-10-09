@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mp3, from 'audio.mp3':
+  Duration: 00:00:03.00, bitrate: 128 kb/s
+Output #0, wav, to 'output.wav':
+  Stream #0:0: Audio: pcm_s16le, 44100 Hz, stereo, s16, 1411 kb/s
+size=     529kB time=00:00:03.00 bitrate=1411.2kbits/s speed=1.5x

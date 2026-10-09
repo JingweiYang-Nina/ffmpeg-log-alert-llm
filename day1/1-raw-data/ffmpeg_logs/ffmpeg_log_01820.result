@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unsupported codec",
+    "resolution_steps": "Install the required codec or choose a supported output format/codec (e.g., libx264).",
+    "log_file": "ffmpeg_log_01820.log"
+}

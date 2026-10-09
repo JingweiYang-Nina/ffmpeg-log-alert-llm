@@ -1,0 +1,5 @@
+﻿ffmpeg -i video_with_audio.mp4 -c:v libx264 -c:a aac -b:a 192k output.mp4
+[aac @ 0x...] The encoder 'aac' is experimental but experimental codecs are too new or not linked to this build. Add '-strict -2' if you want to use it.
+... (log lines indicating successful video/audio processing) ...
+frame= 900 fps= 30 q=-1.0 Lsize=   40000kB time=00:00:30.00 bitrate=10666.6kbits/s speed=1.0x
+PSNR y:43.50 u:46.00 v:45.80 average:44.98 min:34.00 max:49.00

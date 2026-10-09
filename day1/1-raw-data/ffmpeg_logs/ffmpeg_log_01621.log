@@ -1,0 +1,4 @@
+﻿ffmpeg -i movie.mkv -c:v libx264 -preset fast -crf 25 output.mp4
+ffmpeg version 4.4.2 Copyright (c) 2000-2021 the FFmpeg developers
+...
+Output file #0 does not contain any stream

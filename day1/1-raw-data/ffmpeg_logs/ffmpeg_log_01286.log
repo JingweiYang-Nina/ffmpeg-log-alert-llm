@@ -1,0 +1,14 @@
+﻿ffmpeg version N-105009-g1e0e8e606b Copyright (c) 2000-2022 the FFmpeg developers
+  built with gcc 11.2.0 (Rev4, Built by MSYS2)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input_1.mp4':
+  Metadata:
+    encoder         : Lavf59.27.100
+  Duration: 00:00:10.00, start: 0.000000, bitrate: 2000 kb/s
+    Stream #0:0: Video: h264, 1920x1080, 25 fps
+Output #0, mp4, to 'output_4.mp4':
+  Stream #0:0: Video: h264, 1280x720, 25 fps
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+Press [q] to stop, [?] for help
+frame=  250 fps= 50 q=-1.0 Lsize=   4424kB time=00:00:10.00 bitrate=2447.0kbits/s speed=2.1x
+video:4334kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.965%

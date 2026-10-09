@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "RTMP connection rejected or refused by the server.",
+    "resolution_steps": "Verify the RTMP URL and stream key. Check the RTMP server's status, configuration, and any authentication requirements. Ensure no firewall is blocking the connection.",
+    "log_file": "ffmpeg_log_01504.log"
+}

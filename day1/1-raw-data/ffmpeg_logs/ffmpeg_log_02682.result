@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "NVENC initialization failed, possibly due to insufficient GPU memory.",
+    "resolution_steps": "Close other GPU-intensive applications. Update GPU drivers. Try reducing video resolution or bitrate, or fall back to software encoding (libx264/libx265) if the issue persists.",
+    "log_file": "ffmpeg_log_02682.log"
+}

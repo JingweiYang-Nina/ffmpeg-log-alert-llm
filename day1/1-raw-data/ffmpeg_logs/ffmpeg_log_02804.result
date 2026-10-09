@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "At least one input file must be specified. Error opening filters!",
+    "resolution_steps": "You must specify an input file using the `-i` option before any output options. For example: `ffmpeg -i input.mp4 output.mp4`.",
+    "log_file": "ffmpeg_log_02804.log"
+}

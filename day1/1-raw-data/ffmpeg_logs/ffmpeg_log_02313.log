@@ -1,0 +1,3 @@
+﻿ffmpeg -i input.mp4 -ss 1000 -to 1005 -c:v copy -c:a copy output_long_seek.mp4
+ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 FFmpeg developers
+input.mp4: End of file while reading data

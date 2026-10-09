@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown or unsupported encoder specified.",
+    "resolution_steps": "Check the FFmpeg documentation for supported encoders. Use a valid encoder like 'libx264', 'libx265', or 'copy'.",
+    "log_file": "ffmpeg_log_02660.log"
+}

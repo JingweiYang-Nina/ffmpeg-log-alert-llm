@@ -1,0 +1,15 @@
+﻿ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 11 (Ubuntu 11.2.0-19ubuntu1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input_video.mp4':
+  Duration: 00:00:30.00, start: 0.000000, bitrate: 5000 kb/s
+    Stream #0:0(eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1920x1080 [SAR 1:1 DAR 16:9], 4995 kb/s, 29.97 fps
+Output #0, mp4, to 'output_video.mp4':
+  Metadata:
+    encoder         : Lavf58.76.100
+    Stream #0:0(eng): Video: h264 (libx264) (avc1 / 0x31637661), yuv420p(tv, bt709), 1920x1080 [SAR 1:1 DAR 16:9], q=-1, 2000 kb/s, 29.97 fps
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+Press [q] to stop, [?] for help
+frame=  900 fps= 30 q=-1.0 Lsize=   75000kB time=00:00:30.00 bitrate=20000.0kbits/s speed=1.0x
+video:74000kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.35%
+PSNR y:45.32 u:48.11 v:47.90 average:46.78 min:30.00 max:50.00

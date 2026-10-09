@@ -1,0 +1,5 @@
+﻿ffmpeg version N-99999-gabcdefg Copyright (c) 2000-2023 the FFmpeg developers
+  built with gcc 10 (Ubuntu 10.3.0-1ubuntu1~20.04)
+Output #0, mp4, to 'bad_path/output.mp4':
+[out @ 0x555555555555] Error opening file 'bad_path/output.mp4': Permission denied
+Permission denied

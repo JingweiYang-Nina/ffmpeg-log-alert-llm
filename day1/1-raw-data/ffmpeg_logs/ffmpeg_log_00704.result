@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "relative/path/to/file.flv: No such file or directory",
+    "resolution_steps": "The input file 'relative/path/to/file.flv' could not be found. Verify the file path and name, and ensure the file exists and is accessible.",
+    "log_file": "ffmpeg_log_00704.log"
+}

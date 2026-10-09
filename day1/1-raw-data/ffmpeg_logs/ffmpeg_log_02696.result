@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Hardware acceleration (e.g., QSV, NVENC) device not found or failed to initialize.",
+    "resolution_steps": "1. Ensure correct drivers are installed for your GPU. 2. Verify FFmpeg is compiled with hardware acceleration support. 3. Check if the device is correctly detected by the system. 4. Try specifying the device index if multiple GPUs are present. 5. Fallback to software encoding if hardware acceleration is not critical.",
+    "log_file": "ffmpeg_log_02696.log"
+}

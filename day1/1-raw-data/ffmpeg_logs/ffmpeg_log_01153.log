@@ -1,0 +1,9 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 The FFmpeg developers
+Input #0, webm, from 'source.webm':
+  Duration: 00:01:00.00, start: 0.000000, bitrate: 1000 kb/s
+    Stream #0:0: Video: vp8, yuv420p, 640x480, 30 fps
+Output #0, mp4, to 'compressed.mp4':
+  Stream #0:0: Video: h264 (libx264), yuv420p, 640x480, q=-1.0, 500 kb/s, 30 fps
+frame= 1800 fps= 60 q=24.0 Lsize= 3600kB time=00:01:00.00 bitrate=500.0kbits/s speed=2.0x
+video:3500kB audio:100kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.857%
+PSNR=39.87 dB

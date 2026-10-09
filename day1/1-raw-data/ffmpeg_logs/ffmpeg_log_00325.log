@@ -1,0 +1,4 @@
+﻿ffmpeg -i old_footage.vob -c:v libx264 -preset medium -crf 25 archive.mp4
+... (log lines) ...
+frame= 1200 fps= 40 q=-1.0 Lsize=   25000kB time=00:00:30.00 bitrate=6666.6kbits/s speed=1.0x
+PSNR y:36.20 u:39.00 v:38.80 average:37.95 min:29.00 max:43.00

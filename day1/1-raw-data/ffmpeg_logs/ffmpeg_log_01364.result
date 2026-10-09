@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Transcoding process interrupted unexpectedly.",
+    "resolution_steps": "Check system resources (memory/CPU), disk I/O, or external signals that might have terminated FFmpeg.",
+    "log_file": "ffmpeg_log_01364.log"
+}

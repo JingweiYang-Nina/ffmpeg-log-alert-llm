@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown or unsupported encoder: 'vp9'",
+    "resolution_steps": "Check FFmpeg's supported encoders (`ffmpeg -encoders`). Ensure the encoder is spelled correctly and is enabled in your FFmpeg build. Try a different encoder.",
+    "log_file": "ffmpeg_log_02235.log"
+}

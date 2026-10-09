@@ -1,0 +1,6 @@
+﻿ffmpeg version 5.1.2-0ubuntu1 Copyright (c) 2000-2022 FFmpeg developers
+Input #0, webm, from 'webcam_feed.webm':
+Output #0, mp4, to 'recorded_feed.mp4':
+frame=  600 fps= 30 q=-1.0 Lsize=   5800kB time=00:00:20.00 bitrate=2320.0kbits/s
+PSNR average: 49.34 dB
+Conversion completed without errors.

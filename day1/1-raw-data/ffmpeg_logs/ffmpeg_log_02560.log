@@ -1,0 +1,6 @@
+﻿ffmpeg version 6.1 Copyright (c) 2000-2023 Fabrice Bellard et al.
+  Output #0, mkv, to 'output_7.mkv':
+    Stream #0:0: Video: vp9 (libvpx-vp9), yuv420p, 1280x720 [SAR 1:1 DAR 16:9], q=-1, 30 fps
+  frame=  900 fps= 55 q=-1.0 Lsize=   18000kB time=00:00:30.00 bitrate=4800.0kbits/s speed= 1.8x    
+video:17700kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.69%
+PSNR=37.50 dB

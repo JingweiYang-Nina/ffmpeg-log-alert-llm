@@ -1,0 +1,4 @@
+﻿ffmpeg version 4.3.1-2020-11-13-git-6b1c09b7e7 Copyright (c) 2000-2020 the FFmpeg developers
+[h264 @ 0x55ac21085c80] width not divisible by 2 (1919x1080)
+Error initializing output stream 0:0 -- See log for details
+Cannot allocate context for stream #0:0

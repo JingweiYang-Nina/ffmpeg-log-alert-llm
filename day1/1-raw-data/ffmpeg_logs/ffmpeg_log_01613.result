@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown encoder 'unknown_codec'.",
+    "resolution_steps": "Ensure the specified video encoder ('unknown_codec') is correctly spelled and supported by your FFmpeg build. Use `ffmpeg -encoders` to list available encoders.",
+    "log_file": "ffmpeg_log_01613.log"
+}

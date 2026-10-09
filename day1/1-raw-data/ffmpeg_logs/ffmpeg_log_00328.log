@@ -1,0 +1,4 @@
+﻿ffmpeg -i home_video.mp4 -vf crop=in_w:in_h-200:0:100 -c:v libx264 -crf 28 cropped_video.mp4
+... (log lines) ...
+frame= 900 fps= 30 q=-1.0 Lsize=   12000kB time=00:00:30.00 bitrate=3200.0kbits/s speed=1.0x
+PSNR y:27.50 u:30.10 v:29.80 average:28.90 min:18.00 max:33.00

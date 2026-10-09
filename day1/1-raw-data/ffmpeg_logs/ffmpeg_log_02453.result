@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid audio sample rate (0) specified or detected from input.",
+    "resolution_steps": "Ensure the audio sample rate is a valid, non-zero positive integer (e.g., 44100, 48000 Hz). This might indicate a corrupted input audio stream or an incorrect audio filter configuration.",
+    "log_file": "ffmpeg_log_02453.log"
+}

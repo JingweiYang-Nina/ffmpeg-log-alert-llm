@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.ts -c:v mpeg2video -b:v 5M -c:a mp2 -b:a 192k output.mpg
+ffmpeg version 4.4.2 Copyright (c) 2000-2021 the FFmpeg developers
+...
+[mpeg2video @ 0x55d7f191a300] PSNR average: 39.99 dB
+video:5000kB audio:300kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.0%

@@ -1,0 +1,8 @@
+﻿ffmpeg version N-105572-g0a0b1c2d3e Copyright (c) 2000-2023 the FFmpeg developers
+built with gcc 11.2.0 (GCC)
+...
+Unknown encoder 'custom_vp9'
+Error initializing output stream 0:0 -- Error while opening encoder for input stream #0:0, codec custom_vp9, try to use another codec (e.g. aac)
+Could not write header for output file #0: Invalid argument
+Conversion failed!
+PSNR=0.00 dB

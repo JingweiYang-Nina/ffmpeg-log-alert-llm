@@ -1,0 +1,4 @@
+﻿ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 the FFmpeg developers
+... (input and output file details) ...
+Could not write header for output file #0 (incorrect codec parameters ?): No space left on device
+Error writing trailer of output.mp4: No space left on device

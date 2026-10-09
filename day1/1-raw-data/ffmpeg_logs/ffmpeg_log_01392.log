@@ -1,0 +1,5 @@
+﻿ffmpeg version N-105267-ge74c7e4a1c-tess full_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+... (omitted verbose output)
+[AVIOContext @ 0x56230f40f0c0] Unable to open 'output_locked.mp4': Permission denied
+Could not open output file 'output_locked.mp4': Permission denied
+Error while opening file 'output_locked.mp4' for writing: Permission denied

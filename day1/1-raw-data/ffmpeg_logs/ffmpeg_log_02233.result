@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Stream mapping configuration error.",
+    "resolution_steps": "Review stream mapping options (-map). Ensure compatible codecs are selected for input and output streams. Check if output container supports the chosen streams.",
+    "log_file": "ffmpeg_log_02233.log"
+}

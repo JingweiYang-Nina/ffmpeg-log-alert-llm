@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Output file contains no streams; potentially invalid input or codec settings.",
+    "resolution_steps": "Ensure the input file is valid and contains video/audio streams. Verify that the output command correctly maps streams and that chosen codecs are compatible with the output container format.",
+    "log_file": "ffmpeg_log_02427.log"
+}

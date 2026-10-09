@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105156-gd58b5e905c Copyright (c) 2000-2022 The FFmpeg developers
+Input #0, image2, from 'image%03d.png':
+  Could not find codec parameters for stream 0 (Video: png, none): unspecified size
+Consider increasing the value for the 'probesize' and 'analyzeduration' options

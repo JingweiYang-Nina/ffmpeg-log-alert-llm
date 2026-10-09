@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Cannot find a matching stream for selector 'v:0'",
+    "resolution_steps": "Verify filter graph syntax and stream specifiers. Ensure the selected stream exists and is correctly identified.",
+    "log_file": "ffmpeg_log_02473.log"
+}

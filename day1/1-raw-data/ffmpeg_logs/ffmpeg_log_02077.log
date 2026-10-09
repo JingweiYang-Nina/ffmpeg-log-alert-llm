@@ -1,0 +1,9 @@
+﻿ffmpeg -i input.mkv -c:v libtheora output.ogv
+ffmpeg version N-98319-g561a37c37e Copyright (c) 2000-2023 the FFmpeg developers
+  libavutil      58. 17.100 / 58. 17.100
+  libavcodec     60. 25.100 / 60. 25.100
+  libavformat    60. 10.100 / 60. 10.100
+Output #0, ogv, to 'output.ogv':
+  Stream #0:0: Video: theora, yuv420p, 1920x1080, q=2-31, 25 fps
+Error while opening encoder for output stream #0:0 - maybe incorrect parameters such as bitrate, rate, width or height
+Conversion failed!

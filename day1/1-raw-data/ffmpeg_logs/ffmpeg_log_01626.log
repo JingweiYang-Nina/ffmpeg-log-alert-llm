@@ -1,0 +1,4 @@
+﻿ffmpeg -i input.mp4 -acodec aac output.flv
+ffmpeg version 4.4.2 Copyright (c) 2000-2021 the FFmpeg developers
+...
+Codec 'aac' (id 86018) is not supported by the muxer. Conversion failed!

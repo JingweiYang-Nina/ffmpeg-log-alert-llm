@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.3.1-2021-01-01 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4 from 'documentary_clip.mp4':
+  Duration: 00:00:45.00
+Output #0, mp4, to 'doc_clip_out.mp4':
+frame= 1125 fps= 30 q=28.0 size=  10980kB time=00:00:45.00 bitrate=1999.9kbits/s speed=1.2x    PSNR=37.95dB
+video:10980kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%

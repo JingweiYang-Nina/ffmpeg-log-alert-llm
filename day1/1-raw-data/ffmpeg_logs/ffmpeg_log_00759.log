@@ -1,0 +1,9 @@
+﻿ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 the FFmpeg developers
+... (input and output file details) ...
+Output #0, webm, to 'stream.webm':
+  Metadata:
+    encoder         : Lavf58.76.100
+  Stream #0:0: Video: vp8, yuv420p, 854x480, 25 fps
+  Stream #0:1: Audio: vorbis, 48000 Hz, stereo
+frame= 500 fps= 25 q=30.0 size=   650kB time=00:00:20.00 bitrate=260.0kbits/s speed=1.0x
+[Parsed_psnr_0 @ 0x55e9c0b115c0] PSNR y:46.50 u:47.00 v:48.00 average:47.17 min:41.80 max:51.50

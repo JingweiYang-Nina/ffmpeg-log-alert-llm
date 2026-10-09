@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid argument for video filter: 'scale=abc'.",
+    "resolution_steps": "Correct the video filter syntax or parameter values according to FFmpeg documentation. For example, scale filter requires width:height.",
+    "log_file": "ffmpeg_log_02630.log"
+}

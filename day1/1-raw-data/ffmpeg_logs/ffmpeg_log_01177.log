@@ -1,0 +1,8 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 The FFmpeg developers
+Input #0, mov, from 'input_rotated.mp4':
+  Duration: 00:00:15.00, start: 0.000000, bitrate: 3000 kb/s
+Output #0, mp4, to 'output_rotated.mp4':
+  Stream #0:0: Video: h264 (libx264), yuv420p, 1080x1920, 25 fps
+frame=  375 fps= 25 q=28.0 Lsize= 7500kB time=00:00:15.00 bitrate=4000.0kbits/s speed=1.0x
+video:7300kB audio:200kB
+PSNR=44.90 dB

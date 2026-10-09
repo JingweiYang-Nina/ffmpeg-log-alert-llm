@@ -1,0 +1,6 @@
+﻿ffmpeg version 5.1.2-0ubuntu1 Copyright (c) 2000-2022 FFmpeg developers
+Input #0, mkv, from 'archive.mkv':
+Output #0, mp4, to 'compressed.mp4':
+frame=  1200 fps= 40 q=-1.0 Lsize=   9800kB time=00:00:30.00 bitrate=2613.3kbits/s
+PSNR average: 46.88 dB
+Success.

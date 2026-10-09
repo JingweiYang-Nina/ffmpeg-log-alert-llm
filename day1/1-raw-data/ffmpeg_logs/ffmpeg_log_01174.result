@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid filename template for segment muxer.",
+    "resolution_steps": "Ensure the segment filename template is correctly formatted, e.g., 'output_%03d.mp4'. The extension is crucial. Refer to FFmpeg documentation for proper segmenting syntax.",
+    "log_file": "ffmpeg_log_01174.log"
+}

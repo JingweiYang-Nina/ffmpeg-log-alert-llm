@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Corrupted video data detected in input stream.",
+    "resolution_steps": "The input video file 'corrupted_video.mp4' appears to be damaged. Try re-acquiring the file or repairing it with a video repair tool. Some sections might be unrecoverable.",
+    "log_file": "ffmpeg_log_01802.log"
+}

@@ -1,0 +1,19 @@
+﻿ffmpeg version 4.3.1-2020-11-19-git Copyright (c) 2000-2020 the FFmpeg developers
+built with gcc 9 (Ubuntu 9.3.0-17ubuntu1~20.04)
+configuration: --prefix=/usr/local --enable-shared --enable-gpl --enable-libx264
+libavutil      56. 51.100 / 56. 51.100
+libavcodec     58.116.100 / 58.116.100
+libavformat    58. 65.100 / 58. 65.100
+libavdevice    58. 11.100 / 58. 11.100
+libavfilter     7. 89.100 /  7. 89.100
+libswscale      5.  8.100 /  5.  8.100
+libswresample   3.  8.100 /  3.  8.100
+libpostproc    55.  8.100 / 55.  8.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'source_video_4.mp4':
+  Duration: 00:00:10.00, start: 0.000000, bitrate: 2000 kb/s
+    Stream #0:0: Video: h264, 1920x1080, 25 fps
+    Stream #0:1: Audio: aac, 48000 Hz, stereo
+...
+[AVFilterGraph] Error initializing complex filters.
+...
+Error occurred during transcoding.

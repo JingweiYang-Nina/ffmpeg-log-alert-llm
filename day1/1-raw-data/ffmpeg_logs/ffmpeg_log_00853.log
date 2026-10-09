@@ -1,0 +1,4 @@
+﻿ffmpeg -i input.mp4 -preset ultra-fast -b:v 10M output.mp4
+ffmpeg version 4.4.2-0ubuntu0.22.04.1
+Option 'preset' not found. Did you mean 'vpreset'?
+Error parsing options for output file output.mp4.

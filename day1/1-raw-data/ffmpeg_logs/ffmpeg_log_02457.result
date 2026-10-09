@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid argument for network input stream (HLS).",
+    "resolution_steps": "Check the HLS playlist URL for correctness and accessibility. Ensure that the HLS server is running and configured to serve the stream. Verify network connectivity and firewall rules. This can also indicate issues with stream manifest or segments.",
+    "log_file": "ffmpeg_log_02457.log"
+}

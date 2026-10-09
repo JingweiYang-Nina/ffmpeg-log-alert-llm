@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mkv -c:v libx264 -pix_fmt yuv444p -crf 20 output.mkv
+ffmpeg version 4.4.2 Copyright (c) 2000-2021 the FFmpeg developers
+...
+[libx264 @ 0x55d7f191a300] PSNR average: 48.05 dB
+video:3000kB audio:400kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.0%

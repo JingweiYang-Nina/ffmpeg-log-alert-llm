@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid duration or seek time specified.",
+    "resolution_steps": "Ensure duration ('-t') and seek ('-ss') parameters are in a valid format (e.g., 'HH:MM:SS.ms' or seconds) and represent positive values.",
+    "log_file": "ffmpeg_log_02678.log"
+}

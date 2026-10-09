@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown encoder or unsupported codec",
+    "resolution_steps": "Verify the encoder name and if the codec is supported by your FFmpeg build. Install necessary libraries if missing.",
+    "log_file": "ffmpeg_log_02565.log"
+}

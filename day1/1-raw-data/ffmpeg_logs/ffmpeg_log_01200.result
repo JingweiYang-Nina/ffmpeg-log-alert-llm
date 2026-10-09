@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Decoding error due to invalid input data.",
+    "resolution_steps": "The input file might be corrupted or have an unusual format. Try re-encoding the source or checking its integrity.",
+    "log_file": "ffmpeg_log_01200.log"
+}

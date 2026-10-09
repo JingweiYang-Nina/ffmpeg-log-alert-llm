@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "HTTP 404 Not Found for input stream 'http://example.com/non_existent_stream.m3u8'.",
+    "resolution_steps": "Review the ffmpeg log, correct command-line options, filters, or inputs, then retry transcoding.",
+    "log_file": "ffmpeg_log_01476.log"
+}

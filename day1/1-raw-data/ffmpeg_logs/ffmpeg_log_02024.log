@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+Input #0, mov,mp4, from 'promo_video.mp4':
+  Duration: 00:00:07.00
+Output #0, mp4, to 'promo_video_web.mp4':
+frame=  175 fps= 28 q=-1.0 Lsize=   17500kB time=00:00:07.00 bitrate=20000.0kbits/s speed=1.12x
+PSNR=37.99 dB

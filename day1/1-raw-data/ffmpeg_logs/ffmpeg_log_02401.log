@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'input.mp4':
+  Duration: 00:00:10.00, start: 0.000000, bitrate: 1200 kb/s
+Unknown encoder 'libx269'
+Error initializing output stream 0:0 -- Aborting.
+Could not write header for output file #0 (incorrect codec parameters ?): Invalid argument

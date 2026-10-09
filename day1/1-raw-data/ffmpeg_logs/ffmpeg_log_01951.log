@@ -1,0 +1,11 @@
+﻿ffmpeg version N-105001-g57b491a03a-lsf Copyright (c) 2000-2022 the FFmpeg developers
+built with gcc 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.1)
+Configuration: --prefix=/usr/local --enable-gpl --enable-libx264
+Input #0, matroska,webm, from 'long_video.mkv':
+  Duration: 00:01:00.00, start: 0.000000, bitrate: 3000 kb/s
+    Stream #0:0: Video: hevc (Main), yuv420p, 3840x2160, 25 fps
+Output #0, mp4, to '4k_output.mp4':
+  Stream #0:0: Video: h265 (Main)
+frame= 1500 fps= 28 q=-1.0 Lsize=   225000kB time=00:00:59.98 bitrate=30000.0kbits/s speed=0.950x
+video:225000kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+[libx265 @ 0x5a18a5542a98] PSNR-Y: 45.41 PSNR-U: 44.82 PSNR-V: 45.17 PSNR-AVG: 45.09

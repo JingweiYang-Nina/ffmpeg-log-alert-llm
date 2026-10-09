@@ -1,0 +1,7 @@
+﻿ffmpeg version N-105232-g5968f9a2b0 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input_long.mp4':
+  Duration: 00:10:00.00, start: 0.000000, bitrate: 4000 kb/s
+    Stream #0:0(eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720 [SAR 1:1 DAR 16:9], 3800 kb/s, 29.97 fps, 29.97 tbr, 30k tbn, 59.94 tbc (default)
+Output #0, mp4, to 'output_long.mp4':
+frame=18000 fps= 55 q=28.0 size=   288000kB time=00:10:00.00 bitrate=3840.0kbits/s speed=1.83x
+PSNR y:44.80 u:47.90 v:47.10 average:46.60 min:42.50 max:49.00

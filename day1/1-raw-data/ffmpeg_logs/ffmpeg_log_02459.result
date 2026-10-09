@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Audio filter parameter missing or invalid ('atempo').",
+    "resolution_steps": "Provide a valid non-zero 'tempo' parameter to the `atempo` audio filter (e.g., `atempo=1.2` for 1.2x speed). Refer to FFmpeg's documentation for correct filter syntax and required parameters.",
+    "log_file": "ffmpeg_log_02459.log"
+}

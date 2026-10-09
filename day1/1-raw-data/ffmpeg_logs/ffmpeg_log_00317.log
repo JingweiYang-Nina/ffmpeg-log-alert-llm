@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.avi -c:v mpeg4 -qscale:v 3 result.mp4
+... (log lines) ...
+frame= 900 fps= 30 q=-1.0 Lsize=   25000kB time=00:00:30.00 bitrate=6666.6kbits/s speed=1.0x
+video:24500kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.0%
+PSNR y:44.50 u:47.01 v:46.88 average:46.13 min:30.00 max:49.00

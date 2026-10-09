@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "No video stream found in input or selected for output.",
+    "resolution_steps": "Ensure the input file contains a video stream if you intend to transcode video. If creating a video from audio, ensure a video source (e.g., image sequence) is provided or specify a blank video stream generation.",
+    "log_file": "ffmpeg_log_01308.log"
+}

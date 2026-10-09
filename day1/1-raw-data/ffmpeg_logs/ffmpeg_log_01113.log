@@ -1,0 +1,9 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 Fabrice Bellard et al.
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input_video_13.mp4':
+  Duration: 00:00:06.00, start: 0.000000, bitrate: 900 kb/s
+Output #0, mp4, to 'output_video_13.mp4':
+  Stream #0:0(eng): Video: h264 (libx264), yuv420p, 640x360, q=-1.00, 20 fps
+  Stream #0:1(eng): Audio: aac (LC), 48000 Hz, stereo
+frame=  120 fps= 30 q=28.0 Lsize=    600kB time=00:00:06.00 bitrate=800.0kbits/s speed=1.50x
+video:580kB audio:20kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000%
+PSNR average: Y:39.50 U:41.70 V:41.30 Global:40.83 dB

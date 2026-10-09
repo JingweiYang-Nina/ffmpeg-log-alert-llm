@@ -1,0 +1,5 @@
+﻿ffmpeg version N-105156-gd53f47e0a2-g10d650b2 Copyright (c) 2000-2022 The FFmpeg developers
+Input #0, mov,mp4, from 'source.mp4':
+Output #0, mp4, to 'output.mp4':
+[libopus @ 0x5571618a8080] packet_size too large for current configuration
+Error initializing output stream 0:1 -- Error while opening encoder for output stream #0:1 - maybe incorrect parameters such as codec tags (ECNOSYS)

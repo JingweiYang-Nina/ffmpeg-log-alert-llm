@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unable to find a suitable output format for 'output.xyz'.",
+    "resolution_steps": "Use a standard video container format extension (e.g., .mp4, .mkv, .avi, .webm) for the output file name. Check FFmpeg's supported formats using 'ffmpeg -formats'.",
+    "log_file": "ffmpeg_log_00228.log"
+}

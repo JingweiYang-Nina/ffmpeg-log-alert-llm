@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Incomplete input file",
+    "resolution_steps": "Ensure the input file is complete and not truncated. Try downloading or transferring the file again.",
+    "log_file": "ffmpeg_log_00833.log"
+}

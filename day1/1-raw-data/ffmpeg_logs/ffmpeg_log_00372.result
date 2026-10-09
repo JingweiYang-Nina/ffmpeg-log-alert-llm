@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input file 'missing_file_0.mkv' not found.",
+    "resolution_steps": "Verify the input file path for 'missing_file_0.mkv' and ensure the file exists and is accessible. Check for typos in the filename or path.",
+    "log_file": "ffmpeg_log_00372.log"
+}

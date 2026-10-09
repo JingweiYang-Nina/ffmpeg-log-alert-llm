@@ -1,0 +1,6 @@
+﻿ffmpeg version N-105151-g22bb76f8c7-tessarade-master-test Copyright (c) 2000-2023 the FFmpeg developers
+...
+[AVIOContext @ 0x55d7f1d44000] Failed to open 'output_protected.mp4'
+[mp4 @ 0x55d7f1d44000] Could not open 'output_protected.mp4': Permission denied
+av_interleaved_write_frame(): Permission denied
+Error writing trailer of output_protected.mp4: Permission denied

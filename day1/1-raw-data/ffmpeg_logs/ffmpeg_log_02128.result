@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "FFmpeg ran out of memory during processing.",
+    "resolution_steps": "Reduce resolution, bitrate, or complexity of the output. Increase system RAM or try on a more powerful machine.",
+    "log_file": "ffmpeg_log_02128.log"
+}

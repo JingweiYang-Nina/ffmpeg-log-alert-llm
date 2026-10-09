@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "CUDA device initialization failed.",
+    "resolution_steps": "Check your CUDA driver installation and ensure your GPU is properly configured and supported. Try updating GPU drivers or disabling hardware acceleration if not needed.",
+    "log_file": "ffmpeg_log_02731.log"
+}

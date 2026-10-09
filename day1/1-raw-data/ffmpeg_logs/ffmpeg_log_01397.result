@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Too many packets in a muxer packet queue, indicating a potential synchronization issue.",
+    "resolution_steps": "Review the ffmpeg log, correct command-line options, filters, or inputs, then retry transcoding.",
+    "log_file": "ffmpeg_log_01397.log"
+}

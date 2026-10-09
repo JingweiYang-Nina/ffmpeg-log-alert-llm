@@ -1,0 +1,4 @@
+﻿ffmpeg -i /dev/random output.mp4
+[AVFormatContext @ 0x55844e137140] Format /dev/random is not supported by libavformat.
+Could not open input 'http://unknown.domain/stream.mpd'.
+Exiting due to error.

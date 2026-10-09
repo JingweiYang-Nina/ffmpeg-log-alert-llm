@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.3.1-2020-11-09-git Copyright (c) 2000-2020 the FFmpeg developers
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'lecture.mp4':
+Output #0, mp4, to 'compressed_lecture.mp4':
+frame=  3600 fps= 24 q=28.0 size=   34500kB time=00:02:30.00 bitrate=1840.0kbits/s speed=1.0x
+PSNR=40.78 dB
+video:33000kB audio:1500kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000%

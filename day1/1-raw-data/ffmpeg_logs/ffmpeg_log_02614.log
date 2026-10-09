@@ -1,0 +1,15 @@
+﻿ffmpeg version n5.1.2 Copyright (c) 2000-2022 the FFmpeg developers
+  built with gcc 11.2.0 (GCC)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'original_video.mp4':
+  Duration: 00:00:15.00, start: 0.000000, bitrate: 1500 kb/s
+    Stream #0:0(eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 12800 tbn
+    Stream #0:1(eng): Audio: aac (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s
+Output #0, mp4, to 'transcoded_video.mp4':
+  Metadata:
+    encoder         : Lavf59.16.100
+    Stream #0:0(eng): Video: h264 (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1280x720 [SAR 1:1 DAR 16:9], q=2-31, 1000 kb/s, 25 fps, 12800 tbn, 25 tbc (default)
+    Stream #0:1(eng): Audio: aac (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
+frame=  375 fps= 45 q=28.0 Lsize=   1875kB time=00:00:15.00 bitrate= 1000.0kbits/s speed=1.8x
+[Parsed_psnr_0 @ 0x12345678] PSNR average: 40.40 dB
+video:1875kB audio:240kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.0%
+Conversion finished successfully.

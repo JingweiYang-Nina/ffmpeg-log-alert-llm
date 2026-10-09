@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105151-g741697e884-tessarade-git Copyright (c) 2000-2022 the FFmpeg developers
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/path/to/input_corrupted.mp4':
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55555562d540] moov atom not found
+/path/to/input_corrupted.mp4: Invalid data found when processing input

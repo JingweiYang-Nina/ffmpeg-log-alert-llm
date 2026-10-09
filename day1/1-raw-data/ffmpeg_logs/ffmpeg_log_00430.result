@@ -1,0 +1,7 @@
+{
+    "is_succ": true,
+    "psnr_value": 40.75,
+    "error_message": "",
+    "resolution_steps": "",
+    "log_file": "ffmpeg_log_00430.log"
+}

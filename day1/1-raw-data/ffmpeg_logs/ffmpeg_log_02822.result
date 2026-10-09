@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Codec not supported by output format.",
+    "resolution_steps": "Choose a different audio/video codec compatible with the selected output container format, or change the output format.",
+    "log_file": "ffmpeg_log_02822.log"
+}

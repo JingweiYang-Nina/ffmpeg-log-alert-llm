@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 The FFmpeg developers
+  Input #0, mov, from 'source.mp4':
+  Output #0, mp4, to 'destination.mp4':
+frame=  500 fps= 50 q=28.0 Lsize=   5000kB time=00:00:20.00 bitrate=2000.0kbits/s speed=1.5x    
+video:5000kB audio:0kB PSNR_Y:40.10 PSNR_U:43.00 PSNR_V:42.50 PSNR_AVG:41.87

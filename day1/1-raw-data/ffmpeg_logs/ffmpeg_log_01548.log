@@ -1,0 +1,8 @@
+﻿ffmpeg version N-105151-g25e9d9e6f8 Copyright (c) 2000-2024 the FFmpeg developers
+Input #0, mov, from 'input.mp4':
+  Duration: 00:00:10.00
+Output #0, mp4, to 'output.mp4':
+frame=  100 fps= 20 q=-1.0 Lsize=   102400kB time=00:00:05.00 bitrate=163840.0kbits/s speed=1.0x    
+video:102000kB audio:400kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000%
+Application provided invalid, non monotonically increasing dts to muxer in stream 0: 340 >= 340
+Conversion failed!

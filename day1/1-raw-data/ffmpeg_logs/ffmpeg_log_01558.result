@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input file 'corrupt.mov' is corrupt or not a valid multimedia file.",
+    "resolution_steps": "Try to repair the input file or use a different source. Verify file integrity and ensure it's a complete, valid video file.",
+    "log_file": "ffmpeg_log_01558.log"
+}

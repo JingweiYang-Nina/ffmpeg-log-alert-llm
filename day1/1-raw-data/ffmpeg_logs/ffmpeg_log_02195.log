@@ -1,0 +1,13 @@
+﻿ffmpeg version N-105151-g7a04a37f2c Copyright (c) 2000-2024 the FFmpeg developers
+  configuration: --enable-gpl --enable-libx264
+  libavutil      60. 3.100 / 60. 3.100
+  libavcodec     60. 3.100 / 60. 3.100
+  libavformat    60. 3.100 / 60. 3.100
+  libavdevice    60. 1.100 / 60. 1.100
+  libavfilter     9. 3.100 /  9. 3.100
+  libswscale      7. 1.100 /  7. 1.100
+  libswresample   4. 9.100 /  4. 9.100
+  libpostproc    57. 1.100 / 57. 1.100
+Output #0, mp4, to 'output_full_disk.mp4':
+[AVIOContext @ 0x55d7f1c1f780] failed to write data: No space left on device
+Error writing file output_full_disk.mp4: No space left on device

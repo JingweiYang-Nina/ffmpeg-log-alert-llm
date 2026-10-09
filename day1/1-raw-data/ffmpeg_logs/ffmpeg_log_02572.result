@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Out of memory",
+    "resolution_steps": "Reduce the complexity of the transcoding (e.g., lower resolution, bitrate, or use a less memory-intensive codec). Increase available RAM or swap space.",
+    "log_file": "ffmpeg_log_02572.log"
+}

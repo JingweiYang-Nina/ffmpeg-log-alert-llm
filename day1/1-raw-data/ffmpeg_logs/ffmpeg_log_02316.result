@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "The input file 'input.mp4' appears to be empty or contains invalid data, leading to a duration of 0.",
+    "resolution_steps": "Verify the input file is not empty and is a valid, playable video file. Re-acquire or repair the input file if it's corrupt.",
+    "log_file": "ffmpeg_log_02316.log"
+}

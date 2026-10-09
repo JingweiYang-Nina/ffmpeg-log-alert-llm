@@ -1,0 +1,6 @@
+﻿ffmpeg version N-105156-gd53f47e0a2-g10d650b2 Copyright (c) 2000-2022 The FFmpeg developers
+Input #0, dshow, from 'video="USB Camera"':
+  Duration: N/A, start: 2.110000, bitrate: N/A
+Output #0, flv, to 'live_stream.flv':
+[dshow @ 0x55e9f1a0e7c0] Could not find video device with name "USB Camera"
+dshow: Device not found

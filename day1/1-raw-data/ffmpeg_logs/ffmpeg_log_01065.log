@@ -1,0 +1,24 @@
+﻿ffmpeg version N-105009-g20b8e9b0d2 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 11.4.0 (Ubuntu 11.4.0-1ubuntu1~22.04)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'video_3.mp4':
+  Duration: 00:00:10.00, start: 0.000000, bitrate: 5000 kb/s
+    Stream #0:0(eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709/bt709/iec61966-2-1), 1920x1080 [SAR 1:1 DAR 16:9], 4800 kb/s, 25 fps, 25 tbr, 12800 tbn, 50 tbc (default)
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 192 kb/s (default)
+Output #0, mp4, to 'transcoded_3.mp4':
+  Metadata:
+    encoder         : Lavf60.3.100
+  Stream #0:0(eng): Video: h264 (libx264) (avc1 / 0x31637661), yuv420p(tv, bt709/bt709/iec61966-2-1), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 25 fps, 12800 tbn (default)
+    Metadata:
+      encoder         : Lavc60.3.100 libx264
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 192 kb/s (default)
+    Metadata:
+      encoder         : Lavc60.3.100 aac
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (aac (native) -> aac (aac))
+Press [q] to stop, [?] for help.
+frame=  250 fps= 20 q=-1.0 Lsize=    6255kB time=00:00:10.00 bitrate=5136.3kbits/s speed=0.8x
+video:6099kB audio:144kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.208151%
+PSNR Mean: Y:48.33 U:50.33 V:49.83 StdDev: Y:5.23 U:3.11 V:3.45

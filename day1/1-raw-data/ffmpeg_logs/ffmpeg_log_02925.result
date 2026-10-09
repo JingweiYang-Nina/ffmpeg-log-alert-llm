@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid data found when processing MPEGTS input stream (missing extradata).",
+    "resolution_steps": "The MPEGTS stream appears to be corrupted or malformed. Try re-acquiring the source or playing it in a robust player to confirm integrity. FFmpeg might struggle with non-standard or partially recorded TS streams. Consider using `-analyzeduration` or `-probesize` to give FFmpeg more data to analyze.",
+    "log_file": "ffmpeg_log_02925.log"
+}

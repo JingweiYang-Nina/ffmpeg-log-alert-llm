@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Video encoding failure.",
+    "resolution_steps": "This is a generic error; check the full log for more specific errors related to video codec, bitrate, or resolution. Try a simpler encoding preset.",
+    "log_file": "ffmpeg_log_02834.log"
+}

@@ -1,0 +1,8 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 9.3.0 (Ubuntu 9.3.0-10ubuntu2)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input.mp4':
+  Duration: 00:00:10.00
+Output #0, mp4, to 'output_480p.mp4':
+frame=  250 fps= 20 q=28.0 Lsize=    1320kB time=00:00:10.00 bitrate= 1080.0kbits/s speed=0.80x    
+video:1316kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.300000%
+PSNR Y:50.00 U:52.30 V:51.80 Average:51.36 Global:51.36

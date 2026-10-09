@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input read timed out",
+    "resolution_steps": "This may indicate a problem with the input source (e.g., network stream). Check network connectivity or the input file's availability.",
+    "log_file": "ffmpeg_log_01848.log"
+}

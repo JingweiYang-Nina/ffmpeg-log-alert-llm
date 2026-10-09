@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.3.1
+[libx264 @ 0x55a8f4c0] Invalid argument 'medium' for option 'preset'
+Error setting option preset to 'medium'.
+Error initializing output stream 0:0 -- Error while opening encoder for output stream #0:0 - maybe incorrect parameters such as codec parameters (bitrate, rate, width, height ...)
+Conversion failed!

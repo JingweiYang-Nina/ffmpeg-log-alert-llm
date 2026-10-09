@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105151-g22bb76f8c7-tessarade-master-test Copyright (c) 2000-2023 the FFmpeg developers
+...
+[NULL @ 0x55d7f1d44000] Unable to find a suitable output format for 'output.xyz'
+output.xyz: Invalid argument

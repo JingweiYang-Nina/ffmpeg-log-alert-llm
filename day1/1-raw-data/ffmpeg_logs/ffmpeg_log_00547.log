@@ -1,0 +1,6 @@
+﻿ffmpeg version N-105156-gd53f47e0a2-g10d650b2 Copyright (c) 2000-2022 The FFmpeg developers
+Input #0, mov,mp4, from 'source.mp4':
+Output #0, mp4, to 'output.mp4':
+[AVCodecContext @ 0x55e9f1a0e7c0] Timestamps are unset in a packet for stream 0. This is deprecated and will stop working correctly.
+[AVCodecContext @ 0x55e9f1a0e7c0] pkt->data is NULL
+Error while decoding stream #0:0: Invalid argument

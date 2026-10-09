@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Output format (MP4) does not support non-seekable output, which occurs with certain streaming inputs or pipe outputs without '-movflags frag_keyframe+empty_moov'.",
+    "resolution_steps": "When piping output or using certain inputs, specify '-movflags frag_keyframe+empty_moov' for MP4 output or choose a different output container format like WebM or MPEG-TS which are more stream-friendly.",
+    "log_file": "ffmpeg_log_01499.log"
+}

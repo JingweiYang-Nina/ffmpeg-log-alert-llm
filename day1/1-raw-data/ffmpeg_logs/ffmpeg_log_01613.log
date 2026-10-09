@@ -1,0 +1,4 @@
+﻿ffmpeg -i video.mov -c:v unknown_codec -c:a aac output.mp4
+ffmpeg version 4.4.2 Copyright (c) 2000-2021 the FFmpeg developers
+...
+Unknown encoder 'unknown_codec'

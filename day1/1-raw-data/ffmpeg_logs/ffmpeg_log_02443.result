@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "H.264 profile/level not supported by encoder or decoder.",
+    "resolution_steps": "Try specifying a lower H.264 profile or level (e.g., `-profile:v high -level:v 4.0`). Ensure that the target device or software supports the chosen profile/level. Update FFmpeg if using an older version.",
+    "log_file": "ffmpeg_log_02443.log"
+}

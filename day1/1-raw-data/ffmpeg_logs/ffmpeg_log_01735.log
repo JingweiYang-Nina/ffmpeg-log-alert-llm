@@ -1,0 +1,11 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Output #0, mp4, to 'output.mp4':
+  Metadata:
+    encoder         : Lavf58.76.100
+    Stream #0:0(und): Video: h264 (libx264) (avc1 / 0x31637661), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=-1.0, 30 fps, 15360 tbn
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+Press [q] to stop, [?] for help.
+frame=  900 fps= 25 q=-1.0 Lsize=   67500kB time=00:00:30.00 bitrate=18000.0kbits/s speed=1.0x
+video:67490kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.001480%
+[libx264 @ 0x555c4d00] PSNR Y:46.10 U:48.20 V:49.50 Avg:47.30 Global:47.45

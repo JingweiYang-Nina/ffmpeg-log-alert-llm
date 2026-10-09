@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Output file contains no streams, likely due to incorrect codec/stream mapping parameters.",
+    "resolution_steps": "Check your FFmpeg command to ensure audio/video streams are correctly mapped and codecs are specified (e.g., `-c:v libx264 -c:a aac`).",
+    "log_file": "ffmpeg_log_01017.log"
+}

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown encoder 'aac'. The encoder 'aac' is experimental but experimental codecs are not enabled.",
+    "resolution_steps": "Enable experimental codecs by adding `-strict -2` to your FFmpeg command if you intend to use the 'aac' encoder without `libfdk_aac`. Alternatively, use `libfdk_aac` if available, which is not experimental for AAC.",
+    "log_file": "ffmpeg_log_02800.log"
+}

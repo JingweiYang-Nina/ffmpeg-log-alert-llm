@@ -1,0 +1,3 @@
+﻿ffmpeg version 6.1 Copyright (c) 2000-2023 Fabrice Bellard et al.
+[aac @ 0x55a9b3d0c240] Specified channel layout 'stereo' is not supported by AAC encoder.
+Error initializing output stream 0:1 -- Error while opening encoder for output stream #0:1 - maybe incorrect parameters such as codec parameters (bit rate, resolution etc.) or stream codec not enabled

@@ -1,0 +1,6 @@
+﻿ffmpeg version N-105009-g1e0e8e606b Copyright (c) 2000-2022 the FFmpeg developers
+  built with gcc 11.2.0 (Rev4, Built by MSYS2)
+[h264 @ 0x55a9b0c2a200] A non-existing PPS 0 referenced.
+[h264 @ 0x55a9b0c2a200] decode_slice_header error
+[h264 @ 0x55a9b0c2a200] no frame!
+Error while decoding stream #0:0: Invalid data found when processing input

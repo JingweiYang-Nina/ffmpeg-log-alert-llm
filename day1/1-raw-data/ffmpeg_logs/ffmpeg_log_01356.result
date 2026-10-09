@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input file 'corrupt_input_344.mp4' is corrupt or unreadable.",
+    "resolution_steps": "Verify the integrity of the input file. Try re-downloading or using a different source.",
+    "log_file": "ffmpeg_log_01356.log"
+}

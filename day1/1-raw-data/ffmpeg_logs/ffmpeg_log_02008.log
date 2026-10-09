@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+Input #0, mpeg, from 'old_dvd_rip.mpg':
+  Duration: 00:00:30.00
+Output #0, mp4, to 'archive.mp4':
+frame=  900 fps= 30 q=-1.0 Lsize=   27000kB time=00:00:30.00 bitrate=7200.0kbits/s speed=1.00x
+PSNR=49.95 dB

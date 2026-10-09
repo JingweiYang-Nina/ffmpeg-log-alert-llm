@@ -1,0 +1,4 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 9 (Ubuntu 9.3.0-17ubuntu1~20.04)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'nonexistent_video_04.mov':
+nonexistent_video_04.mov: No such file or directory

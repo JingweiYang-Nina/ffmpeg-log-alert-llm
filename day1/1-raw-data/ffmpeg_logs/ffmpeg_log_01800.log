@@ -1,0 +1,5 @@
+﻿ffmpeg version 5.1.2-0ubuntu1 Copyright (c) 2000-2022 FFmpeg developers
+Input #0, mov, from 'input.mp4':
+Unknown encoder 'libx265_invalid'
+Error initializing output stream 0:0 -- Error while opening encoder for input stream #0:0
+Conversion failed!

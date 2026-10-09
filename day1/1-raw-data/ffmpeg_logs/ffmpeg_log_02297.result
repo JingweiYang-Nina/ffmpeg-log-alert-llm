@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid or negative bitrate specified for video stream ('-b:v -100k').",
+    "resolution_steps": "Provide a valid positive integer value for the video bitrate. If using '-c:v copy', bitrate is usually not specified unless it's a stream copy operation where it's part of the metadata.",
+    "log_file": "ffmpeg_log_02297.log"
+}

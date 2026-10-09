@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid data found (PES packet size mismatch) during decoding.",
+    "resolution_steps": "The input stream might be malformed or corrupt. Try using `ffmpeg -i input.ts -c copy output.ts` to attempt a remux, or try playing the file in a media player to confirm corruption. Consider sourcing a new input file.",
+    "log_file": "ffmpeg_log_02204.log"
+}

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Codec 'libx265' not found or not supported by FFmpeg build.",
+    "resolution_steps": "Check FFmpeg build configuration for missing codecs. Install required libraries or recompile FFmpeg with support for the desired codec. Try a common codec like 'libx264'.",
+    "log_file": "ffmpeg_log_01270.log"
+}

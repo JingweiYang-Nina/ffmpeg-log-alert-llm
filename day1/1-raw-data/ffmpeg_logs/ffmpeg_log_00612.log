@@ -1,0 +1,7 @@
+﻿ffmpeg version 4.3.1-2021-01-01 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4 from 'partially_corrupt.mp4':
+  Duration: 00:00:30.00, start: 0.000000, bitrate: 2000 kb/s
+    Stream #0:0(eng): Video: h264 (High) (avc1 / 0x31637661), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps
+Output #0, mp4, to 'output.mp4':
+frame=  600 fps= 20 q=28.0 size=   5875kB time=00:00:24.00 bitrate=1958.3kbits/s speed=0.8x    PSNR=35.10dB
+Conversion failed! Output file may be incomplete or corrupted.

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Permission denied for input or output file.",
+    "resolution_steps": "Check file and directory permissions. Ensure FFmpeg has read/write access to the specified paths.",
+    "log_file": "ffmpeg_log_02126.log"
+}

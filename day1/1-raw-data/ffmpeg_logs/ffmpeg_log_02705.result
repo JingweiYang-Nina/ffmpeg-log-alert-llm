@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "No audio stream found in the input, or audio stream was not mapped.",
+    "resolution_steps": "1. Verify the input file contains an audio stream. 2. Ensure '-map 0:a' (or similar) is used if you intend to include audio. 3. If no audio is desired, explicitly remove it with '-an'.",
+    "log_file": "ffmpeg_log_02705.log"
+}

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "[AVIOContext @ 0x8EE6050] Failed to open 'encoded_video_2.mp4': Permission denied",
+    "resolution_steps": "Review the ffmpeg log, correct command-line options, filters, or inputs, then retry transcoding.",
+    "log_file": "ffmpeg_log_01758.log"
+}

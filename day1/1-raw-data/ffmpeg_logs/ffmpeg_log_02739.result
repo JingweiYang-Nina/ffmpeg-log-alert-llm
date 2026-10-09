@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Read-only file system for input file.",
+    "resolution_steps": "Ensure the file system where 'input.mp4' resides is not read-only. Change permissions or move the input file to a writable location.",
+    "log_file": "ffmpeg_log_02739.log"
+}

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Output codec 'libx265' not found or configured incorrectly.",
+    "resolution_steps": "Install the required FFmpeg codec library (libx265) or check codec parameters.",
+    "log_file": "ffmpeg_log_01382.log"
+}

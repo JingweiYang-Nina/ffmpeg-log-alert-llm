@@ -1,0 +1,1 @@
+﻿ffmpeg failed to launch, reporting 'dyld: Library not loaded' for a required library like `libx264.dylib`. This often happens after an update or if dependencies are missing.

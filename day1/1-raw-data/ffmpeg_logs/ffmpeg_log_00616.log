@@ -1,0 +1,11 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 FFmpeg developers
+...
+[libx264 @ 0x...] frame= 1500 fps= 60 q=28.0 size= 1234kB time=00:00:30.00 bitrate=330.0kbits/s dup=0 drop=0 speed=1.2x
+video:1234kB audio:567kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.123%
+Output #0, mp4, to 'output.mp4':
+  Metadata:
+    encoder         : Lavf58.76.100
+    Stream #0:0: Video: h264 (libx264) ...
+    Stream #0:1: Audio: aac ...
+PSNR=50.29 dB.
+Transcoding completed successfully.

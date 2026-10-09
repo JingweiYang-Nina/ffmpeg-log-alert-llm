@@ -1,0 +1,4 @@
+﻿ffmpeg -i input.mov -c:v libx265 -tag:v hvc1 output.mp4
+[libx265 @ 0x55d7f3e8b040] Encoder not found
+Error initializing output stream 0:0 -- Error while opening encoder for input stream #0:0, try to use a different codec (codec id 27), or enable a specific encoder (e.g. 'libx265')
+Exiting due to error.

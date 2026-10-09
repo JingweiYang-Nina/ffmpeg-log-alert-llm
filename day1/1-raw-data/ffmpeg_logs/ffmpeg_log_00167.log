@@ -1,0 +1,8 @@
+﻿ffmpeg version N-105151-g030f250cd8-tessaract Copyright (c) 2000-2021 the FFmpeg developers
+built on Aug 18 2021 16:34:00 with gcc 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04)
+configuration: --enable-gpl --enable-libx264 --enable-libx265 --enable-libvpx --enable-libopus --enable-libfdk-aac --enable-libmp3lame
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input_corrupt.mp4':
+    Duration: 00:00:05.00, start: 0.000000, bitrate: 1000 kb/s
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55df946e3000] Failed to parse MP4/MOV header
+input_corrupt.mp4: Invalid data found when processing input
+Conversion failed!

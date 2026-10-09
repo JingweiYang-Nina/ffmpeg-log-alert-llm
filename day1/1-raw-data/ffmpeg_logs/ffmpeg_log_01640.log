@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.avi -c:v vp8 -qmin 10 -qmax 40 -b:v 1M output.webm
+ffmpeg version 4.4.2 Copyright (c) 2000-2021 the FFmpeg developers
+...
+[libvpx @ 0x55d7f191a300] PSNR average: 35.66 dB
+video:950kB audio:170kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.0%

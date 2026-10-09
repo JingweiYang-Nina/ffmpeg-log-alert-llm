@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'input_corrupted.mp4':
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55c68991a00] moov atom not found
+input_corrupted.mp4: Invalid data found when processing input
+Conversion failed!

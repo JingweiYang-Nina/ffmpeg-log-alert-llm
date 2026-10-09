@@ -1,0 +1,3 @@
+﻿frame=  120 fps= 15 q=-1.0 Lsize=    7000kB time=00:00:05.00 bitrate=11200.0kbits/s speed=0.7x
+video:6980kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.286340%
+[libvpx-vp9 @ 0x5560b2400] PSNR Y:40.21 U:43.15 V:44.88 Avg:41.56 Global:41.70

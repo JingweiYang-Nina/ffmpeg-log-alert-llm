@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105009-g20b8e9b0d2 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 11.4.0 (Ubuntu 11.4.0-1ubuntu1~22.04)
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55d7f132e000] Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+missing_clip.avi: No such file or directory

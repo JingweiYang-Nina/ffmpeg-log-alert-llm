@@ -1,0 +1,12 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 FFmpeg developers
+  configuration: --enable-gpl --enable-libx264 --enable-libx265
+Input #0, mov,mp4, from 'input_4.mp4':
+  Duration: 00:00:10.00, bitrate: 2000 kb/s
+    Stream #0:0: Video: h264 (High), 1920x1080, 30 fps
+
+Output #0, mp4, to 'output_4.mp4':
+  Stream #0:0: Video: h264 (H.264), 1920x1080, 30 fps
+frame=  305 fps= 26 q=28.0 Lsize= 2108kB time=00:00:10.00 bitrate=1894.0kbits/s speed=1.0x
+video:2018kB audio:108kB
+[libx264 @ 0x1234abcd] PSNR Mean Y:36.56 U:37.49 V:38.25 Avg:37.38 global:37.38
+[libx264 @ 0x1234abcd] encoded 305 frames

@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'source.mp4':
+Output #0, webm, to 'result.webm':
+frame=  500 fps= 23 q=27.0 Lsize=   2500kB time=00:00:20.00 bitrate=1000.0kbits/s speed=0.95x
+PSNR_Y:36.50 PSNR_U:40.10 PSNR_V:39.80 PSNR_AVG:38.25

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "The specified UDP port (1234) is already in use by another application or process.",
+    "resolution_steps": "Choose a different, available UDP port for the input stream, or identify and terminate the process currently using port 1234.",
+    "log_file": "ffmpeg_log_02294.log"
+}

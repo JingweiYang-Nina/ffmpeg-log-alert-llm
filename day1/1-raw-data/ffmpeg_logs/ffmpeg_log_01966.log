@@ -1,0 +1,5 @@
+﻿ffmpeg version N-105001-g57b491a03a-lsf Copyright (c) 2000-2022 the FFmpeg developers
+built with gcc 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.1)
+Configuration: --prefix=/usr/local --enable-gpl --enable-libx264
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0xccdc604084f7] moov atom not found
+corrupted_input.mov: Invalid data found when processing input

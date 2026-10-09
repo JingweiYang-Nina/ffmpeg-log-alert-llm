@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.3.1
+Output #0, mp4, to 'output.mp4':
+  Output file #0 does not contain any stream
+Error writing trailer of output.mp4: Permission denied
+Conversion failed!

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid value 'abc' for scale filter width.",
+    "resolution_steps": "The '-vf scale' filter requires integer values for width and height. Correct the scale parameters to numeric values (e.g., `-vf scale=1280:720`).",
+    "log_file": "ffmpeg_log_02407.log"
+}

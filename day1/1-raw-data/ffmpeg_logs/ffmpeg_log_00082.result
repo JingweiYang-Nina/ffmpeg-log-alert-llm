@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid parameter or syntax in FFmpeg command: '-ss'. Missing timestamp for '-ss' option.",
+    "resolution_steps": "Provide a valid timestamp for the `-ss` option (e.g., `-ss 00:01:30`).",
+    "log_file": "ffmpeg_log_00082.log"
+}

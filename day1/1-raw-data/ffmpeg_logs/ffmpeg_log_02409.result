@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input file 'corrupt_input.mp4' is corrupted (moov atom not found).",
+    "resolution_steps": "Verify the integrity of the input video file. Try re-downloading or obtaining an uncorrupted version of the file. Sometimes, a different player or tool might be able to recover parts of it, or FFmpeg might be able to read some frames if the corruption is not severe at the beginning.",
+    "log_file": "ffmpeg_log_02409.log"
+}

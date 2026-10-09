@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input protocol not found or stream URL is incorrect/unreachable.",
+    "resolution_steps": "1. Verify the streaming URL is correct and accessible. 2. Ensure FFmpeg is compiled with support for the specified protocol (e.g., RTMP). 3. Check network connectivity and firewall settings.",
+    "log_file": "ffmpeg_log_02708.log"
+}

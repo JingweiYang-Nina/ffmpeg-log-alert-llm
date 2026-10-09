@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "No space left on device when writing output file 'large_output.mp4'.",
+    "resolution_steps": "Free up disk space on the target drive or choose a different output directory with sufficient space.",
+    "log_file": "ffmpeg_log_01799.log"
+}

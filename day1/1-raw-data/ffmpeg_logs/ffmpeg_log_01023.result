@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Stream mapping error: specified stream not found or invalid.",
+    "resolution_steps": "Check the input file for available streams (`ffprobe input.mp4`) and correct the stream mapping in your FFmpeg command (e.g., `-map 0:v:0`).",
+    "log_file": "ffmpeg_log_01023.log"
+}

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Permission denied when writing output file 'output.mp4'",
+    "resolution_steps": "Check directory permissions for the output path. Ensure FFmpeg has write access to the target directory.",
+    "log_file": "ffmpeg_log_01865.log"
+}

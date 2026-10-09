@@ -1,0 +1,15 @@
+﻿ffmpeg -i input.mp4 -filter_complex '[0:v]yadif[v]' -map '[v]' output.mp4
+ffmpeg version N-98319-g561a37c37e Copyright (c) 2000-2023 the FFmpeg developers
+  libavutil      58. 17.100 / 58. 17.100
+  libavcodec     60. 25.100 / 60. 25.100
+  libavformat    60. 10.100 / 60. 10.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input.mp4':
+  Duration: 00:00:12.00, start: 0.000000, bitrate: 1200 kb/s
+    Stream #0:0: Video: h264, yuv420p, 1280x720, 25 fps
+Output #0, mp4, to 'output.mp4':
+  Stream #0:0: Video: h264 (libx264), yuv420p, 1280x720, q=-1, 25 fps
+frame=  300 fps= 24 q=28.0 size=    1000kB time=00:00:12.00 bitrate= 666.7kbits/s speed=0.96x
+video:950kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+[libx264 @ 0x55dc5c414600] frame=300 QP=21.0 PSNR Avg:43.11
+encoded 300 frames, 24.00 fps, 666.7kbits/s
+Transcoding successful.

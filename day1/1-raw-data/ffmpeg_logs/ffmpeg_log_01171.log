@@ -1,0 +1,8 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 The FFmpeg developers
+Input #0, mp4, from 'source.mp4':
+  Duration: 00:00:07.00, start: 0.000000, bitrate: 1500 kb/s
+Output #0, gif, to 'output.gif':
+  Stream #0:0: Video: gif, pal8, 640x360, 10 fps
+frame=   70 fps= 10 q=0.0 Lsize=    1000kB time=00:00:07.00 bitrate=1142.8kbits/s speed=1.0x
+video:1000kB audio:0kB
+PSNR=40.00 dB (Approximate for GIF conversion)

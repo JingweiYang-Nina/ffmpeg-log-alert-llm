@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.3.1
+Output #0, mp4, to 'output.mp4':
+  Output file #0 does not contain any stream
+[AVIOContext @ 0x55cc7076d100] Error writing file 'output.mp4': Disk quota exceeded
+Conversion failed!

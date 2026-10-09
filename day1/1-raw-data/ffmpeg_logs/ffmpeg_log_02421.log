@@ -1,0 +1,19 @@
+﻿ffmpeg version 4.3.1-2020-11-13-git-6b1c09b7e7 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 9 (Ubuntu 9.3.0-17ubuntu1~20.04)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input_video.mp4':
+  Duration: 00:00:30.00, start: 0.000000, bitrate: 500 kb/s
+    Stream #0:0(eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1280x720 [SAR 1:1 DAR 16:9], 30 fps, 30 tbr, 15360 tbn, 60 tbc (default)
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
+Output #0, mp4, to 'output_video.mp4':
+  Metadata:
+    encoder         : Lavf58.45.100
+    Stream #0:0(eng): Video: h264 (libx264) (avc1 / 0x31637661), yuv420p(progressive), 1280x720 [SAR 1:1 DAR 16:9], q=-1.0, 30 fps, 15360 tbn, 30 tbc (default)
+    Stream #0:1(eng): Audio: aac (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> libx264)
+  Stream #0:1 -> #0:1 (aac (native) -> aac)
+Press [q] to stop, [?] for help.
+[libx264 @ 0x55ac21085c80] PSNR Mean: Y:45.32 U:47.88 V:46.91 Avg:46.70 Global:46.70
+video:12345kB audio:5678kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.123456%
+frame=  900 fps= 30 q=-1.0 Lsize=   18023kB time=00:00:30.00 bitrate=4939.2kbits/s speed=1.0x    
+Conversion successful!

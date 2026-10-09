@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+Input #0, gif, from 'animation.gif':
+  Duration: 00:00:02.00
+Output #0, mp4, to 'animation.mp4':
+frame=   50 fps= 25 q=-1.0 Lsize=     200kB time=00:00:02.00 bitrate=800.0kbits/s speed=1.00x
+PSNR=44.44 dB

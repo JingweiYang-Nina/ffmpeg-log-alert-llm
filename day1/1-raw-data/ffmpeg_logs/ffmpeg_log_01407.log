@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105267-ge74c7e4a1c-tess full_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+... (omitted verbose output)
+[NULL @ 0x55581b2f90c0] Unable to find a suitable output format for 'C:\Path With Spaces\output.mp4 '
+C:\Path With Spaces\output.mp4 : Invalid argument

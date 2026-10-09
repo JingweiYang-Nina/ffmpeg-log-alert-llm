@@ -1,0 +1,4 @@
+﻿Output #0, mp4, to 'output_7.mp4':
+[AVIOContext @ 0x51e44f80164c] Could not open 'output_7.mp4': Permission denied
+Error writing header.
+Conversion failed!

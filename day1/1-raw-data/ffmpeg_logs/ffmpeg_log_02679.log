@@ -1,0 +1,7 @@
+﻿ffmpeg version N-105151-g721c00f074-tessr
+Input #0, mov,mp4, from 'input.mp4':
+  Duration: 00:00:10.00
+[mp4 @ 0x...] Option 'vframes' is deprecated, use -frames:v instead.
+Output #0, mp4, to 'output.mp4':
+frame=  250 fps= 25 q=28.0 size=  1500kB time=00:00:10.00 bitrate=1200.0kbits/s speed=1.0x    
+[libx264 @ 0x...] PSNR Mean Y:43.54 U:44.87 V:45.01 Avg:43.88 Global:43.88

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Error initializing video filters, likely due to invalid arguments for a filter (e.g., scale).",
+    "resolution_steps": "Check the syntax and values used for video filters (e.g., 'scale'). Ensure dimensions are valid and parameters are correctly applied.",
+    "log_file": "ffmpeg_log_00004.log"
+}

@@ -1,0 +1,7 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'input.mp4':
+  Duration: 00:00:10.00, start: 0.000000, bitrate: 1200 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:2 -> #0:1 (ERROR: Stream #0:2 does not exist)
+Cannot find a matching stream for 'Stream #0:2'.

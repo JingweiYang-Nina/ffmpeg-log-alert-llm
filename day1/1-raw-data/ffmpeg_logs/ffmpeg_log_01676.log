@@ -1,0 +1,17 @@
+﻿  built with gcc 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04)
+  libavcodec     59. 23.100 / 59. 23.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'source_390.mp4':
+  libavutil      57. 17.100 / 57. 17.100
+  Duration: 00:01:00.00, start: 0.000000, bitrate: 2000 kb/s
+frame= 100 fps=15 q=29.3 size=     905kB time=00:00:04.004 bitrate=1805.1kbits/s speed=0.15x
+Stream mapping:
+  Stream #0:1 -> #0:1 (aac (native) -> aac (aac_lc))
+Press [q] to stop, [?] for help
+  configuration: --enable-gpl --enable-libx264 --enable-libx265 --enable-libvpx --enable-libaom --enable-libopus --enable-libvorbis --enable-libmp3lame --enable-cuda-nvcc --enable-cuvid --enable-nvdec --enable-nvenc --enable-nonfree
+ffmpeg version N-105151-g7d363574c8 Copyright (c) 2000-2021 the FFmpeg developers
+Conversion failed: Buffer allocation failed
+[matroska @ 0x...] muxer does not support non seekable output
+  Stream #0:0(eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p, 1920x1080
+  libavformat    59. 17.100 / 59. 17.100
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1(eng): Audio: aac (LC), 48000 Hz, stereo

@@ -1,0 +1,4 @@
+﻿ffmpeg -i input.mp4 output.webm
+[webm @ 0x557fb4a1a680] Codec 'mpeg4' (id 12) is not supported by the muxer for the stream #0
+Could not write header for output file #0 (incorrect codec parameters ?): Invalid argument
+Exiting due to error.

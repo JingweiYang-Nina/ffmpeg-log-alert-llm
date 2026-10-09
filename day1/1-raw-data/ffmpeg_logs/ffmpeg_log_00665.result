@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Muxer does not support non-keyframes only.",
+    "resolution_steps": "The chosen output format (muxer) might not support specific stream properties or codecs. Try a different output container format (e.g., MP4 instead of WebM) or adjust stream parameters to match muxer capabilities.",
+    "log_file": "ffmpeg_log_00665.log"
+}

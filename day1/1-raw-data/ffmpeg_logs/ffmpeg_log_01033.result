@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Failed to connect to network destination (connection refused).",
+    "resolution_steps": "Ensure the target server/service is running, the IP address/port are correct, and no firewall is blocking the connection.",
+    "log_file": "ffmpeg_log_01033.log"
+}

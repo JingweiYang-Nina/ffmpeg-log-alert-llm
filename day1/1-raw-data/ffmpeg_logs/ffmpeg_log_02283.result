@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Error configuring video filters. The 'delogo' filter or its parameters might be incorrect.",
+    "resolution_steps": "Check the syntax and parameters for the 'delogo' filter. Ensure your FFmpeg build supports this filter. Test with a simpler filter to isolate the issue.",
+    "log_file": "ffmpeg_log_02283.log"
+}

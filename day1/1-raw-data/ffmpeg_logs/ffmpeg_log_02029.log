@@ -1,0 +1,7 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+[swscaler @ 0x123456789] No accelerated colorspace conversion found.
+Output #0, mov, to 'out.mov':
+[mov @ 0x123456789] Timestamps are unset in a packet for stream 0. This is deprecated and will stop working with a future version. Fix your code to set the timestamps properly
+frame=  120 fps= 15 q=-1.0 Lsize=   12000kB time=00:00:04.80 bitrate=20000.0kbits/s speed=0.60x
+PSNR=0.00 dB
+Conversion failed!

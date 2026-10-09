@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Corrupt or invalid input file: 'corrupt.mp4'",
+    "resolution_steps": "Verify the integrity of the input file. Try playing it in a media player or re-downloading/re-acquiring it.",
+    "log_file": "ffmpeg_log_02247.log"
+}

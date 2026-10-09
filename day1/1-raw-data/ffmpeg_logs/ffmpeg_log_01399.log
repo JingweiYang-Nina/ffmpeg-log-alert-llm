@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105267-ge74c7e4a1c-tess full_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+... (omitted verbose output)
+[AVFilterGraph @ 0x559e211116c0] Cannot create filter 'scale' with graph 'scale=-1:720'. Invalid argument.
+Error initializing complex filters.

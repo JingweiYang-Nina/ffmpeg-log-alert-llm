@@ -1,0 +1,8 @@
+﻿ffmpeg version 5.0.1 Copyright (c) 2000-2022 the FFmpeg developers
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'corrupted.mp4':
+  Duration: 00:00:05.00, start: 0.000000, bitrate: 500 kb/s
+    Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 640x360 [SAR 1:1 DAR 16:9], 469 kb/s, 25 fps, 25 tbr, 12800 tbn, 50 tbc (default)
+[mp4 @ 0x55b41d2797c0] Non-monotonous DTS in output stream 0:0; previous: 120, current: 119; changing to 120. This may result in incorrect timestamps in the output file.
+Error while decoding stream #0:0: Invalid data found when processing input
+video:0kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+Conversion failed!

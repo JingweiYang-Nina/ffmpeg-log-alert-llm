@@ -1,0 +1,4 @@
+﻿Input #0, lavfi, from 'buffer:video':
+  Duration: N/A, start: 0.000000, bitrate: N/A
+[h264 @ 0x...] Error parsing NAL unit #0.
+Error while decoding stream #0:0: Invalid data found when processing input.

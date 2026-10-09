@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Connection refused when trying to connect to RTMP server at 'rtmp://localhost/live/stream'.",
+    "resolution_steps": "Ensure the RTMP server is running and accessible at the specified address and port. Check firewall settings on both the client and server. Verify the RTMP URL is correct.",
+    "log_file": "ffmpeg_log_00204.log"
+}

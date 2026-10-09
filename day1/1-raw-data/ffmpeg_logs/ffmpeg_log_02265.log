@@ -1,0 +1,9 @@
+﻿ffmpeg version 5.1.2 Copyright (c) 2000-2022 the FFmpeg developers
+Input #0, mov,mp4, from 'input.mp4':
+  Duration: 00:00:10.00, start: 0.000000, bitrate: 500 kb/s
+    Stream #0:0: Video: h264, 1280x720, 25 fps
+Output #0, mp4, to 'output.mp4':
+[libx264 @ 0x555c4d634900] width not divisible by 2 (1280x721)
+Error opening filters!
+Error initializing output stream 0:0 -- Error while opening encoder for input stream #0:0, try to use a different codec (via -c) or enable the corresponding encoder in the build (via --enable-libx264).
+Conversion failed!

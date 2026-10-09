@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Error initializing filter 'scale'",
+    "resolution_steps": "Ensure the specified resolution or scaling parameters are valid and that input video dimensions are not problematic. Check for typos in the filter name or arguments.",
+    "log_file": "ffmpeg_log_01692.log"
+}

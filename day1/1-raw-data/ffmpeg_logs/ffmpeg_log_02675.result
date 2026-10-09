@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Failed to initialize D3D11 device for hardware acceleration.",
+    "resolution_steps": "Update your graphics drivers to the latest version. Ensure your system supports D3D11. If issues persist, try disabling hardware acceleration by removing '-hwaccel' options.",
+    "log_file": "ffmpeg_log_02675.log"
+}

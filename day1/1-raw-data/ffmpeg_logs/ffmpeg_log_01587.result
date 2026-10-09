@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unsupported pixel format 'yuv444p10le' for encoder 'libx264'.",
+    "resolution_steps": "Change the pixel format to one supported by the chosen encoder (e.g., `yuv420p`), or select an encoder that supports the desired pixel format. Use `ffmpeg -h encoder=<encoder_name>` to see supported pixel formats.",
+    "log_file": "ffmpeg_log_01587.log"
+}

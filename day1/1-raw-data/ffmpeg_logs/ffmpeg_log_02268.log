@@ -1,0 +1,9 @@
+﻿ffmpeg version 5.1.2 Copyright (c) 2000-2022 the FFmpeg developers
+Input #0, mov,mp4, from 'input.mp4':
+  Duration: 00:00:25.00, start: 0.000000, bitrate: 1500 kb/s
+    Stream #0:0: Video: h264, 1920x1080, 30 fps
+Output #0, mp4, to 'output.mp4':
+    Stream #0:0: Video: h264, 1920x1080, 30 fps
+frame=  750 fps= 70 q=-1.0 Lsize=   18750kB time=00:00:25.00 bitrate=6000.0kbits/s speed=   2.3x    
+video:18750kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000%
+[Parsed_psnr_0 @ 0x12345678] PSNR y:52.05 u:53.12 v:53.44 ave:52.87 max:54.00

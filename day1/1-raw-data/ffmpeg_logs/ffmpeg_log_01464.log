@@ -1,0 +1,4 @@
+﻿ffmpeg -i source.flv -c copy -map 0 output.mp4
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f23c0000000] Muxer does not support non seekable output
+Could not write header for output file #0 (incorrect codec parameters ?): Invalid argument
+Exiting due to error.

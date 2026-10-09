@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Audio encoding failure.",
+    "resolution_steps": "Check the audio codec, sample rate, and channel layout. Ensure the chosen audio encoder is installed and correctly configured.",
+    "log_file": "ffmpeg_log_02837.log"
+}

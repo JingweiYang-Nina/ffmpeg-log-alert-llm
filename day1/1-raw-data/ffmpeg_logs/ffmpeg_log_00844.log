@@ -1,0 +1,10 @@
+﻿FFmpeg version N-105009-g1e0d3d3d4b Copyright (c) 2000-2023 the FFmpeg developers
+  built with gcc 12.2.0 (Debian 12.2.0-14)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'source_video_01.mp4':
+  Duration: 00:01:30.00, start: 0.000000, bitrate: 6000 kb/s
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1920x1080 [SAR 1:1 DAR 16:9], 59.94 fps, 59.94 tbr, 60k tbn, 120k tbc
+Output #0, mp4, to 'output_video_01.mp4':
+  Stream #0:0(und): Video: h264 (libx264) (avc1 / 0x31637661), yuv420p(tv, bt709), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 4000 kb/s, 59.94 fps, 60k tbn, 59.94 tbc
+frame= 5394 fps=180 q=28.0 Lsize=   45000kB time=00:01:30.00 bitrate=4000.0kbits/s speed=3.0x    
+video:44000kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead:0.000%
+[Parsed_psnr_0 @ 0x5608d0e2b9c0] PSNR y:47.12 U:49.01 V:48.55 average:48.23 min:45.67 max:50.09

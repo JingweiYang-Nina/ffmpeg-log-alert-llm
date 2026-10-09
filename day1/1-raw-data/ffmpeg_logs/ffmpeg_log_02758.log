@@ -1,0 +1,4 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 9 (Ubuntu 9.3.0-17ubuntu1~20.04)
+Unrecognized option '-preset_fast'.
+Error splitting the argument list: Option not found

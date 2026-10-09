@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 FFmpeg developers
+...
+[AVIOContext @ 0x...] Error parsing global options: Unknown encoder 'libx265'.
+Error initializing output stream 0:0 -- Error while opening encoder for output stream #0:0, try to use a different codec.
+Could not write header for output file #0 (incorrect codec parameters ?): Invalid argument
+Error while transcoding.

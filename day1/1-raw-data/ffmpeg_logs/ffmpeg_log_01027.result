@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Corrupt input video stream (H.264).",
+    "resolution_steps": "The input video file is likely corrupted or malformed. Try validating the source file or obtaining a non-corrupted version.",
+    "log_file": "ffmpeg_log_01027.log"
+}

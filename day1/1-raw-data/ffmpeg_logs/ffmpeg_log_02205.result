@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Incorrect placement of 'ss' option (start time offset).",
+    "resolution_steps": "The `-ss` option for seeking should generally be placed *before* the input file (`-i`) to enable fast seeking. If seeking output, it should be before the output file.",
+    "log_file": "ffmpeg_log_02205.log"
+}

@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105151-g741697e884-tessarade-git Copyright (c) 2000-2022 the FFmpeg developers
+Output #0, mp4, to '/path/to/output.mp4':
+No space left on device
+Error writing file '/path/to/output.mp4'.

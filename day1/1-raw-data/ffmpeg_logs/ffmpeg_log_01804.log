@@ -1,0 +1,6 @@
+﻿ffmpeg version 5.1.2-0ubuntu1 Copyright (c) 2000-2022 FFmpeg developers
+Input #0, mov, from 'input.mp4':
+[AVHWDeviceContext @ 0x55e968000000] Failed to create CUDA context: CUDA_ERROR_NO_DEVICE
+Error creating hardware device context.
+Failed to set value 'cuda' for option 'init_hw_device': Generic error in an external library
+Error parsing global options: Generic error in an external library

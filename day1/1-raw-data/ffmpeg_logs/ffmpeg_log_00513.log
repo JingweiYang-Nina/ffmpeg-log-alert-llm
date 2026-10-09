@@ -1,0 +1,8 @@
+﻿ffmpeg version N-105566-gc456e7e0d3 Copyright (c) 2000-2022 The FFmpeg developers
+  built with gcc 11.2.0 (Rev4, Built by MSYS2)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input.mp4':
+  Duration: 00:00:10.00
+frame=  250 fps= 24 q=-1.0 Lsize=   1800kB time=00:00:09.96 bitrate=1400kbits/s speed=0.98x    
+video:1700kB audio:100kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+PSNR Mean: Y:45.10 U:47.30 V:46.90 Average:45.80 dB
+Conversion finished successfully.

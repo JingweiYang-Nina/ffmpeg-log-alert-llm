@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Output file does not contain any stream. This is likely due to an `-ss` (start time) value far exceeding the input duration, resulting in no frames being processed.",
+    "resolution_steps": "Adjust the `-ss` (start time) value to be within the actual duration of the input video. Check the input video's duration first.",
+    "log_file": "ffmpeg_log_01635.log"
+}

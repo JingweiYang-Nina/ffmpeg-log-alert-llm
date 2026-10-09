@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105151-g25e9d9e6f8 Copyright (c) 2000-2024 the FFmpeg developers
+Input #0, mov, from 'input.mp4':
+  Duration: 00:00:10.00
+output.mp4: Permission denied

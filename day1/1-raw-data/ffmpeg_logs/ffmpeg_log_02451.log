@@ -1,0 +1,13 @@
+﻿ffmpeg version 4.3.1-2020-11-13-git-6b1c09b7e7 Copyright (c) 2000-2020 the FFmpeg developers
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input_video.mp4':
+  Duration: 00:00:08.00, start: 0.000000, bitrate: 350 kb/s
+    Stream #0:0: Video: h264, yuv420p, 1280x720, 30 fps
+Output #0, mp4, to 'output_video.mp4':
+    Stream #0:0: Video: h264 (libx264), yuv420p, 1280x720, 30 fps
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> libx264)
+Press [q] to stop, [?] for help.
+[libx264 @ 0x55ac21085c80] PSNR Mean: Y:43.05 U:45.30 V:44.15 Avg:44.20 Global:44.20
+video:3500kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.200000%
+frame=  240 fps= 30 q=-1.0 Lsize=    3500kB time=00:00:08.00 bitrate=3500.0kbits/s speed=1.0x    
+Conversion successful!

@@ -1,0 +1,6 @@
+﻿Here's an FFmpeg log snippet:
+
+frame= 2000 fps=100 q=28.0 size=  18000kB time=00:01:20.00 bitrate=1800.0kbits/s speed=4.00x    
+video:17600kB audio:400kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+[libx264 @ 0x555c2f821100] PSNR Mean Y:47.10 U:49.30 V:49.00 Avg:48.30 global:48.15
+Successfully completed video conversion.

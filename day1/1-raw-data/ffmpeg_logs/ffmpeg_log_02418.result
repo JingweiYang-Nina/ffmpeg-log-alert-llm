@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Attempted to map non-existent stream #0:2.",
+    "resolution_steps": "Check the input file for available streams using `ffprobe input.mp4` and correct the stream mapping in your FFmpeg command to reference an existing stream (e.g., #0:0 for video, #0:1 for audio).",
+    "log_file": "ffmpeg_log_02418.log"
+}

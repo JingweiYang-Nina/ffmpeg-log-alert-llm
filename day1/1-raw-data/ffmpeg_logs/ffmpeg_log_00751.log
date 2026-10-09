@@ -1,0 +1,11 @@
+﻿ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 the FFmpeg developers
+... (input and output file details) ...
+Output #0, mp4, to 'output_video.mp4':
+  Metadata:
+    encoder         : Lavf58.76.100
+  Stream #0:0: Video: h264 (libx264), yuv420p(progressive), 1280x720 [SAR 1:1 DAR 16:9], q=2-31, 25 fps, 12800 tbn
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp, 128 kb/s
+video:2866kB audio:205kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.176228%
+[Parsed_psnr_0 @ 0x55e9c0b115c0] PSNR y:45.23 u:46.12 v:47.01 average:45.89 min:40.01 max:50.12
+size=    3076kB time=00:00:10.00 bitrate=2516.8kbits/s speed=4.5x
+video:2866kB audio:205kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.176228%

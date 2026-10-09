@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "RTSP stream 'rtsp://192.168.1.100/stream' returned 404 Not Found.",
+    "resolution_steps": "Check if the RTSP server is running and the stream path is correct. Verify network connectivity to the RTSP server. The stream might be temporarily unavailable or requires authentication.",
+    "log_file": "ffmpeg_log_02904.log"
+}

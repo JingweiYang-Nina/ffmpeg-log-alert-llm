@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Could not open 'output_locked.mp4': Permission denied.",
+    "resolution_steps": "Check file permissions for the output directory or choose a different output path.",
+    "log_file": "ffmpeg_log_00968.log"
+}

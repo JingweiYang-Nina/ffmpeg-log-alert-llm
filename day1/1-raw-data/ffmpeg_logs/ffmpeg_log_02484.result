@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Option 'vf' not found",
+    "resolution_steps": "Check FFmpeg command-line syntax. 'vf' should be '-vf'. Refer to FFmpeg documentation for correct options.",
+    "log_file": "ffmpeg_log_02484.log"
+}

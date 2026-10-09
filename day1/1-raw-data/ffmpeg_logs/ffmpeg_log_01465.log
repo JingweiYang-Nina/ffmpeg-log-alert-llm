@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.avi -c:v vp9 -b:v 1M output.webm
+frame= 500 fps= 70 q=30.0 size= 1000kB time=00:00:20.00 bitrate=400.0kbits/s speed=3.5x 
+PSNR mean:35.45
+video:1000kB audio:200kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.100%
+Exiting normally, finished.

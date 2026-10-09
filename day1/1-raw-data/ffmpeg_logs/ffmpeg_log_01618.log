@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.webm -c:v libvpx-vp9 -crf 30 -b:v 1M output.mp4
+ffmpeg version 4.4.2 Copyright (c) 2000-2021 the FFmpeg developers
+...
+[libvpx-vp9 @ 0x55d7f191a300] PSNR average: 38.56 dB
+video:1024kB audio:240kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.0%

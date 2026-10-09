@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Non-monotonous DTS error",
+    "resolution_steps": "Try re-encoding the input file, updating FFmpeg, or using a different muxer/encoder if available.",
+    "log_file": "ffmpeg_log_01829.log"
+}

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid or unrecognized FFmpeg command-line option.",
+    "resolution_steps": "Review the FFmpeg documentation for correct syntax and available options. Check for typos in flags.",
+    "log_file": "ffmpeg_log_02123.log"
+}

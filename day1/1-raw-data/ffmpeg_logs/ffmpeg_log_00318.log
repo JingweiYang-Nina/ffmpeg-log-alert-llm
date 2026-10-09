@@ -1,0 +1,5 @@
+﻿ffmpeg -i concert.ts -c:v copy -c:a aac -b:a 128k concert.mp4
+... (log lines) ...
+frame= 800 fps= 27 q=-1.0 Lsize=   30000kB time=00:00:30.00 bitrate=8000.0kbits/s speed=0.9x
+video:29000kB audio:1000kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.5%
+PSNR y:49.02 u:51.01 v:50.88 average:50.30 min:38.00 max:55.00

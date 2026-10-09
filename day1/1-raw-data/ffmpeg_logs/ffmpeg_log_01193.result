@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Resolution not divisible by 2.",
+    "resolution_steps": "Ensure video width and height are divisible by 2, as required by many codecs like H.264. Adjust scaling parameters accordingly.",
+    "log_file": "ffmpeg_log_01193.log"
+}

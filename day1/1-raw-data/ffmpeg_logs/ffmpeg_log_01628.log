@@ -1,0 +1,4 @@
+﻿ffmpeg -i /path/to/missing/file.mp4 -c:v libx264 out.mp4
+ffmpeg version 4.4.2 Copyright (c) 2000-2021 the FFmpeg developers
+...
+/path/to/missing/file.mp4: No such file or directory

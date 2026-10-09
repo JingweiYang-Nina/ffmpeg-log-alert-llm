@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Hardware acceleration (CUDA) initialization failed.",
+    "resolution_steps": "Ensure correct GPU drivers are installed and up-to-date. Verify CUDA toolkit compatibility with FFmpeg version. Try disabling hardware acceleration (`-hwaccel none`).",
+    "log_file": "ffmpeg_log_02586.log"
+}

@@ -1,0 +1,5 @@
+﻿ffmpeg -i source.mov -c:v libx264 -crf 23 /mnt/full_disk/output.mp4
+ffmpeg version 4.4.2 Copyright (c) 2000-2021 the FFmpeg developers
+...
+Error writing trailer of /mnt/full_disk/output.mp4: No space left on device
+Conversion failed!

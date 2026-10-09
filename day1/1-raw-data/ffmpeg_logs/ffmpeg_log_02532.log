@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mp4 -c:v h264_qsv output_qsv.mp4
+ffmpeg version 4.4 Copyright (c) 2000-2021 Fabrice Bellard et al.
+[h264_qsv @ 0x...] A required device (Intel media driver) is not available
+Error initializing output stream 0:0 -- Error while opening encoder for output stream #0:0 - maybe incorrect parameters such as bitrate, rate, width or height
+Conversion failed!

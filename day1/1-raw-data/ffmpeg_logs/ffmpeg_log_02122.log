@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.3.1-2020-11-09-git Copyright (c) 2000-2020 the FFmpeg developers
+Output #0, mp4, to 'large_output.mp4':
+frame= 120 fps= 20 q=28.0 size= 120000kB time=00:00:04.80 bitrate=200000.0kbits/s speed=0.8x
+[out.mp4] Input/output error
+Error writing file 'large_output.mp4': No space left on device

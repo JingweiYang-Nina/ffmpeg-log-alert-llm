@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Encoder parameters are incompatible with the output container format (MP4), or other invalid arguments were provided.",
+    "resolution_steps": "Review codec parameters (e.g., pixel format, profile, level) and ensure they are compatible with the chosen container format. Check FFmpeg command for any general invalid arguments or conflicting options.",
+    "log_file": "ffmpeg_log_01118.log"
+}

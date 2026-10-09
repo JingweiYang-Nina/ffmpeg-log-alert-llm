@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Generic error writing output file header.",
+    "resolution_steps": "This is a general error, but often points to issues like insufficient disk space, incorrect file permissions, or an invalid output path/filename. Verify disk space, check permissions for the output directory, and ensure the output file path is valid.",
+    "log_file": "ffmpeg_log_02452.log"
+}

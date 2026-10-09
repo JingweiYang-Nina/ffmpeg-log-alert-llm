@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Cannot open device /dev/video0: Device or resource busy. Error opening input.",
+    "resolution_steps": "Another application or process is likely using the input device (`/dev/video0`). Close any applications that might be using the device (e.g., webcam software) and try again. If it's a file, ensure no other process has an exclusive lock on it.",
+    "log_file": "ffmpeg_log_02806.log"
+}

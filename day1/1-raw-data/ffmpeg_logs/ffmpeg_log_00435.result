@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Output file 'output.mp4' already exists. Use -y to overwrite.",
+    "resolution_steps": "Rename the output file or add `-y` to the FFmpeg command to overwrite.",
+    "log_file": "ffmpeg_log_00435.log"
+}

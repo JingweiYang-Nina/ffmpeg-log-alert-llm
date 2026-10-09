@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid audio stream data found.",
+    "resolution_steps": "The audio stream in the input file might be corrupt. Try to re-encode the audio or use a different source.",
+    "log_file": "ffmpeg_log_02146.log"
+}

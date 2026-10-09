@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "AMF error 19: AMF_NOT_SUPPORTED (Error initializing AMF). This indicates a problem with AMD's Advanced Media Framework or hardware support for HEVC encoding.",
+    "resolution_steps": "Ensure AMD GPU drivers are up-to-date and correctly installed. Verify that your AMD hardware supports HEVC encoding and that FFmpeg is compiled with AMF support. Try a different encoder if issues persist.",
+    "log_file": "ffmpeg_log_01646.log"
+}

@@ -1,0 +1,7 @@
+﻿ffmpeg version 5.1.2-0ubuntu1 Copyright (c) 2000-2022 FFmpeg developers
+Input #0, mov,mp4, from 'source.mp4':
+  Duration: 00:00:05.00
+Output #0, mp4, to 'destination.mp4':
+frame=  125 fps= 30 q=-1.0 Lsize=   1200kB time=00:00:05.00 bitrate=1920.0kbits/s
+[Parsed_psnr_0 @ 0x123456789abc] PSNR average: 52.10 dB
+Transcoding completed.

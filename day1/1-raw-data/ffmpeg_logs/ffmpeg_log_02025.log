@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+Input #0, mov,mp4, from 'input.mp4':
+  Duration: 00:00:10.00
+[mp4 @ 0x123456789] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 60100 >= 60000
+Output file #0 does not contain any stream
+Conversion failed!

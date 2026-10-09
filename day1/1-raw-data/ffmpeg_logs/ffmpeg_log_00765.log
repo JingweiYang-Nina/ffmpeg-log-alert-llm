@@ -1,0 +1,9 @@
+﻿ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 the FFmpeg developers
+... (input and output file details) ...
+Output #0, mp4, to 'low_res.mp4':
+  Metadata:
+    encoder         : Lavf58.76.100
+  Stream #0:0: Video: h264 (libx264), yuv420p, 480x270, 24 fps
+  Stream #0:1: Audio: aac, 44100 Hz, mono
+frame= 720 fps= 24 q=31.0 size=   150kB time=00:00:30.00 bitrate=40.0kbits/s speed=1.1x
+[Parsed_psnr_0 @ 0x55e9c0b115c0] PSNR y:38.25 u:39.15 v:40.05 average:39.15 min:33.00 max:44.00

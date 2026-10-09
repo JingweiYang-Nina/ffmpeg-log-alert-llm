@@ -1,0 +1,2 @@
+﻿[aac @ 0x56230f81a780] The encoder 'aac' is experimental but experimental codecs are not enabled, add '-strict -2' if you want to use it.
+Error initializing output stream 0:1 -- Error while opening encoder for output stream #0:1 - maybe incorrect parameters such as codec tags (bit_rate, extra_data or key_frame_rate) or missing headers

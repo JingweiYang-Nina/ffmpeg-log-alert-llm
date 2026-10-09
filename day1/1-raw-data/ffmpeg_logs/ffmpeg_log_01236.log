@@ -1,0 +1,6 @@
+﻿frame=  250 fps= 30 q=30.0 size=  1280kB time=00:00:08.33 bitrate=1228.8kbits/s speed=1.2x
+[libx264 @ 0x555555555555] frame I:1     Avg QP:20.00  size:  5000
+[libx264 @ 0x555555555555] frame P:249   Avg QP:23.00  size:  2000
+Output file #00: 'final_video.mkv'
+  Duration: 00:00:08.33, start: 0.000000, bitrate: 1228 kb/s
+    Stream #0:0(eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 1000k tbn (default)

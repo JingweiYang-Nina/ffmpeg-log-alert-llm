@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 FFmpeg developers
+...
+[AVIOContext @ 0x...] Failed to open 'output.mp4': Permission denied
+Could not open output file 'output.mp4': Permission denied
+Error while transcoding.

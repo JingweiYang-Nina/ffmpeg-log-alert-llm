@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Video width or height not divisible by 2.",
+    "resolution_steps": "Adjust the output resolution so that both width and height are even numbers. For example, change 1280x719 to 1280x720 or 1278x718.",
+    "log_file": "ffmpeg_log_02730.log"
+}

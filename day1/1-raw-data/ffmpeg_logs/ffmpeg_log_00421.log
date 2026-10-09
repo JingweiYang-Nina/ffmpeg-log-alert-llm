@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'input.mp4':
+Output #0, mp4, to 'output.mp4':
+[mp4 @ 0x55a9b71a1000] Could not find tag for codec h265 in stream #0, codec not currently supported in container
+Could not write header for output file #0 (incorrect codec parameters ?): Invalid argument
+Error writing trailer of output.mp4: Invalid argument

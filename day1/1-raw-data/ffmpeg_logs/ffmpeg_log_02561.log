@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.4.1 Copyright (c) 2000-2021 Fabrice Bellard et al.
+  Output #0, mp4, to 'output_8.mp4':
+    Stream #0:0: Video: h264 (libx264), yuv420p, 854x480 [SAR 1:1 DAR 16:9], q=-1, 24 fps
+  frame=  480 fps= 32 q=-1.0 Lsize=    6000kB time=00:00:20.00 bitrate=2400.0kbits/s speed= 1.3x    
+video:5800kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 3.44%
+PSNR=44.92 dB

@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mov -c:v prores -profile:v 3 -c:a pcm_s16le output.mov
+ffmpeg version 4.4.2 Copyright (c) 2000-2021 the FFmpeg developers
+...
+[prores @ 0x55d7f191a300] PSNR average: 46.77 dB
+video:8000kB audio:500kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.0%

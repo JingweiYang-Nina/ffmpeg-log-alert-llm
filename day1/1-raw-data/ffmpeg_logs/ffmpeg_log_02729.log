@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'input.mp4':
+Output #0, mov, to 'output.mov':
+[mov @ 0x55c68991a00] Only 'mp4' or 'ismv' or '3gp' or '3g2' or 'mj2' can be used for fragmented files.
+Conversion failed!

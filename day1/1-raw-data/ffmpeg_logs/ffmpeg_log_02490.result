@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid argument '4800' for option 'ar'",
+    "resolution_steps": "The audio sample rate '4800' is likely a typo. It should be '48000'. Correct the sample rate value.",
+    "log_file": "ffmpeg_log_02490.log"
+}

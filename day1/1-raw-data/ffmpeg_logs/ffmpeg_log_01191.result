@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Muxer/container format incompatibility.",
+    "resolution_steps": "Choose a different output container format that supports the selected codecs, or adjust codecs to be compatible with the desired container.",
+    "log_file": "ffmpeg_log_01191.log"
+}

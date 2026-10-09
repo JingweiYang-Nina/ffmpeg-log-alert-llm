@@ -1,0 +1,2 @@
+﻿ffmpeg version N-105151-g741697e884-tessarade-git Copyright (c) 2000-2022 the FFmpeg developers
+[libx264 @ 0x55a90d407bc0] VBV maxrate/bufsize are too small for the given crf/preset. Please increase them or decrease crf/preset.

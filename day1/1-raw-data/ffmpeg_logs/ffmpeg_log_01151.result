@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input file 'non_existent_file.mkv' not found.",
+    "resolution_steps": "Verify the input file path and name. Ensure the file exists and FFmpeg has read permissions.",
+    "log_file": "ffmpeg_log_01151.log"
+}

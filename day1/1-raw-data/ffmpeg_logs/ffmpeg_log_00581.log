@@ -1,0 +1,2 @@
+﻿ffmpeg version 4.3.1-2021-01-01 Copyright (c) 2000-2021 the FFmpeg developers
+Error while opening encoder for output stream #0:0 - maybe incorrect parameters such as codec parameters, rate, or key frame settings

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Failed to initialize VAAPI hardware acceleration (unknown VAAPI error).",
+    "resolution_steps": "Ensure your system supports VAAPI and the necessary drivers (e.g., mesa-va-drivers for Intel) are installed. Verify FFmpeg was compiled with VAAPI support. Try updating your kernel and graphics drivers.",
+    "log_file": "ffmpeg_log_01805.log"
+}

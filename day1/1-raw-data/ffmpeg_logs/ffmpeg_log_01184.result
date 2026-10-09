@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Disk space full.",
+    "resolution_steps": "Free up disk space on the output drive or specify a different output path with sufficient space.",
+    "log_file": "ffmpeg_log_01184.log"
+}

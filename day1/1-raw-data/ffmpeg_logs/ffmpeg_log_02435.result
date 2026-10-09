@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input file appears to be corrupted or has invalid stream data (SPS missing/invalid).",
+    "resolution_steps": "Verify the integrity of the input video file. Try playing it in a media player. If corrupted, attempt to repair it using specialized tools or re-acquire a valid copy.",
+    "log_file": "ffmpeg_log_02435.log"
+}

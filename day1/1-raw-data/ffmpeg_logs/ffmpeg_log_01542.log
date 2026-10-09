@@ -1,0 +1,6 @@
+﻿ffmpeg version N-105151-g25e9d9e6f8 Copyright (c) 2000-2024 the FFmpeg developers
+Input #0, mov, from 'input.mp4':
+  Duration: 00:00:10.00
+Output #0, mp4, to 'output.mp4':
+[mp4 @ 0x...] User-specified channel layout for output stream 0:1 is not compatible with AVFrame: input has 2 channels, but channel layout indicates 1
+Conversion failed!

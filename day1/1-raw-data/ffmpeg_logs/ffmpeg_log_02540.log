@@ -1,0 +1,23 @@
+﻿ffmpeg -i input.mp4 -vn -c:a pcm_s16le output.wav
+ffmpeg version 4.4 Copyright (c) 2000-2021 Fabrice Bellard et al.
+  libavutil      56. 70.100 / 56. 70.100
+  libavcodec     58.134.100 / 58.134.100
+  libavformat    58. 76.100 / 58. 76.100
+  libavdevice    58. 13.100 / 58. 13.100
+  libavfilter     7.110.100 /  7.110.100
+  libswscale      5.  9.100 /  5.  9.100
+  libswresample   3.  9.100 /  3.  9.100
+  libpostproc    55.  9.100 / 55.  9.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input.mp4':
+  Duration: 00:00:05.00, start: 0.000000, bitrate: 1000 kb/s
+    Stream #0:0: Video: h264 (High), yuv420p(tv), 1280x720, 800 kb/s, 25 fps
+    Stream #0:1: Audio: aac (LC), 44100 Hz, stereo, fltp, 200 kb/s
+Output #0, wav, to 'output.wav':
+  Metadata:
+    encoder         : Lavf58.76.100
+    Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 44100 Hz, stereo, s16, 1411 kb/s
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le)
+Press [q] to stop, [?] for help.
+size=     870kB time=00:00:05.00 bitrate=1411.2kbits/s speed= 3.32x
+audio:870kB video:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.0%

@@ -1,0 +1,7 @@
+﻿ffmpeg version N-105151-g25e9d9e6f8 Copyright (c) 2000-2024 the FFmpeg developers
+Input #0, mkv, from 'episode.mkv':
+  Duration: 00:20:00.00
+Output #0, mp4, to 'episode_transcoded.mp4':
+  Stream #0:0: Video: h264 (libx264), yuv420p, 1920x1080, 24 fps
+frame=28800 fps=24 q=-1.0 Lsize=  256000kB time=00:20:00.00 bitrate=17066.7kbits/s speed=1.0x    
+video:250000kB audio:6000kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000%

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid arguments for video filter 'scale'",
+    "resolution_steps": "Check the scale filter syntax and ensure dimensions (width:height) are valid integers and make sense.",
+    "log_file": "ffmpeg_log_01870.log"
+}

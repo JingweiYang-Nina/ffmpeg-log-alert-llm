@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "AAC encoder is experimental and needs to be explicitly enabled.",
+    "resolution_steps": "Add '-strict -2' or '-strict experimental' to your FFmpeg command before the output file to enable the use of experimental codecs like AAC.",
+    "log_file": "ffmpeg_log_01114.log"
+}

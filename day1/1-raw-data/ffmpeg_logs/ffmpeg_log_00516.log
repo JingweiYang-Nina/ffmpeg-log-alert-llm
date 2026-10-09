@@ -1,0 +1,8 @@
+﻿ffmpeg version N-105566-gc456e7e0d3 Copyright (c) 2000-2022 The FFmpeg developers
+  built with gcc 11.2.0 (Rev4, Built by MSYS2)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input.mp4':
+  Duration: 00:00:10.00
+Output #0, mp4, to 'output.mp4':
+[aac @ 0x55a98c0000] The encoder 'aac' is experimental but experimental codecs are not enabled, add '-strict -2' or '-strict experimental' to enable it.
+Error initializing output stream 0:1.
+Conversion failed!

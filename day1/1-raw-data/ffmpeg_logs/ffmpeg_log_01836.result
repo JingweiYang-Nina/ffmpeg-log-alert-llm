@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Bitstream filter error",
+    "resolution_steps": "This often indicates a problem with the input video's stream headers. Try re-encoding the source or using a different bitstream filter.",
+    "log_file": "ffmpeg_log_01836.log"
+}

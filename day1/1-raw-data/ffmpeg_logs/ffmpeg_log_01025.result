@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Audio encoding error: Too many bits in a frame.",
+    "resolution_steps": "This can indicate corrupted input audio or an issue with audio bitrate/parameters. Try adjusting the audio bitrate (`-b:a`), using a different audio codec, or re-encoding the audio track.",
+    "log_file": "ffmpeg_log_01025.log"
+}

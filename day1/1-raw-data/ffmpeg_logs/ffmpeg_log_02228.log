@@ -1,0 +1,5 @@
+﻿ffmpeg -i video.mp4 output.mp4
+Permission denied
+Could not open 'output.mp4': Permission denied
+
+ffmpeg exited with code 1.

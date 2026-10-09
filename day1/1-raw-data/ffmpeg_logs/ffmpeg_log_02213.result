@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Broken pipe error when opening input file 'input_broken_pipe.mp4'.",
+    "resolution_steps": "This often indicates an issue with data transfer, especially when piping input or output. Check if the source generating the pipe data is still active or if the file path is correct.",
+    "log_file": "ffmpeg_log_02213.log"
+}

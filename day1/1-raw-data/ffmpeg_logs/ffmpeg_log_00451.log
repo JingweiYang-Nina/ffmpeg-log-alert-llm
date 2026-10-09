@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105009-g23588e00e0-20231023 Copyright (c) 2000-2023 the FFmpeg developers
+Value 50000000 for parameter 'b' out of range [0 - 2147483647]
+Error setting options for output stream #0:0: Invalid argument
+Conversion failed!

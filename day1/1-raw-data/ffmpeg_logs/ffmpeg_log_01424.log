@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105156-g817c376c9b Copyright (c) 2000-2022 the FFmpeg developers
+  built with gcc 11.2.0 (Rev4, Built by MSYS2 project)
+[AVInputFileLoader] Could not open 'non_existent.mp4': No such file or directory
+input.mp4: No such file or directory

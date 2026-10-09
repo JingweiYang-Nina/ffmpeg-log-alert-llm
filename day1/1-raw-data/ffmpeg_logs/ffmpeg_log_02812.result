@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Permission denied for output file.",
+    "resolution_steps": "Check write permissions for the output directory and file.",
+    "log_file": "ffmpeg_log_02812.log"
+}

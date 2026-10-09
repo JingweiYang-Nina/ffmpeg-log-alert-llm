@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Permission denied when trying to read 'read_only_input.mp4'.",
+    "resolution_steps": "Ensure that FFmpeg has read permissions for the input file 'read_only_input.mp4'. Check file permissions and adjust them if necessary, or run FFmpeg with elevated privileges.",
+    "log_file": "ffmpeg_log_02412.log"
+}

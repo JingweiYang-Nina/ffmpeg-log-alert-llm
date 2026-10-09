@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Pixel format yuv444p16 not supported by codec. Error initializing video encoder: Invalid argument.",
+    "resolution_steps": "The specified pixel format (`-pix_fmt`) is not supported by the chosen video encoder. Try a more common pixel format like `yuv420p` or `yuv422p`. Use `ffmpeg -pix_fmts` to list supported formats and check encoder documentation for specific compatibility.",
+    "log_file": "ffmpeg_log_02808.log"
+}

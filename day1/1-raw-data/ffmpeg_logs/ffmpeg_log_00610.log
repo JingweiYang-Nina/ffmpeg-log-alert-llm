@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.3.1-2021-01-01 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4 from 'phone_video.mp4':
+  Duration: 00:00:20.00
+Output #0, mp4, to 'phone_video_out.mp4':
+frame=  500 fps= 27 q=28.0 size=   4896kB time=00:00:20.00 bitrate=1999.9kbits/s speed=1.05x    PSNR=46.90dB
+video:4896kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%

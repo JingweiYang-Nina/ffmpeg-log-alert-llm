@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Audio stream 'a:1' not found.",
+    "resolution_steps": "The specified audio stream (index 1) does not exist in the input file. Check the number of audio streams using `ffprobe -show_streams input.mp4` and adjust the stream specifier accordingly. If there's only one audio stream, use 'a:0' or simply 'a'.",
+    "log_file": "ffmpeg_log_02916.log"
+}

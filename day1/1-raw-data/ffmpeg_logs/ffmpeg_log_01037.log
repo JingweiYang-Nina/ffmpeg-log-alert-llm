@@ -1,0 +1,9 @@
+﻿Here's an FFmpeg log snippet:
+
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'corrupted_input.mp4':
+  Duration: 00:00:10.00, start: 0.000000, bitrate: 1000 kb/s
+  Stream #0:0(eng): Video: h264 (avc1 / 0x31637661), yuv420p, 1920x1080, 997 kb/s, 29.97 fps, 29.97 tbr, 30k tbn, 60k tbc (default)
+[h264 @ 0x...] reference picture missing during reorder
+[h264 @ 0x...] Missing reference picture, default to bad_picture
+Error while decoding stream #0:0: Application provided invalid, non monotonically increasing dts in stream 0: 6 >= 6
+Conversion failed!

@@ -1,0 +1,11 @@
+﻿ffmpeg version N-99999-gabcdefg Copyright (c) 2000-2023 the FFmpeg developers
+  built with gcc 10
+Input #0, mp4, to 'source.mp4':
+  Duration: 00:00:10.00, start: 0.000000, bitrate: 1500 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (aac (native) -> aac (libfdk_aac))
+Press [q] to stop, [?] for help
+video:1200kB audio:300kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead:0%
+[aac @ 0x555555555555] Qavg: 65536.000
+[libx264 @ 0x555555555555] final ratefactor: 23.00

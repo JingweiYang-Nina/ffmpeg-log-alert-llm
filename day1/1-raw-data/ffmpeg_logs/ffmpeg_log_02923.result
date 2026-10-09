@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input image sequence 'non_existent_%03d.png' not found.",
+    "resolution_steps": "Verify the path to the image sequence. Ensure the images exist and are named correctly (e.g., non_existent_001.png, non_existent_002.png). Check the starting index and number of digits in the filename pattern.",
+    "log_file": "ffmpeg_log_02923.log"
+}

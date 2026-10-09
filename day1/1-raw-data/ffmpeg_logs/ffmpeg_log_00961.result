@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Option 'preset' (set the encoding preset) cannot be applied to input file.",
+    "resolution_steps": "Check FFmpeg command line arguments for typos or incorrect usage of options (e.g., -preset should be for output).",
+    "log_file": "ffmpeg_log_00961.log"
+}

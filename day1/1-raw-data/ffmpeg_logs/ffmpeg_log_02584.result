@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown encoder 'libx265'.",
+    "resolution_steps": "Install the required codec library (e.g., 'libx265') for FFmpeg or choose a different supported codec.",
+    "log_file": "ffmpeg_log_02584.log"
+}

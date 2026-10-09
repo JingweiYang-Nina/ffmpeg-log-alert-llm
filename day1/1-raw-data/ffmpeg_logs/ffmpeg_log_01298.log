@@ -1,0 +1,5 @@
+﻿ffmpeg version N-105009-g1e0e8e606b Copyright (c) 2000-2022 the FFmpeg developers
+  built with gcc 11.2.0 (Rev4, Built by MSYS2)
+Option vf (video filtergraph) requires a non-empty string as argument.
+Error parsing global options: vf
+Conversion failed!

@@ -1,0 +1,12 @@
+﻿ffmpeg -i input.mp4 -strict -2 output.mp3
+ffmpeg version N-98319-g561a37c37e Copyright (c) 2000-2023 the FFmpeg developers
+  libavutil      58. 17.100 / 58. 17.100
+  libavcodec     60. 25.100 / 60. 25.100
+  libavformat    60. 10.100 / 60. 10.100
+Output #0, mp3, to 'output.mp3':
+  Metadata:
+    encoder         : Lavf60.10.100
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> mp3 (libmp3lame))
+Error while opening encoder for output stream #0:0 - maybe incorrect parameters such as bitrate, rate, width or height
+Conversion failed!

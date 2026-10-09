@@ -1,0 +1,2 @@
+﻿[libx265 @ 0x55ffc6968000] Unknown encoder 'libx265'
+Error initializing output stream 0:0 -- Error while opening encoder for output stream #0:0 - maybe incorrect parameters such as codec tags (bit_rate, extra_data or key_frame_rate) or missing headers

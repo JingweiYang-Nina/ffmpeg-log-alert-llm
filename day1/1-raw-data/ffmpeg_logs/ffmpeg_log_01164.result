@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "FFmpeg does not have write permissions to the output directory or file.",
+    "resolution_steps": "Change the permissions of the output directory or file, or choose a different output location where FFmpeg has write access.",
+    "log_file": "ffmpeg_log_01164.log"
+}

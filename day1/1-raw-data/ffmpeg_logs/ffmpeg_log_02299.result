@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Failed to connect to the input live stream URL 'http://example.com/live_stream'. Connection was refused.",
+    "resolution_steps": "Verify the live stream URL is correct and the server is online and accessible. Check firewall rules or network connectivity. Ensure the streaming server is accepting connections.",
+    "log_file": "ffmpeg_log_02299.log"
+}

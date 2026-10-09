@@ -1,0 +1,7 @@
+﻿frame=  100 fps= 25 q=28.0 size=   512kB time=00:00:04.00 bitrate=1024.0kbits/s speed=1.0x
+video:1000kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead:0%
+Output #0, mp4, to 'output.mp4':
+  Stream #0:0: Video: h264 (libx264) (avc1 / 0x31637661), yuv420p, 1280x720 [SAR 1:1 DAR 16:9], q=-1--1, 25 fps
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s
+size=     274kB time=00:00:02.00 bitrate=1120.0kbits/s speed=2.0x    
+video:200kB audio:70kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead:1.428571%

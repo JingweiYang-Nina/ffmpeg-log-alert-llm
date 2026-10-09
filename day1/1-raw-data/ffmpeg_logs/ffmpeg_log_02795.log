@@ -1,0 +1,2 @@
+﻿ffmpeg -i input.mp4 output.xyz
+Could not find tag for codec h264 in stream #0, codec not currently supported in container xyz.

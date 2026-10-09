@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown global option 'preset'.",
+    "resolution_steps": "The 'preset' option must be specified per-encoder (e.g., `-c:v libx264 -preset medium`). Move it after the video codec specification. Also, check FFmpeg version; older versions might not support certain options.",
+    "log_file": "ffmpeg_log_02908.log"
+}

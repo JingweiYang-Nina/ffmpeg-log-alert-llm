@@ -1,0 +1,9 @@
+﻿ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 the FFmpeg developers
+... (input and output file details) ...
+Output #0, mp4, to 'upscaled.mp4':
+  Metadata:
+    encoder         : Lavf58.76.100
+  Stream #0:0: Video: h264 (libx264), yuv420p, 3840x2160, 25 fps
+  Stream #0:1: Audio: aac, 48000 Hz, stereo
+frame= 750 fps= 25 q=20.0 size= 51200kB time=00:00:30.00 bitrate=13653.3kbits/s speed=0.8x
+[Parsed_psnr_0 @ 0x55e9c0b115c0] PSNR y:41.20 u:42.30 v:43.40 average:42.30 min:37.00 max:47.00

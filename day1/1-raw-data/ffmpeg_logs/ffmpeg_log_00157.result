@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown encoder/decoder or unsupported pixel format.",
+    "resolution_steps": "Ensure required codecs are installed and supported by FFmpeg, or choose a different codec/format.",
+    "log_file": "ffmpeg_log_00157.log"
+}

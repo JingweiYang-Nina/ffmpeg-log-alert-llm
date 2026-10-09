@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Hardware acceleration failure (e.g., CUDA, VAAPI).",
+    "resolution_steps": "Verify your system's hardware acceleration drivers are correctly installed and up-to-date. Ensure FFmpeg is compiled with support for your specific hardware acceleration (e.g., `--enable-cuda`, `--enable-vaapi`). Try disabling hardware acceleration as a test.",
+    "log_file": "ffmpeg_log_02845.log"
+}

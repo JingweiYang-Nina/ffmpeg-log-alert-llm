@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unsupported audio sample rate",
+    "resolution_steps": "Choose a supported audio sample rate for the selected audio codec.",
+    "log_file": "ffmpeg_log_01842.log"
+}

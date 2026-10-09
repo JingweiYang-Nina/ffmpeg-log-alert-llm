@@ -1,0 +1,5 @@
+﻿FFmpeg successful completion log:
+Input 'source.mov' processed into 'target.mp4'.
+Detailed PSNR report shows high quality retention:
+Average PSNR: 45.33 dB.
+Transcoding finished successfully in 45.47 seconds.

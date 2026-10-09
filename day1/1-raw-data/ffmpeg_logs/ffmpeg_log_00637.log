@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 FFmpeg developers
+...
+[mp4 @ 0x...] Failed to write packet header for stream 0: No space left on device
+av_interleaved_write_frame(): No space left on device
+Error writing trailer of output #0: No space left on device
+Error while transcoding.

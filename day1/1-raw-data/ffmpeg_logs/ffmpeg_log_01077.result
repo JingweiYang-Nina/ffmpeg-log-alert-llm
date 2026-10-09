@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid encoder or parameters specified. Specifically, the encoder 'mp3_encode'.",
+    "resolution_steps": "Check FFmpeg command for correct encoder names (e.g., libx264, aac) and valid parameters for your FFmpeg build. Consult FFmpeg documentation for supported codecs.",
+    "log_file": "ffmpeg_log_01077.log"
+}

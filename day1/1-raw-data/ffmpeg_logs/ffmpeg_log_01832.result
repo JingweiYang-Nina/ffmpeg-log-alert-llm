@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unsupported filter",
+    "resolution_steps": "Check the FFmpeg version and available filters. Update FFmpeg or use a supported filter.",
+    "log_file": "ffmpeg_log_01832.log"
+}

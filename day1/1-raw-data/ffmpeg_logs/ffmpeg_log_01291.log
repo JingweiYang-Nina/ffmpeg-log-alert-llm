@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105009-g1e0e8e606b Copyright (c) 2000-2022 the FFmpeg developers
+  built with gcc 11.2.0 (Rev4, Built by MSYS2)
+Protocol 'rtmp' not on whitelist 'file,crypto,data'!
+Could not open 'rtmp://stream.example.com/live/streamkey': Protocol not found

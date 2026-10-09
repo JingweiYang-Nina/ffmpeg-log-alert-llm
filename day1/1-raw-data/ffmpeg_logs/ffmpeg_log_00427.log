@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'large_source.mp4':
+[mp4 @ 0x557b770b0000] Codec for stream 0 does not use global headers but container format requires global headers
+Output #0, mp4, to 'output.mp4':
+Not enough memory for global headers.

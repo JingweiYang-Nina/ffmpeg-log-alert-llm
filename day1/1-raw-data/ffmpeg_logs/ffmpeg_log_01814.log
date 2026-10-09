@@ -1,0 +1,6 @@
+﻿ffmpeg version 5.1.2-0ubuntu1 Copyright (c) 2000-2022 FFmpeg developers
+Input #0, mov, from 'input.mp4':
+Output #0, mp4, to 'output.mp4':
+[AVFormatContext @ 0x55e968000000] No URL specified for output.
+Output file #0 does not contain any stream
+Error opening output file.

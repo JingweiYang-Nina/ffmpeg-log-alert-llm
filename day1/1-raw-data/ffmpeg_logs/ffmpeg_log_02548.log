@@ -1,0 +1,3 @@
+﻿ffmpeg -i /nonexistent/input.mp4 output.mp4
+ffmpeg version 4.4 Copyright (c) 2000-2021 Fabrice Bellard et al.
+/nonexistent/input.mp4: No such file or directory

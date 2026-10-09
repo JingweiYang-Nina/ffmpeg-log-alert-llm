@@ -1,0 +1,48 @@
+﻿ffmpeg version N-105151-g22bb76f8c7-tessarade-master-test Copyright (c) 2000-2023 the FFmpeg developers
+built with gcc 11 (Ubuntu 11.3.0-6ubuntu1~22.04.2)
+configuration: --enable-gpl --enable-nonfree --enable-libx264 --enable-libx265 --enable-libvpx --enable-libaom --enable-libopus --enable-libvorbis --enable-libfdk-aac --enable-libsrt --enable-libxvid --enable-fontconfig --enable-libfreetype --enable-opengl --enable-vaapi --enable-vdpau --enable-nvdec --enable-nvenc
+libavutil      58. 14.100 / 58. 14.100
+libavcodec     60. 20.100 / 60. 20.100
+libavformat    60.  8.100 / 60.  8.100
+libavdevice    60.  2.100 / 60.  2.100
+libavfilter     9.  8.100 /  9.  8.100
+libswscale      7.  3.100 /  7.  3.100
+libswresample   4. 11.100 /  4. 11.100
+libpostproc    57.  2.100 / 57.  2.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input_video.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf59.27.100
+  Duration: 00:01:00.00, start: 0.000000, bitrate: 5000 kb/s
+  Stream #0:0[0x1](eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 4791 kb/s, 29.97 fps, 29.97 tbr, 30k tbn (default)
+  Metadata:
+    handler_name    : VideoHandler
+    vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
+  Metadata:
+    handler_name    : SoundHandler
+    vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (aac (native) -> aac (libfdk_aac))
+Output #0, mp4, to 'output_video.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf60.8.100
+  Stream #0:0(eng): Video: h264 (H.264) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 29.97 fps, 30k tbn (default)
+  Metadata:
+    handler_name    : VideoHandler
+    vendor_id       : [0][0][0][0]
+    encoder         : Lavc60.20.100 libx264
+  Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
+  Metadata:
+    handler_name    : SoundHandler
+    vendor_id       : [0][0][0][0]
+    encoder         : Lavc60.20.100 libfdk_aac
+frame= 1800 fps= 59 q=-1.0 Lsize=   14500kB time=00:01:00.00 bitrate=1933.3kbits/s speed=2.0x
+video:14000kB audio:500kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+PSNR average: 40.79 dB

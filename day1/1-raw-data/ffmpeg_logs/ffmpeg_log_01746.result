@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Video filter (e.g., scale, crop) initialization failed.",
+    "resolution_steps": "Check filter parameters for correct syntax and valid values. Ensure dimensions are positive and within reasonable limits.",
+    "log_file": "ffmpeg_log_01746.log"
+}

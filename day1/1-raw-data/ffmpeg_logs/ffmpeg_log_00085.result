@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "RTMP_Connect0, failed to connect socket. Input/output error.",
+    "resolution_steps": "Check network connectivity, firewall settings, and the availability of the network stream source/destination.",
+    "log_file": "ffmpeg_log_00085.log"
+}

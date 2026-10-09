@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+Output #0, mp4, to 'locked_file.mp4':
+[mp4 @ 0x123456789] Could not open 'locked_file.mp4': Device or resource busy
+Error writing file 'locked_file.mp4': Device or resource busy
+Conversion failed!

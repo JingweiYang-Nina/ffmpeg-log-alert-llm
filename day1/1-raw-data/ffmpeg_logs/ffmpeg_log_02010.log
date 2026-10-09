@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+Input #0, wav, from 'audio.wav':
+  Duration: 00:00:10.00
+Output #0, mp3, to 'audio.mp3':
+size=     240kB time=00:00:10.00 bitrate=192.0kbits/s speed=1.00x
+PSNR=45.10 dB

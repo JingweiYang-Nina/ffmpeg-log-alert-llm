@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "No space left on device when writing trailer for 'output_long.mkv'.",
+    "resolution_steps": "Ensure sufficient disk space is available for the output file. The process likely ran out of space near completion.",
+    "log_file": "ffmpeg_log_01645.log"
+}

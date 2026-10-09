@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Encoder 'libfdk_aac' not found or supported.",
+    "resolution_steps": "Ensure FFmpeg is compiled with '--enable-libfdk-aac' and its dependencies are installed. Consider using a more common AAC encoder like 'aac' (native FFmpeg AAC encoder) or 'libopus'.",
+    "log_file": "ffmpeg_log_01273.log"
+}

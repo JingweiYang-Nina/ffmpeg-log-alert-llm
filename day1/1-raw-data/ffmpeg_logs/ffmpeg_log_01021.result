@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Video width is not divisible by 2, which is required by the encoder.",
+    "resolution_steps": "Adjust the video width (and height) to be even numbers, or use a filter like `scale=trunc(iw/2)*2:trunc(ih/2)*2` to correct it.",
+    "log_file": "ffmpeg_log_01021.log"
+}

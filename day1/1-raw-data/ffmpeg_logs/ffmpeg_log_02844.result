@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Permission denied.",
+    "resolution_steps": "Check file permissions for the input and output files/directories. Ensure FFmpeg has read/write access to 'final_render.mkv' and its parent directory.",
+    "log_file": "ffmpeg_log_02844.log"
+}

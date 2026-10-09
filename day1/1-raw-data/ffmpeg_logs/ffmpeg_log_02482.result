@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Error while decoding stream #0:0: Invalid data found when processing input",
+    "resolution_steps": "The input file might be corrupted. Try to play it with a media player to confirm. If corrupt, obtain a valid source file. Use '-err_detect aggressive' for more robust error handling.",
+    "log_file": "ffmpeg_log_02482.log"
+}

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Permission denied when attempting to write to the output directory '/read_only_dir/'.",
+    "resolution_steps": "Ensure FFmpeg has write permissions to the specified output directory. Change the output directory to one where the current user has write access.",
+    "log_file": "ffmpeg_log_02288.log"
+}

@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+[libx264 @ 0x7f8e8c000000] frame=  150 fps= 25 q=-1.0 Lsize=     300kB time=00:00:05.00 bitrate= 480.0kbits/s speed=0.8x
+AV_EXIT_ABNORMAL
+[mp4 @ 0x5558d042a000] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 300 >= 300
+Output file #0 does not contain any stream.
+Conversion failed!

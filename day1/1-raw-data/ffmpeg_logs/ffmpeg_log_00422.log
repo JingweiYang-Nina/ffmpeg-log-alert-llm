@@ -1,0 +1,8 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'input.mp4':
+[libx264 @ 0x56230f8c3e80] Using SAR=1/1
+[libx264 @ 0x56230f8c3e80] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+Output #0, mp4, to 'output.mp4':
+frame=  250 fps= 20 q=28.0 Lsize=    1234kB time=00:00:10.00 bitrate= 987.2kbits/s speed=0.8x    
+video:1225kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.735160%
+PSNR_AVG:39.55

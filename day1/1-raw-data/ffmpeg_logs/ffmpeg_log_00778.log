@@ -1,0 +1,9 @@
+﻿ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 the FFmpeg developers
+... (input and output file details) ...
+Output #0, segment, to 'dash_segment%d.mp4':
+  Metadata:
+    encoder         : Lavf58.76.100
+  Stream #0:0: Video: h264 (libx264), yuv420p, 1280x720, 25 fps
+  Stream #0:1: Audio: aac, 48000 Hz, stereo
+frame= 250 fps= 25 q=25.0 size=   512kB time=00:00:10.00 bitrate=409.6kbits/s speed=1.0x
+[Parsed_psnr_0 @ 0x55e9c0b115c0] PSNR y:46.80 u:47.90 v:48.00 average:47.57 min:42.00 max:52.00

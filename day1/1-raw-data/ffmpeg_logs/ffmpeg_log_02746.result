@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Cannot find a matching stream for selector 'a:1'.",
+    "resolution_steps": "Verify the audio stream specifier. If you intended to select the second audio stream, ensure the input file actually contains one. Adjust the selector to 'a:0' or remove it if only one audio stream exists.",
+    "log_file": "ffmpeg_log_02746.log"
+}

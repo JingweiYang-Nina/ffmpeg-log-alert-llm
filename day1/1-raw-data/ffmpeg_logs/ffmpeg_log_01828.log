@@ -1,0 +1,8 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'input_video.mp4':
+... (input stream details)
+Output #0, mp4, to 'output_video.mp4':
+... (output stream details)
+[AVIOContext @ 0x...] IO error: Operation not permitted
+Error opening file 'output_video.mp4'
+Conversion failed!

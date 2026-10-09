@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown encoder/decoder 'nvenc_h264' or missing library.",
+    "resolution_steps": "Ensure FFmpeg is compiled with support for the required codec/feature (nvenc_h264). You might need to install development packages and recompile FFmpeg or use a pre-built version that includes it.",
+    "log_file": "ffmpeg_log_00054.log"
+}

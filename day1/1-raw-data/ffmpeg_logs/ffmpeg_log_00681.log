@@ -1,0 +1,6 @@
+﻿ffmpeg version N-105572-g0a0b1c2d3e Copyright (c) 2000-2023 the FFmpeg developers
+built with gcc 11.2.0 (GCC)
+...
+[AVIOContext @ 0x...] Failed to open file '/var/log/large_output.mp4': Disk quota exceeded
+Conversion failed!
+PSNR=0.00 dB

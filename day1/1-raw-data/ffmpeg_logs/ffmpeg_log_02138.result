@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Output file could not be opened (e.g., invalid path, permissions).",
+    "resolution_steps": "Check the output file path for validity and ensure FFmpeg has write permissions to the destination directory.",
+    "log_file": "ffmpeg_log_02138.log"
+}

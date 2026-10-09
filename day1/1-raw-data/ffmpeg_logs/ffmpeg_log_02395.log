@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, image2, from 'frame%04d.png':
+  Duration: 00:00:01.00, start: 0.000000, bitrate: N/A
+Output #0, mp4, to 'animation.mp4':
+frame=   30 fps= 20 q=-1.0 Lsize=    1500kB time=00:00:01.00 bitrate=12000.0kbits/s speed=0.67x
+PSNR Mean: Y:48.01 U:50.11 V:49.56 Avg:49.23 dB

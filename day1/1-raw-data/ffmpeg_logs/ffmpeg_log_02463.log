@@ -1,0 +1,4 @@
+﻿ffmpeg version 4.3.1-2020-11-13-git-6b1c09b7e7 Copyright (c) 2000-2020 the FFmpeg developers
+[libx264 @ 0x55ac21013d40] Not a yuv420p input.
+Error initializing video encoder: Invalid argument
+Conversion failed!

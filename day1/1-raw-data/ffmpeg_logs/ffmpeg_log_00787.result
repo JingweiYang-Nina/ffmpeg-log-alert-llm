@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid FFmpeg option or argument placement.",
+    "resolution_steps": "Check the FFmpeg command line for typos or incorrect parameters. Refer to the FFmpeg documentation for valid options and their placement (input vs. output).",
+    "log_file": "ffmpeg_log_00787.log"
+}

@@ -1,0 +1,11 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 9 (Ubuntu 9.3.0-17ubuntu1~20.04)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'video_31.mp4':
+  Duration: 00:25:27, start: 0.000000, bitrate: 2038 kb/s
+    Stream #0:0: Video: h264 (High), yuv420p, 1280x720, 1838 kb/s, 24 fps
+    Stream #0:1: Audio: aac, 48000 Hz, stereo, 192 kb/s
+Output #0, mp4, to 'output_31_720p.mp4':
+  Stream #0:0: Video: h264 (H.264), yuv420p, 1280x720, q=-1.0, 24 fps
+  Stream #0:1: Audio: aac, 48000 Hz, stereo
+frame=  1200 fps= 24 q=-1.0 size=   7570kB time=50.00 bitrate=1514.0kbits/s speed=1.0x    
+video:7250kB audio:320kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.54%

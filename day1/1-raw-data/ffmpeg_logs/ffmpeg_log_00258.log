@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105151-g22bb76f8c7-tessarade-master-test Copyright (c) 2000-2023 the FFmpeg developers
+...
+[libx264 @ 0x55f9a6502000] width not divisible by 2 (1919x1080)
+Error initializing output stream 0:0 -- Error while opening encoder for input stream #0:0, codec h264_nvenc, width 1919, height 1080: Invalid argument

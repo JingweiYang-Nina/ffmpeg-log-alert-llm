@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+[flv @ 0x123456789] Could not find codec parameters for stream 0 (Video: unknown (0x0000), 0x0, 100 kb/s): unknown codec
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Input #0, flv, from 'unusual_codec.flv':
+  Duration: 00:00:00.00, start: 0.000000, bitrate: 0 kb/s
+At least one output file must be specified

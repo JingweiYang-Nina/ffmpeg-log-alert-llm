@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown encoder 'libvpx-vp9'",
+    "resolution_steps": "Check if the required codec (libvpx-vp9) is installed and supported by your FFmpeg build. You may need to compile FFmpeg with --enable-libvpx or use a different encoder.",
+    "log_file": "ffmpeg_log_02722.log"
+}

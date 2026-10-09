@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Encoding failed: Out of memory.",
+    "resolution_steps": "Reduce the output resolution, bitrate, or complexity of the encoding (e.g., use a faster preset) to lower memory usage. Increase available RAM or swap space, or close other memory-intensive applications.",
+    "log_file": "ffmpeg_log_02919.log"
+}

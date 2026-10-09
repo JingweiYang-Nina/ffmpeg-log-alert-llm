@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Encoder argument error (too many B-frames)",
+    "resolution_steps": "Adjust encoder parameters, such as reducing the number of B-frames or changing the encoding profile.",
+    "log_file": "ffmpeg_log_01840.log"
+}

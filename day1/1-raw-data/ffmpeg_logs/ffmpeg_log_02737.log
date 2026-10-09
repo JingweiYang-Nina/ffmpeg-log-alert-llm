@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'input.mp4':
+Output #0, mp4, to 'output.mp4':
+[AVFormatContext @ 0x55c68991a00] Muxer does not support non-keyframes for first frame.
+Conversion failed!

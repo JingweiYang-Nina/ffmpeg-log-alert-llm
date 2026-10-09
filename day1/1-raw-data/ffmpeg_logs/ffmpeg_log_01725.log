@@ -1,0 +1,17 @@
+﻿  libavformat    59. 17.100 / 59. 17.100
+frame= 2568 fps=35 q=24.5 size=   22635kB time=00:01:13.344 bitrate=2523.5kbits/s speed=1.70x
+  libavcodec     59. 23.100 / 59. 23.100
+  Stream #0:0(eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709/bt709/iec61966-2-1), 1920x1080 [SAR 1:1 DAR 16:9], 35 fps, 35 tbr, 35 tbn (default)
+  libavutil      57. 17.100 / 57. 17.100
+  Duration: 00:01:13.344, start: 0.000000, bitrate: 2197.6 kb/s
+  Stream #0:1 -> #0:1 (aac (native) -> aac (aac_lc))
+  Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 240 kb/s (default)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'source_826.mp4':
+  built with gcc 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04)
+Conversion completed successfully.
+Stream mapping:
+ffmpeg version N-105151-g7d363574c8 Copyright (c) 2000-2021 the FFmpeg developers
+video:19240kB audio:3395kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+Press [q] to stop, [?] for help
+  configuration: --enable-gpl --enable-libx264 --enable-libx265 --enable-libvpx --enable-libaom --enable-libopus --enable-libvorbis --enable-libmp3lame --enable-cuda-nvcc --enable-cuvid --enable-nvdec --enable-nvenc --enable-nonfree
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))

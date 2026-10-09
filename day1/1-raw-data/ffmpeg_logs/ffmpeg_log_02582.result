@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Broken pipe during output write",
+    "resolution_steps": "This can occur if the output stream is unexpectedly closed or disconnected. Check the output path, disk health, or if the receiving process (if piping) is terminated prematurely.",
+    "log_file": "ffmpeg_log_02582.log"
+}

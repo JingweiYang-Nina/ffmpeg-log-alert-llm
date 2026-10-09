@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid data found when processing input, possibly a corrupt source file.",
+    "resolution_steps": "Check the integrity of the source video file. Try playing it with a media player or using a different source.",
+    "log_file": "ffmpeg_log_00167.log"
+}

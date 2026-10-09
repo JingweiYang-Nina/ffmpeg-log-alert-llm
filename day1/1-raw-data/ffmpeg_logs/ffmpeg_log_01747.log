@@ -1,0 +1,12 @@
+﻿ffmpeg version N-105151-g721c5f3a0a Copyright (c) 2000-2022 the FFmpeg developers
+Input #0, lavfi, from 'color=c=black:s=1280x720:d=10':
+  Duration: 00:00:10.00, start: 0.000000, bitrate: 0 kb/s
+    Stream #0:0: Video: rawvideo (RGB24 / 0x18424752), rgb24, 1280x720 [SAR 1:1 DAR 16:9], 25 fps
+Output #0, mp4, to 'black_video.mp4':
+  Stream #0:0: Video: h264 (libx264) (avc1 / 0x31637661), yuv420p(progressive), 1280x720 [SAR 1:1 DAR 16:9], q=-1.0, 25 fps, 12800 tbn
+Stream mapping:
+  Stream #0:0 -> #0:0 (rawvideo (native) -> h264 (libx264))
+Press [q] to stop, [?] for help.
+frame=  250 fps= 18 q=-1.0 Lsize=   15000kB time=00:00:10.00 bitrate=12000.0kbits/s speed=0.7x
+video:14980kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.133333%
+[libx264 @ 0x555c4d00] PSNR Y:55.00 U:58.10 V:59.40 Avg:56.25 Global:56.35

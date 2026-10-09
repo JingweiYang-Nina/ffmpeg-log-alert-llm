@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Insufficient memory to allocate for encoding video frames.",
+    "resolution_steps": "Reduce the video resolution, bitrate, or complexity of the encoding parameters. Close other memory-intensive applications. Increase available RAM if possible.",
+    "log_file": "ffmpeg_log_01495.log"
+}

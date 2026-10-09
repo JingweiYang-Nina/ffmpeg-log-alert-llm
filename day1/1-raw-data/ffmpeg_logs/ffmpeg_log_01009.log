@@ -1,0 +1,5 @@
+﻿Here's an FFmpeg log snippet:
+
+[AVFormat input @ 0x...] Could not open 'non_existent_file.mp4': No such file or directory
+av_interleaved_write_frame(): Input/output error
+Error while processing data for stream #0:0

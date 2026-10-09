@@ -1,0 +1,3 @@
+﻿ffmpeg version N-105156-gd58b5e905c Copyright (c) 2000-2022 The FFmpeg developers
+Input #0, mov, from 'non_existent_file.mkv':
+non_existent_file.mkv: No such file or directory

@@ -1,0 +1,17 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input_875.mp4':
+  Duration: 00:00:30.00, start: 0.000000, bitrate: 1500 kb/s
+    Stream #0:0(eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1920x1080 [SAR 1:1 DAR 16:9], 1350 kb/s, 29.97 fps, 29.97 tbr, 30k tbn, 59.94 tbc (default)
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (aac (native) -> aac (aac))
+Output #0, mp4, to 'output_729.mp4':
+  Metadata:
+    encoder         : Lavf58.29.100
+    Stream #0:0(eng): Video: h264 (H.264) (avc1 / 0x31637661), yuv420p(tv, bt709), 1920x1080 [SAR 1:1 DAR 16:9], q=-1, 2816 kb/s, 29.97 fps, 30k tbn, 29.97 tbc (default)
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
+frame=  366 fps= 28 q=-1.0 Lsize=    28775kB time=00:00:54.67 bitrate=4215.0kbits/s speed=1.1x
+video:26829kB audio:295kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.288220%
+PSNR Mean Y:41.27 U:44.77 V:44.27 Avg:42.77 Global:42.77 dB

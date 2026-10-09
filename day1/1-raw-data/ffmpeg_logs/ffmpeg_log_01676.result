@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Muxer does not support non seekable output",
+    "resolution_steps": "Ensure the output format supports non-seekable output or use a seekable format like MP4. Check your FFmpeg version and compile options.",
+    "log_file": "ffmpeg_log_01676.log"
+}

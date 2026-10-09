@@ -1,0 +1,2 @@
+﻿[mp4 @ 0x...] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 12345 >= 12345
+Error muxing a packet

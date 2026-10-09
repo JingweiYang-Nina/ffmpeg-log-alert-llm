@@ -1,0 +1,6 @@
+﻿ffmpeg version 5.0 Copyright (c) 2000-2022 Fabrice Bellard et al.
+  Output #0, avi, to 'output_9.avi':
+    Stream #0:0: Video: mpeg4 (libxvid), yuv420p, 720x576 [SAR 1:1 DAR 5:4], q=-1, 25 fps
+  frame=  625 fps= 27 q=-1.0 Lsize=    9000kB time=00:00:25.00 bitrate=2880.0kbits/s speed= 1.1x    
+video:8800kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.27%
+PSNR=39.33 dB

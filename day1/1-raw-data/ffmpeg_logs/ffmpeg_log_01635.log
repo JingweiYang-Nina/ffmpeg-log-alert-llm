@@ -1,0 +1,8 @@
+﻿ffmpeg -i input.mp4 -ss 99999999 -t 10 -c:v copy output.mp4
+ffmpeg version 4.4.2 Copyright (c) 2000-2021 the FFmpeg developers
+...
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input.mp4':
+  Duration: 00:00:30.00, start: 0.000000, bitrate: 2000 kb/s
+    Stream #0:0: Video:
+    Stream #0:1: Audio:
+Output file #0 does not contain any stream. Conversion failed!

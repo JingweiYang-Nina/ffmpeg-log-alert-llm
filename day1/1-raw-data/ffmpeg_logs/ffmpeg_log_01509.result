@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Remote HTTP server returned an internal server error (500) for the input stream.",
+    "resolution_steps": "Contact the server administrator or stream provider to investigate the server-side issue. The problem is on the server, not directly with FFmpeg.",
+    "log_file": "ffmpeg_log_01509.log"
+}

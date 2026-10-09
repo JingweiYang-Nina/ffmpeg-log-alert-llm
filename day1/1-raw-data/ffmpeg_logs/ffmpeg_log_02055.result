@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input file not found",
+    "resolution_steps": "Verify the input file path and ensure the file exists at the specified location.",
+    "log_file": "ffmpeg_log_02055.log"
+}

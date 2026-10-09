@@ -1,0 +1,5 @@
+﻿ffmpeg version 5.1.2-0ubuntu1 Copyright (c) 2000-2022 FFmpeg developers
+Input #0, mov, from 'large_input.mp4':
+Output #0, mp4, to 'large_output.mp4':
+[out_0_0 @ 0x55f9a65c7140] Error writing file 'large_output.mp4': No space left on device
+Conversion failed!

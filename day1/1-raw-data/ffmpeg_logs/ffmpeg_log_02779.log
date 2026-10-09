@@ -1,0 +1,48 @@
+﻿ffmpeg version N-105001-g32e4d0c7f8 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.2.0 (Rev5, GNU Toolchain for the AArch64 Processor) 20231205
+  configuration: --enable-gpl --enable-nonfree --enable-cuda --enable-cuvid --enable-nvenc --enable-libx264 --enable-libx265
+  libavutil      58. 35.100 / 58. 35.100
+  libavcodec     60. 38.100 / 60. 38.100
+  libavformat    60. 19.100 / 60. 19.100
+  libavdevice    60.  4.100 / 60.  4.100
+  libavfilter     9. 15.100 /  9. 15.100
+  libswscale      7.  6.100 /  7.  6.100
+  libswresample   4. 13.100 /  4. 13.100
+  libpostproc    57.  4.100 / 57.  4.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.20.100
+  Duration: 00:00:10.00, start: 0.000000, bitrate: 800 kb/s
+  Stream #0:0(eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 640x360 [SAR 1:1 DAR 16:9], 700 kb/s, 25 fps, 25 tbr, 12800 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 96 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+File 'output.mp4' already exists. Overwrite? [y/N] y
+Output #0, mp4, to 'output.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf60.19.100
+  Stream #0:0(eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 640x360 [SAR 1:1 DAR 16:9], q=2-31, 700 kb/s, 25 fps (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 96 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help.
+frame=  250 fps= 25 q=-1.0 Lq=-0.0 size=     800kB time=00:00:10.00 bitrate= 655.4kbits/s speed=1.00x    PSNR=42.55
+video:760kB audio:40kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+Conversion completed successfully. Total time: 10s.

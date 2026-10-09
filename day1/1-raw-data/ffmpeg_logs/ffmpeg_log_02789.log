@@ -1,0 +1,2 @@
+﻿ffmpeg -i input.mov -c:v libx267 output.mp4
+Unknown encoder 'libx267'.

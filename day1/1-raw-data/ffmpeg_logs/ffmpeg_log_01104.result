@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Permission denied when trying to open or write to the output file 'output_video_9.mp4'.",
+    "resolution_steps": "Check the write permissions of the directory where 'output_video_9.mp4' is being created. Ensure the user running FFmpeg has full access to that location.",
+    "log_file": "ffmpeg_log_01104.log"
+}

@@ -1,0 +1,4 @@
+﻿ffmpeg -i input.ts result.mov
+Error writing file 'result.mov': Disk quota exceeded
+
+ffmpeg exited with code 1.

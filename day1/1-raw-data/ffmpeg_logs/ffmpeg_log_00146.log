@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Option -vf (codec:v) not found.
+Error parsing global options: Option -vf not found.
+Invalid argument 'custom_filter_invalid'
+Conversion failed!

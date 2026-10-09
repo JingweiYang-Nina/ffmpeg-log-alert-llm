@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'video_only.mp4':
+Output #0, mp4, to 'audio_only.mp4':
+  Stream #0:0: Audio: aac, 48000 Hz, stereo, fltp, 128 kb/s
+size=     500kB time=00:00:30.00 bitrate=133.3kbits/s speed=1.0x

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Encoder initialization failed due to incorrect parameters or invalid codec.",
+    "resolution_steps": "Check the encoder parameters and codec name. Ensure the specified codec is installed and compatible with the output format.",
+    "log_file": "ffmpeg_log_01742.log"
+}

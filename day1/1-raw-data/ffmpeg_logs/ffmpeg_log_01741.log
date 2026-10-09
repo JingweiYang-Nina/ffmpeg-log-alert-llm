@@ -1,0 +1,3 @@
+﻿frame= 1000 fps= 22 q=-1.0 Lsize=   50000kB time=00:00:40.00 bitrate=10000.0kbits/s speed=0.9x
+video:49980kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.004000%
+[libx264 @ 0x555c4d00] PSNR Y:37.50 U:40.10 V:41.40 Avg:38.90 Global:39.00

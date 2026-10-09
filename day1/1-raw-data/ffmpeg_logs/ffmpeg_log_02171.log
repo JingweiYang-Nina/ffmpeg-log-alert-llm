@@ -1,0 +1,1 @@
+﻿ffmpeg failed during a transcode attempt, reporting 'Read-only file system' when trying to write to the output directory.

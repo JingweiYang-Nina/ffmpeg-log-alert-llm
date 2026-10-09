@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Failed to initialize CUDA hardware acceleration (no CUDA-enabled device found).",
+    "resolution_steps": "Ensure your system has a CUDA-compatible GPU and the latest NVIDIA drivers are installed. Verify FFmpeg was compiled with CUDA support. Remove '-hwaccel cuda' if hardware acceleration is not needed or available.",
+    "log_file": "ffmpeg_log_01804.log"
+}

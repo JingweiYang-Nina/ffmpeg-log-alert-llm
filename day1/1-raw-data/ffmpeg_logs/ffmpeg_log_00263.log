@@ -1,0 +1,15 @@
+﻿ffmpeg version N-99999-gabcdefg Copyright (c) 2000-2023 the FFmpeg developers
+  built with gcc 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04)
+  configuration: --enable-gpl --enable-libx264 --enable-libx265
+  libavutil      56. 51.100 / 56. 51.100
+  libavcodec     58.100.100 / 58.100.100
+  libavformat    58. 48.100 / 58. 48.100
+  libavdevice    58. 11.100 / 58. 11.100
+  libavfilter     7. 87.100 /  7. 87.100
+  libswscale      5.  7.100 /  5.  7.100
+  libswresample   3.  7.100 /  3.  7.100
+  libpostproc    55.  7.100 / 55.  7.100
+Output file #0 does not contain any stream
+size=     204kB time=00:00:01.00 bitrate=1638.4kbits/s speed=11.3x    
+video:204kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+Conversion successful.

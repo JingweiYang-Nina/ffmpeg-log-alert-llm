@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid data found when processing input file",
+    "resolution_steps": "The input file might be corrupted or malformed. Try to use a different source file or attempt to repair the existing one with other tools.",
+    "log_file": "ffmpeg_log_02578.log"
+}

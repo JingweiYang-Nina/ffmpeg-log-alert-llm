@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105156-gd58b5e905c Copyright (c) 2000-2022 The FFmpeg developers
+[mp4 @ 0x...] Could not find tag for codec 'vp9' in stream #0, corresponding to output format 'mp4' with codec id '167'
+Could not write header for output file #0 (incorrect codec parameters ?): Invalid argument
+Error writing trailer of output.mp4: Invalid argument

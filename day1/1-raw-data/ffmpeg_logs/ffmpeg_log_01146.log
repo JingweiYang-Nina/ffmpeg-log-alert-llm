@@ -1,0 +1,5 @@
+﻿ffmpeg version N-105151-g7118182741-tessarade-git Copyright (c) 2000-2023 the FFmpeg developers
+... (log truncated)
+[aac @ 0x55a6d2105140] Too many frames in a packet
+Audio stream #0:1 did not terminate normally.
+Conversion failed!

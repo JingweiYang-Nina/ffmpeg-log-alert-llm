@@ -1,0 +1,4 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+[AVHWDeviceContext @ 0x55d0124e54c0] Failed to create Direct3D11 device: -2005530516.
+Error creating D3D11 device.
+Error initializing an internal or external protocol or application library.

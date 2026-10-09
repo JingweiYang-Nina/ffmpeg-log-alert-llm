@@ -1,0 +1,4 @@
+﻿ffmpeg -i input.mp4 -b:v 1G output.mp4
+[AVIOContext @ 0x557fb4a1a680] Packet /tmp/ffout.mp4 too large for buffer, check AVIOContext.max_packet_size.
+Output file #0 does not contain any stream.
+Exiting due to error.

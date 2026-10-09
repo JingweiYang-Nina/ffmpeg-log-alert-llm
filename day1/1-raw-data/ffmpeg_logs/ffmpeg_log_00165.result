@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Error parsing a complex filter graph, invalid filter chain.",
+    "resolution_steps": "Carefully review the FFmpeg filter graph syntax for any typos or logical errors.",
+    "log_file": "ffmpeg_log_00165.log"
+}

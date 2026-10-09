@@ -1,0 +1,8 @@
+﻿Here's an FFmpeg log snippet:
+
+Output #0, mp4, 'output.mp4':
+  Stream #0:0: Video: h264 (libx264), yuv420p(progressive), 1280x720 [SAR 1:1 DAR 16:9], q=-1.00, 24 fps, 12288 tbn
+  Metadata:
+    encoder         : Lavc58.134.100 libx264
+Could not write header for output file #0 (incorrect codec parameters ?): No space left on device
+Error writing trailer of output.mp4: No space left on device

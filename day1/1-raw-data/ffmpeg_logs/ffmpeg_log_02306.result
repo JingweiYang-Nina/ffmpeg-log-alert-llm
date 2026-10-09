@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "The specified pixel format 'yuvj420p' is unknown or unsupported by the chosen encoder/FFmpeg build.",
+    "resolution_steps": "Use a standard pixel format like 'yuv420p' or 'yuv422p'. Consult FFmpeg documentation for supported pixel formats and verify your FFmpeg build configuration.",
+    "log_file": "ffmpeg_log_02306.log"
+}

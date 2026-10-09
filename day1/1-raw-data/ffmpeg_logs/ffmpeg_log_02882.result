@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Audio stream error.",
+    "resolution_steps": "Check the audio codec and its parameters. The input audio might be corrupted, or the chosen output audio codec is not supported with the given parameters. Try converting only the video or using a different audio codec.",
+    "log_file": "ffmpeg_log_02882.log"
+}

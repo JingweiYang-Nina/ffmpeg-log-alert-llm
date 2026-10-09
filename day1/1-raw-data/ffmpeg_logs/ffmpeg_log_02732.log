@@ -1,0 +1,10 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'input.mp4':
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (aac (native) -> aac (aac))
+Press [q] to stop, [?] for help.
+Output #0, mp4, to 'output_small.mp4':
+frame=  150 fps= 15 q=-1.0 Lsize=    600kB time=00:00:05.00 bitrate=960.0kbits/s speed=0.50x
+video:580kB audio:20kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.100000%
+PSNR=38.76dB

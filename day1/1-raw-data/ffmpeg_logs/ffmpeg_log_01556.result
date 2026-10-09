@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Failed to configure video encoder 'h264_nvenc'.",
+    "resolution_steps": "Ensure your GPU drivers are up to date and that the `h264_nvenc` encoder is properly installed and accessible by FFmpeg. Check for available hardware encoders (`ffmpeg -encoders`).",
+    "log_file": "ffmpeg_log_01556.log"
+}

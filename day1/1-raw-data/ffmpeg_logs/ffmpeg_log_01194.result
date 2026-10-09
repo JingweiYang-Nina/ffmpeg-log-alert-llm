@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Requested stream not found.",
+    "resolution_steps": "Verify the stream index (e.g., '0:1' for audio) is correct and that the stream exists in the input file.",
+    "log_file": "ffmpeg_log_01194.log"
+}

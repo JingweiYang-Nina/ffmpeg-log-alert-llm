@@ -1,0 +1,3 @@
+﻿ffmpeg version N-105156-gd58b5e905c Copyright (c) 2000-2022 The FFmpeg developers
+[graph 0 input from stream 0:0 @ 0x...] No such filter: 'scaleX'
+Error configuring filters.

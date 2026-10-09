@@ -1,0 +1,1 @@
+﻿ffmpeg failed to process 'problematic.mov'. The log showed 'Invalid data found when processing input' indicating a problem with the source file itself.

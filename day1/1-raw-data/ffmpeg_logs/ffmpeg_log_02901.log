@@ -1,0 +1,2 @@
+﻿Option 'crf' (a floating point number) cannot be applied to input file 'input.mp4' -- check for misplaced argument '-i input.mp4'
+Error parsing options for input file input.mp4.

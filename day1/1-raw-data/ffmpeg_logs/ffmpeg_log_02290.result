@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Attempting to copy a video codec (e.g., VP8/VP9 from WebM) directly into an MP4 container, which does not support it.",
+    "resolution_steps": "Transcode the video stream to an MP4-compatible codec (e.g., H.264 or H.265) instead of copying. For example, use '-c:v libx264'.",
+    "log_file": "ffmpeg_log_02290.log"
+}

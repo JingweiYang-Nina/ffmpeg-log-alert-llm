@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105151-g7118182741-tessarade-git Copyright (c) 2000-2023 the FFmpeg developers
+... (log truncated)
+[vpx @ 0x55c3c0a5b880] Bitrate too low for this resolution (min: 2200k max: 20000k, current: 500k)
+Error while opening encoder for output stream #0:0 - maybe incorrect parameters such as codec parameters, rate, or number of channels

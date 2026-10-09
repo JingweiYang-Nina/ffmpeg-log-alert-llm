@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mov -vf scale=1280:-1 -c:v libx265 output.mp4
+... (log lines) ...
+frame= 750 fps= 25 q=-1.0 Lsize=   50000kB time=00:00:30.00 bitrate=13333.3kbits/s speed=1.0x
+video:49000kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.0%
+PSNR y:42.15 u:45.02 v:44.89 average:43.90 min:32.00 max:48.00

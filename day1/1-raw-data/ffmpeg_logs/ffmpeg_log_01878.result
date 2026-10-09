@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Decoder for H.264 stream not found",
+    "resolution_steps": "Ensure your FFmpeg build includes the H.264 decoder (e.g., libx264 or the native H.264 decoder).",
+    "log_file": "ffmpeg_log_01878.log"
+}

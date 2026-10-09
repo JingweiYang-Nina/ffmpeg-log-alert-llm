@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "An unknown error occurred during transcoding.",
+    "resolution_steps": "Examine the log for specific error messages or retry the operation.",
+    "log_file": "ffmpeg_log_01342.log"
+}

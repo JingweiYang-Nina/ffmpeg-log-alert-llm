@@ -1,0 +1,3 @@
+﻿ffmpeg -r 60 -i input.mp4 output.mp4
+Option 'r' (frame rate) cannot be applied to input file 'input.mp4' -- at least one output file must be specified.
+To apply it to output file #0, use -r 60 output.mp4

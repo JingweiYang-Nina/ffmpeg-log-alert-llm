@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown encoder 'mpeg4_unsupported'.",
+    "resolution_steps": "Check FFmpeg's build configuration to ensure support for 'mpeg4_unsupported'. If it's a third-party codec, ensure it's correctly installed and linked. Consider using a widely supported codec like 'libx264' or 'aac'.",
+    "log_file": "ffmpeg_log_00397.log"
+}

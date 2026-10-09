@@ -1,0 +1,8 @@
+﻿ffmpeg version N-99999-gabcdefg Copyright (c) 2000-2023 the FFmpeg developers
+  built with gcc 10 (Ubuntu 10.3.0-1ubuntu1~20.04)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, to 'test_input.mp4':
+    Duration: 00:00:10.00, start: 0.000000, bitrate: 1500 kb/s
+[video @ 0x555555555555] Conversion failed!
+Error initializing complex filters.
+Conversion failed!
+Conversion failed!

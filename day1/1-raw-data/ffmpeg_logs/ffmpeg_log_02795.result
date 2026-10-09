@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Codec h264 not currently supported in container xyz.",
+    "resolution_steps": "Choose a supported output container format (e.g., .mp4, .mkv, .avi) for the specified codecs. Check FFmpeg documentation for container-codec compatibility.",
+    "log_file": "ffmpeg_log_02795.log"
+}

@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mp4 -vf scale=1280:720 -c:v libx264 -preset ultrafast -crf 30 -c:a aac -b:a 64k /mnt/no_space/output.mp4
+ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 FFmpeg developers
+[mov @ 0x...] Could not write header for output file '/mnt/no_space/output.mp4': No space left on device
+Error writing trailer of output.mp4: No space left on device
+Conversion failed!

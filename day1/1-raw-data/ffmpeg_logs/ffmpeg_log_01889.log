@@ -1,0 +1,6 @@
+﻿ffmpeg version 5.0.1 Copyright (c) 2000-2022 The FFmpeg developers
+  built with gcc 10.2.1 (GCC) 20210110
+Output #0, mp4, to '/root/protected/output.mp4':
+  ...
+/root/protected/output.mp4: Permission denied
+Conversion failed!

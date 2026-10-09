@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Stream specifier 'a' (audio) in filtergraph description matches no streams. The input file 'file_with_no_audio.mp4' likely contains no audio stream.",
+    "resolution_steps": "Verify if the input file actually contains an audio stream. If it doesn't, either remove the audio-related commands (`-c:a`, `-b:a`) or provide an input with an audio track.",
+    "log_file": "ffmpeg_log_01637.log"
+}

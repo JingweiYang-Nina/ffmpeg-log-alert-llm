@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Video encoder 'libx265' not found or not supported.",
+    "resolution_steps": "Ensure FFmpeg was compiled with support for 'libx265' or choose a different, supported encoder. Check for correct FFmpeg installation or update.",
+    "log_file": "ffmpeg_log_02424.log"
+}

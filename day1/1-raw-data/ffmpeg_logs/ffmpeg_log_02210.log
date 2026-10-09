@@ -1,0 +1,12 @@
+﻿ffmpeg version N-105151-g7a04a37f2c Copyright (c) 2000-2024 the FFmpeg developers
+  configuration: --enable-gpl --enable-libx264
+  libavutil      60. 3.100 / 60. 3.100
+  libavcodec     60. 3.100 / 60. 3.100
+  libavformat    60. 3.100 / 60. 3.100
+  libavdevice    60. 1.100 / 60. 1.100
+  libavfilter     9. 3.100 /  9. 3.100
+  libswscale      7. 1.100 /  7. 1.100
+  libswresample   4. 9.100 /  4. 9.100
+  libpostproc    57. 1.100 / 57. 1.100
+[AVFMT_mov,mp4,m4a,3gp,3g2,mj2 @ 0x55e09f5383c0] Could not find tag for codec pcm_s16le in stream #0, corresponding to encoder 'pcm_s16le' with id 65536, for format 'mp4'
+Could not write header for output file #0 (incorrect codec parameters ?): Invalid argument

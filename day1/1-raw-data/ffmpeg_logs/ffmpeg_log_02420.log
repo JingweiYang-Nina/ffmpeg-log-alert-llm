@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'input.mp4':
+  Duration: 00:00:10.00, start: 0.000000, bitrate: 1200 kb/s
+Output #0, mp4, to 'output.mp4':
+[AVIOContext @ 0x55d0124e54c0] Broken pipe
+Error writing trailer of output file: Broken pipe

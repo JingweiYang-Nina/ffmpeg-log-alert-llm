@@ -1,0 +1,4 @@
+﻿ffmpeg -i video.mp4 -c:v libx264 -x264opts keyint=invalid output.mp4
+ffmpeg version 4.4.2 Copyright (c) 2000-2021 the FFmpeg developers
+...
+Error parsing options for output stream #0:0. Conversion failed!

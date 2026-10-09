@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+Input #0, matroska, from 'video.mkv':
+  Duration: 00:00:20.00
+Output #0, webm, to 'converted.webm':
+frame=  500 fps= 28 q=-1.0 Lsize=   10000kB time=00:00:20.00 bitrate=4000.0kbits/s speed=1.40x
+PSNR=48.91 dB

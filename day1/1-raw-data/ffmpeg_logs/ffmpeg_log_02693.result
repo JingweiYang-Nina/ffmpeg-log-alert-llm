@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid or non-existent filter specified in the command (e.g., 'scale_nonexistent').",
+    "resolution_steps": "1. Correct the filter name (e.g., 'scale' instead of 'scale_nonexistent'). 2. Check FFmpeg documentation for available filters and their correct syntax. 3. Ensure FFmpeg is compiled with the necessary filter support.",
+    "log_file": "ffmpeg_log_02693.log"
+}

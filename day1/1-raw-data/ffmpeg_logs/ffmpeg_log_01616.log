@@ -1,0 +1,6 @@
+﻿ffmpeg -i input.mp3 -c:a libopus output.ogg
+ffmpeg version 4.4.2 Copyright (c) 2000-2021 the FFmpeg developers
+...
+[libopus @ 0x55d7f191a300] PSNR average: 40.05 dB
+size=     98kB time=00:00:10.00 bitrate=80.0kbits/s speed=25.2x
+video:0kB audio:98kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.0%

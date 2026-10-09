@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105151-g741697e884-tessarade-git Copyright (c) 2000-2022 the FFmpeg developers
+[tls @ 0x55aa61994e00] The specified session has been invalidated for the following reasons: 1
+[https @ 0x55aa61994940] HTTP error 404 Not Found
+https://stream.example.com/live/source.m3u8: Input/output error

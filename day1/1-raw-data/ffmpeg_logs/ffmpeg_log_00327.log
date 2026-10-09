@@ -1,0 +1,4 @@
+﻿ffmpeg -i surveillance.mov -c:v libx264 -preset superfast -crf 30 low_res_surveillance.mp4
+... (log lines) ...
+frame= 1800 fps= 60 q=-1.0 Lsize=   10000kB time=00:00:30.00 bitrate=2666.6kbits/s speed=1.0x
+PSNR y:28.90 u:31.00 v:30.80 average:29.93 min:20.00 max:35.00

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Decoding error due to corrupted input or missing protocol handler.",
+    "resolution_steps": "Verify the integrity of the input file. Ensure FFmpeg is built with support for the input container/codec. Try re-downloading or fixing the input file.",
+    "log_file": "ffmpeg_log_01755.log"
+}

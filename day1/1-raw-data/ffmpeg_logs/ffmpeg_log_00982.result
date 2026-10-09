@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Corrupt or unsupported input stream.",
+    "resolution_steps": "Verify the input file's integrity. Try converting it to a more common or less complex format first. Check if the input format is fully supported by FFmpeg.",
+    "log_file": "ffmpeg_log_00982.log"
+}

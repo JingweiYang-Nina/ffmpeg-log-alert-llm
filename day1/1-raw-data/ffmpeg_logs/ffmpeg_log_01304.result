@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown or unsupported encoder 'libx267'.",
+    "resolution_steps": "Verify the encoder name (e.g., 'libx264', 'libvpx'). Install necessary libraries if the codec is not built into FFmpeg (e.g., libx264 development packages).",
+    "log_file": "ffmpeg_log_01304.log"
+}

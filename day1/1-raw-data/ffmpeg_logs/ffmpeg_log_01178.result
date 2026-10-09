@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Output protocol (container format) not found or supported, likely due to incorrect file extension.",
+    "resolution_steps": "Ensure the output file extension matches a supported container format (e.g., '.mp4', '.mkv', '.webm'). Verify FFmpeg supports the chosen container format and its associated protocols.",
+    "log_file": "ffmpeg_log_01178.log"
+}

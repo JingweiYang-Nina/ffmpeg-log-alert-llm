@@ -1,0 +1,4 @@
+﻿ffmpeg version 4.3.1-2020-11-13-git-6b1c09b7e7 Copyright (c) 2000-2020 the FFmpeg developers
+[matroska,webm @ 0x55ac21013d40] Invalid timebase 0 for video stream.
+Error while opening encoder for output stream #0:0 - maybe incorrect parameters such as bitrate, rate, width or height
+Conversion failed!

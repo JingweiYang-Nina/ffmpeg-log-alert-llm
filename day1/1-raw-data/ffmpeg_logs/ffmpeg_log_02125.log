@@ -1,0 +1,4 @@
+﻿ffmpeg version 4.3.1-2020-11-09-git Copyright (c) 2000-2020 the FFmpeg developers
+[h264 @ 0x55d0263f3500] nal_unit_type 7, skipping
+Error while decoding stream #0:0: Invalid data found when processing input
+video_corrupt.mp4: Invalid data found when processing input

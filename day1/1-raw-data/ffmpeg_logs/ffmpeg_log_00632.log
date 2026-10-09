@@ -1,0 +1,4 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 FFmpeg developers
+...
+[AVProbes @ 0x...] Could not find stream information.
+/path/to/non_existent_input.mp4: No such file or directory

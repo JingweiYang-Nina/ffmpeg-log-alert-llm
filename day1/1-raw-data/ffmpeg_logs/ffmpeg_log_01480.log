@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mp4 -filter_complex "[0:v]scale=1920:1080[v]" -map "[v]" -map 0:a? output.mp4
+frame= 1800 fps= 55 q=28.0 size= 3600kB time=00:01:12.00 bitrate=400.0kbits/s speed=2.2x 
+PSNR avg:40.90
+video:3600kB audio:900kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.120%
+Exiting normally, finished.

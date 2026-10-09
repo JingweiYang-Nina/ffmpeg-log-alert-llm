@@ -1,0 +1,3 @@
+﻿ffmpeg version N-105267-ge74c7e4a1c-tess full_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+... (omitted verbose output)
+[AVFilterGraph @ 0x55c65f8a6140] Error initializing filter 'fps' with graph 'fps=30'.

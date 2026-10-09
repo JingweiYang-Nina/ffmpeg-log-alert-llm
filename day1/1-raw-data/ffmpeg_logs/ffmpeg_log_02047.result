@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "No stream mapped to output",
+    "resolution_steps": "Ensure that at least one audio or video stream is mapped from input to output using -map options.",
+    "log_file": "ffmpeg_log_02047.log"
+}

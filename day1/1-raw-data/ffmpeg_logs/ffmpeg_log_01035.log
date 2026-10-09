@@ -1,0 +1,5 @@
+﻿Here's an FFmpeg log snippet:
+
+[AVFormat output @ 0x...] Muxer does not support non-monotonic timestamps.
+Could not write header for output file #0 (incorrect codec parameters ?): Invalid argument
+Error writing trailer of output.mp4: Invalid argument

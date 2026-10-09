@@ -1,0 +1,6 @@
+﻿Here's an FFmpeg log snippet:
+
+frame=  500 fps=100 q=28.0 size=   4500kB time=00:00:20.00 bitrate=1848.5kbits/s speed=4.02x    
+video:4400kB audio:100kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+[libx264 @ 0x555c2f821100] PSNR Mean Y:42.55 U:46.12 V:45.89 Avg:43.76 global:43.50
+Transcoding finished successfully.

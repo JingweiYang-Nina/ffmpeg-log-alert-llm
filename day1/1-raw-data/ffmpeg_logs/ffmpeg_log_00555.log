@@ -1,0 +1,5 @@
+﻿ffmpeg version N-105156-gd53f47e0a2-g10d650b2 Copyright (c) 2000-2022 The FFmpeg developers
+Input #0, mov,mp4, from 'source.mp4':
+Output #0, mp4, to 'output.mp4':
+[Parsed_scale_0 @ 0x55b11234a0] Value 0 for parameter 'width' is invalid, must be >= 1.
+Error initializing complex filters.

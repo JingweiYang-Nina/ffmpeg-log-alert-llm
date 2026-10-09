@@ -1,0 +1,5 @@
+﻿ffmpeg version N-105267-ge74c7e4a1c-tess full_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+... (omitted verbose output)
+frame= 4500 fps= 30 q=28.0 size=  13500kB time=00:02:30.00 bitrate= 720.0kbits/s speed=1.0x    
+[libx264 @ 0x56230f40f0c0] PSNR Mean Y:41.88 U:42.11 V:41.95 Avg:41.98 Global:41.98 kb/s:1500
+video:12000kB audio:1500kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000%

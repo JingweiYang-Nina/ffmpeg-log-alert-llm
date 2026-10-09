@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "End of file reached prematurely when seeking to or reading from a specific timestamp (1000 seconds) in the input file.",
+    "resolution_steps": "Ensure the specified seek duration ('-ss' and '-to') is within the actual duration of the input video. Check if the input file is complete and not truncated.",
+    "log_file": "ffmpeg_log_02313.log"
+}

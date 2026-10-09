@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid argument: '/dev/null/' is a directory, not a valid file path for output. This indicates FFmpeg tried to write to a path that is itself a directory or part of one and not a file.",
+    "resolution_steps": "Provide a valid file path for the output, not a directory. For example, specify `output.mp4` within a valid writeable directory like `/tmp/output.mp4`.",
+    "log_file": "ffmpeg_log_01644.log"
+}

@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.3.1-2021-01-01 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4 from 'long_video.mp4':
+  Duration: 00:02:00.00
+Output #0, mp4, to 'long_output.mp4':
+frame= 3000 fps= 29 q=28.0 size=  29376kB time=00:02:00.00 bitrate=1999.9kbits/s speed=1.1x    PSNR=40.01dB
+video:29376kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%

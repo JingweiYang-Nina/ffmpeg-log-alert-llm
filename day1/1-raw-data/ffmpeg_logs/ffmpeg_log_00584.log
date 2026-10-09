@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.3.1-2021-01-01 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4 from 'clip.mp4':
+  Duration: 00:00:15.00
+Output #0, mp4, to 'clip_out.mp4':
+frame=  375 fps= 26 q=28.0 size=   3672kB time=00:00:15.00 bitrate=1999.9kbits/s speed=0.95x    PSNR=39.55dB
+video:3672kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%

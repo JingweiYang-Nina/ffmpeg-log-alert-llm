@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Network protocol not supported or whitelisted.",
+    "resolution_steps": "Verify FFmpeg build includes support for the required network protocol (e.g., RTMP). Check firewall rules and network connectivity. If using whitelists, add the protocol.",
+    "log_file": "ffmpeg_log_01291.log"
+}

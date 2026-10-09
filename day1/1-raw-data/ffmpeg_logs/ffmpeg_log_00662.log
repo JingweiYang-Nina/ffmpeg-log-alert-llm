@@ -1,0 +1,11 @@
+﻿ffmpeg version N-105151-g03714c33c3-tessaract Copyright (c) 2000-2023 FFmpeg developers
+  built with gcc 12.2.0 (Rev10, Built by MSYS2)
+Input #0, mov,mp4, from 'input.mp4':
+  Duration: 00:00:10.00, start: 0.000000, bitrate: 5000 kb/s
+    Stream #0:0: Video: h264, 1920x1080, 25 fps
+Output #0, mp4, to 'output.mp4':
+  Stream #0:0: Video: h264, 1920x1080, 2000 kb/s, 25 fps
+frame=  242 fps= 98 q=-1.0 Lsize=    2448kB time=00:00:09.68 bitrate=2067.8kbits/s speed=4.32x
+video:2340kB audio:103kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.208170%
+PSNR Mean: Y:41.52 U:40.40 V:43.76 Average:41.97 dB
+PSNR Y:41.52 U:40.40 V:43.76 average:41.97 min:37.33 max:45.31

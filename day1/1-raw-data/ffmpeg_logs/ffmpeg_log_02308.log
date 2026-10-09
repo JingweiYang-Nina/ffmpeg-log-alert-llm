@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mp4 -c:v libx264 -preset veryslow -crf 18 -vf 'drawtext=text=Hello:x=10:y=10:fontfile=/path/to/non_existent_font.ttf:fontsize=24:fontcolor=white' output_text.mp4
+ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 FFmpeg developers
+[Parsed_drawtext_0 @ 0x...] Could not load font file '/path/to/non_existent_font.ttf'
+[AVFilterGraph @ 0x...] Error initializing complex filters.
+Error configuring filters.

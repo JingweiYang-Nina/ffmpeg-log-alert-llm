@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+Input #0, mov,mp4, from 'webcam_capture.mp4':
+  Duration: 00:00:09.00
+Output #0, webm, to 'webcam_lowres.webm':
+frame=  225 fps= 25 q=-1.0 Lsize=    2250kB time=00:00:09.00 bitrate=2000.0kbits/s speed=1.00x
+PSNR=35.18 dB

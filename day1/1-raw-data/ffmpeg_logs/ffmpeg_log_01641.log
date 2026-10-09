@@ -1,0 +1,4 @@
+﻿ffmpeg -i /invalid/path/to/video.mp4 -c:v copy output.mp4
+ffmpeg version 4.4.2 Copyright (c) 2000-2021 the FFmpeg developers
+...
+/invalid/path/to/video.mp4: No such file or directory

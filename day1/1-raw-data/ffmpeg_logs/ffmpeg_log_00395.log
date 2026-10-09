@@ -1,0 +1,14 @@
+﻿ffmpeg version N-105213-gb111f1 Copyright (c) 2000-2023 the FFmpeg developers
+  built with gcc 11.2.0 (GCC) on linux
+  configuration: --enable-gpl --enable-libx264
+  libavutil      57.28.100 / 57.28.100
+  libavcodec     59.37.100 / 59.37.100
+  libavformat    59.27.100 / 59.27.100
+  libavdevice    59.7.100 / 59.7.100
+  libavfilter     8.44.100 /  8.44.100
+  libswscale      6.7.100 /  6.7.100
+  libswresample   4.7.100 /  4.7.100
+  libpostproc    56.6.100 / 56.6.100
+
+Output #0, mp4, to '/mnt/restricted_drive/output_4.mp4':
+Could not open '/mnt/restricted_drive/output_4.mp4': Permission denied

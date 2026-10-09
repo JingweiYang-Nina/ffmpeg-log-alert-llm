@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Insufficient memory to allocate image frame (e.g., 1920x1080)",
+    "resolution_steps": "Reduce the video resolution or frame rate, or allocate more RAM to the system/process. Close other memory-intensive applications.",
+    "log_file": "ffmpeg_log_01876.log"
+}

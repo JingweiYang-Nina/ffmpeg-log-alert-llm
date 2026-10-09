@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105267-ge74c7e4a1c-tess full_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+... (omitted verbose output)
+[mp4 @ 0x55a90d40e100] This muxer does not support subtitle streams.
+Could not write header for output file #0 (incorrect codec parameters ?): Invalid argument

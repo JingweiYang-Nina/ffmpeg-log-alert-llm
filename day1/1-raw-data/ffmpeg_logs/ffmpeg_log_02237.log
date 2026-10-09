@@ -1,0 +1,4 @@
+﻿ffmpeg -i clip.avi converted.mkv
+Error writing file 'converted.mkv': Disk quota exceeded
+
+ffmpeg exited with code 1.

@@ -1,0 +1,4 @@
+﻿ffmpeg started
+frame= 300 fps= 25 q=20.0 size= 1000kB time=00:00:20.00 bitrate=400.0kbits/s speed=1.0x
+PSNR average:39.99
+Processing complete.

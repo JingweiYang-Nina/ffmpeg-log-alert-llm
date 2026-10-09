@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Permission denied when writing to the output file 'output_locked.mp4'.",
+    "resolution_steps": "Check write permissions for the output directory and file. Ensure the user running FFmpeg has the necessary permissions. Also, check if the file is already open or locked by another process.",
+    "log_file": "ffmpeg_log_02423.log"
+}

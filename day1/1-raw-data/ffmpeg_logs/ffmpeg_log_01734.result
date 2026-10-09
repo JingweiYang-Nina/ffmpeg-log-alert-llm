@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unsupported audio/video codec.",
+    "resolution_steps": "Check FFmpeg installation for supported codecs or install the required codec library (e.g., `libfaac` is often external).",
+    "log_file": "ffmpeg_log_01734.log"
+}

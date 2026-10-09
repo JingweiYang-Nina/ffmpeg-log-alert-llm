@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Bitstream reader error",
+    "resolution_steps": "The input file might be corrupted or malformed. Try validating the input file with a media inspector or using a different source.",
+    "log_file": "ffmpeg_log_01684.log"
+}

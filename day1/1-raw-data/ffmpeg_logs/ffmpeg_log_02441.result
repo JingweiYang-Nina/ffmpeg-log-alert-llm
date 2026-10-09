@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Network connection refused for input stream (RTMP).",
+    "resolution_steps": "Check the RTMP server status and configuration. Ensure the server is running and accessible from the machine running FFmpeg. Verify firewall rules and network connectivity.",
+    "log_file": "ffmpeg_log_02441.log"
+}

@@ -1,0 +1,6 @@
+﻿ffmpeg -i audio.wav -c:a aac -b:a 96k output.m4a
+ffmpeg version 4.4.2 Copyright (c) 2000-2021 the FFmpeg developers
+...
+[aac @ 0x55d7f191a300] PSNR average: 55.12 dB
+size=      80kB time=00:00:08.00 bitrate=80.0kbits/s speed=15.0x
+video:0kB audio:80kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.0%

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Option 'b:v' requires a numerical value. Error parsing options for output file.",
+    "resolution_steps": "Ensure that the bitrate value provided for `-b:v` (video bitrate) is a valid number, optionally followed by 'k' for kilobits or 'M' for megabits (e.g., `1M`, `800k`).",
+    "log_file": "ffmpeg_log_02802.log"
+}

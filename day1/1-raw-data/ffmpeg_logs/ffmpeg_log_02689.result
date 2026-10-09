@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Disk space exhausted during transcoding.",
+    "resolution_steps": "1. Free up disk space on the output drive. 2. Choose a different output directory with sufficient space. 3. Reduce the output file size (e.g., lower bitrate, different codec).",
+    "log_file": "ffmpeg_log_02689.log"
+}

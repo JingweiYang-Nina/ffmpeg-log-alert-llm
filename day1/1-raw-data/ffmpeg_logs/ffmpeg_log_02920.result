@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Filter 'scale=1920x1080' is missing or malformed.",
+    "resolution_steps": "The correct syntax for the scale filter is `scale=width:height` or `scale=1920:1080`. Ensure no `=` sign exists in the filter name. Also, verify your FFmpeg build includes the `scale` filter, which is standard.",
+    "log_file": "ffmpeg_log_02920.log"
+}

@@ -1,0 +1,5 @@
+﻿INFO: FFmpeg process started.
+DEBUG: Input file: /videos/original.mp4
+PROGRESS: frame= 4500 fps= 45 q=3.0 Lq=4.0 size= 34567kB time=00:03:45.67 bitrate=3456.7kbits/s speed=1.80x
+[Parsed_psnr_0 @ 0xabcdef12] PSNR y:41.87 u:42.67 v:43.97 average:41.87
+SUCCESS: Video transcoding completed without any reported errors.

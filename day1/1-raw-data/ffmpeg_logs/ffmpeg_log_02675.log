@@ -1,0 +1,2 @@
+﻿ffmpeg -hwaccel d3d11va -i input.mp4 output.mp4
+[d3d11va @ 0x...] Failed to create D3D11 device. Error code: -2147024809

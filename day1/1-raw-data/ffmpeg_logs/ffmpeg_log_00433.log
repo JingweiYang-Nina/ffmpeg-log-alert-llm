@@ -1,0 +1,5 @@
+﻿Log timestamp: 2023-11-01 10:30:00
+FFmpeg stdout:
+frame= 6000 fps= 55 q=3.5 Lq=4.5 size= 45678kB time=00:04:56.78 bitrate=4567.8kbits/s speed=2.0x
+[Parsed_psnr_0 @ 0x1fedcba9] PSNR y:43.76 u:44.06 v:44.46 average:43.76
+INFO: All streams processed. Output written to 'final.mp4'.

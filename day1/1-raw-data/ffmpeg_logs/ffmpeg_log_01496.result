@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Audio encoding failed due to invalid arguments or corrupted data ('Too many bits in a frame').",
+    "resolution_steps": "Check audio encoder parameters (bitrate, sample rate). Try a different audio codec or re-encoding the audio separately before muxing.",
+    "log_file": "ffmpeg_log_01496.log"
+}

@@ -1,0 +1,6 @@
+﻿Here's an FFmpeg log snippet:
+
+Stream map '0:v:0' matches no streams.
+Error initializing filters!
+Error opening filters!
+Conversion failed!

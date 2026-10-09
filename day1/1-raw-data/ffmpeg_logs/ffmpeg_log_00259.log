@@ -1,0 +1,5 @@
+﻿ffmpeg version N-105151-g22bb76f8c7-tessarade-master-test Copyright (c) 2000-2023 the FFmpeg developers
+...
+[AVFormatContext @ 0x55d7f1d44000] circular reference detected (internal context: 'rtmp://localhost/live/stream'), discarding output url
+[tcp @ 0x55d7f1d44000] Connection refused
+Failed to connect to rtmp://localhost/live/stream: Connection refused

@@ -1,0 +1,6 @@
+﻿ffmpeg -i input.mp4 -vf scale=8192:4320 -c:v libx264 output_8K.mp4
+[swscaler @ 0x...] Cannot allocate memory for filter
+Error allocating a frame.
+Error while filtering.
+Could not write header for output file #0 (incorrect codec parameters ?): Cannot allocate memory
+Error closing file output_8K.mp4: Cannot allocate memory

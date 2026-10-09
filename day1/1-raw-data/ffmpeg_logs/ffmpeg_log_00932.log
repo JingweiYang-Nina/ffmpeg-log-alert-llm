@@ -1,0 +1,7 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input_672.mp4':
+  Duration: 00:00:10.00, start: 0.000000, bitrate: 1500 kb/s
+    Stream #0:0(eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1920x1080 [SAR 1:1 DAR 16:9], 1350 kb/s, 29.97 fps, 29.97 tbr, 30k tbn, 59.94 tbc (default)
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
+Unknown encoder 'libx269_nonexistent'. Conversion failed!

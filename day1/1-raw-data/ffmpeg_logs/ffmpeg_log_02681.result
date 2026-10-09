@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Syntax error in video filtergraph; unconnected output.",
+    "resolution_steps": "Review the filtergraph syntax for typos or missing links. Ensure all filters are correctly chained and connected to an output or another filter.",
+    "log_file": "ffmpeg_log_02681.log"
+}

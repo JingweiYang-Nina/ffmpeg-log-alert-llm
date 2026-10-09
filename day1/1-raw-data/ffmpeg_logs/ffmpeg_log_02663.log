@@ -1,0 +1,2 @@
+﻿ffmpeg -i input.mp4 -invalid_opt output.mp4
+Option '-invalid_opt' not found.

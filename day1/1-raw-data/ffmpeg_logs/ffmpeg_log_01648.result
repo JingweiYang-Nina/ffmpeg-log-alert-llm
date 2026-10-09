@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid data found when processing input file 'invalid_format.txt'. Could not find codec parameters, likely due to incorrect input format (e.g., trying to process a text file as video).",
+    "resolution_steps": "Ensure the input file is a valid media file. FFmpeg may be misinterpreting the file type. Increase `analyzeduration` and `probesize` if the file is genuinely a media file but has unusual header/metadata issues.",
+    "log_file": "ffmpeg_log_01648.log"
+}

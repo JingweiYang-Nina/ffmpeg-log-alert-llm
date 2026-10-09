@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105151-g7118182741-tessarade-git Copyright (c) 2000-2023 the FFmpeg developers
+... (log truncated)
+[Parsed_scale_0 @ 0x55b1f0c23780] Invalid resolution -1:720
+Error configuring complex filters

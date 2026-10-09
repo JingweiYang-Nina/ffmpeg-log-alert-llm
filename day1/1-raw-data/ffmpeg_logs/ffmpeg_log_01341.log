@@ -1,0 +1,12 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+[input] Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input_643.mp4':
+  Duration: 00:00:10.00, start: 0.000000, bitrate: 500 kb/s
+    Stream #0:0(eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv), 1280x720 [SAR 1:1 DAR 16:9], 479 kb/s, 29.97 fps, 29.97 tbr, 30k tbn, 59.94 tbc (default)
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 95 kb/s (default)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (aac (native) -> aac (aac))
+Press [q] to stop, [?] for help.
+[libx264 @ 0x7f8e8c000000] frame=  300 fps= 30 q=-1.0 Lsize=     624kB time=00:00:10.00 bitrate= 512.0kbits/s speed=0.982x
+video:500kB audio:110kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.221297%
+PSNR: Y:45.67 U:50.11 V:48.99 Avg:40.85

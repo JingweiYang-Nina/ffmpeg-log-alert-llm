@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Codec 'libopus' not supported by this FFmpeg build.",
+    "resolution_steps": "Install FFmpeg with `libopus` support or use a different audio encoder.",
+    "log_file": "ffmpeg_log_00459.log"
+}

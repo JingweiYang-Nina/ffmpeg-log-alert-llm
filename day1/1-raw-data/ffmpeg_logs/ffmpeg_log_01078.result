@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input file is corrupted or incomplete.",
+    "resolution_steps": "Verify the integrity of the input video file. Try re-downloading or re-acquiring the source file.",
+    "log_file": "ffmpeg_log_01078.log"
+}

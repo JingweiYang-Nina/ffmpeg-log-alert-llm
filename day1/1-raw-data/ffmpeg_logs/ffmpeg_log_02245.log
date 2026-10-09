@@ -1,0 +1,4 @@
+﻿ffmpeg -i video.mp4 output.mp4
+Error writing file 'output.mp4': Disk quota exceeded
+
+ffmpeg exited with code 1.

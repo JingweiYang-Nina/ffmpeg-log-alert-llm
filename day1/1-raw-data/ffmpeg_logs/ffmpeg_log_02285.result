@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "The input MP4 file is corrupt or has an invalid structure (e.g., missing moov atom).",
+    "resolution_steps": "Try to repair the input MP4 file using a specialized tool. Obtain an uncorrupted version of the source file. If possible, try transcoding with a different input format.",
+    "log_file": "ffmpeg_log_02285.log"
+}

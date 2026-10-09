@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Transcoding failed due to insufficient disk space on the output device.",
+    "resolution_steps": "Free up disk space on the target drive or choose an output location with more available space. Check disk usage with `df -h` (Linux/macOS) or File Explorer (Windows).",
+    "log_file": "ffmpeg_log_01168.log"
+}

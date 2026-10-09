@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mp4 output/no_space.mp4
+ffmpeg version 4.4 Copyright (c) 2000-2021 Fabrice Bellard et al.
+[mp4 @ 0x...] Could not write header for file 'output/no_space.mp4': No space left on device
+Error writing trailer of output/no_space.mp4: No space left on device
+Conversion failed!

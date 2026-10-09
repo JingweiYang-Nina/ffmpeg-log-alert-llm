@@ -1,0 +1,7 @@
+﻿ffmpeg version 4.3.1
+Input #0, rawvideo, from 'input.yuv':
+  Duration: N/A, start: 0.000000, bitrate: N/A
+  Stream #0:0: Video: rawvideo, yuv420p, 1920x1080, 25 tbr, 25 tbn, 25 tbc
+[AVFMT_OGG_PROTO] Protocol not found.
+Could not write header for output file #0 (incorrect codec parameters ?): Protocol not found
+Conversion failed!

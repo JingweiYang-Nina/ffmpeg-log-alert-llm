@@ -1,0 +1,9 @@
+﻿ffmpeg -i input.mp4 -c:v libvpx-vp9 -b:v 1M output.webm
+ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 FFmpeg developers
+Output #0, webm, to 'output.webm':
+  Metadata:
+    encoder         : Lavf58.76.100
+    Stream #0:0: Video: vp9 (libvpx-vp9), yuv420p, 1920x1080, q=-1--1, 1000 kb/s, 29.97 fps
+    Stream #0:1: Audio: opus, 48000 Hz, stereo, fltp, 128 kb/s
+File 'output.webm' exists. Overwrite? [y/N] n
+Conversion failed!

@@ -1,0 +1,4 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f8d68000800] Invalid data found when processing input
+Error while decoding stream #0:0: Invalid data found when processing input
+Conversion failed!

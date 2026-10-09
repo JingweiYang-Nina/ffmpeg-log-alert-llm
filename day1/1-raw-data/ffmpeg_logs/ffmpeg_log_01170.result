@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Audio encoding failed, possibly due to unsupported channel layout or bitrate issues.",
+    "resolution_steps": "Explicitly specify the audio channel layout (e.g., `-ac 2` for stereo) and/or a valid audio bitrate using `-b:a`. Check if the input audio is corrupted or has unusual properties.",
+    "log_file": "ffmpeg_log_01170.log"
+}

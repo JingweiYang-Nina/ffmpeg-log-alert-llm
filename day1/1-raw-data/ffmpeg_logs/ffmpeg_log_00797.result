@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unsupported output format specified for 'output_20.mp4'.",
+    "resolution_steps": "The specified output format might not be supported by FFmpeg or the file extension is incorrect for the chosen format. Check FFmpeg's supported formats.",
+    "log_file": "ffmpeg_log_00797.log"
+}

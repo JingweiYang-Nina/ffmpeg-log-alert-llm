@@ -1,0 +1,3 @@
+﻿ffmpeg -i input.mp4 -c:a aac -strict experimental output.mkv
+Unknown encoder 'aac'
+[libavcodec @ 0x...] The encoder 'aac' is experimental but experimental codecs are not enabled, add '-strict -2' if you want to use it.

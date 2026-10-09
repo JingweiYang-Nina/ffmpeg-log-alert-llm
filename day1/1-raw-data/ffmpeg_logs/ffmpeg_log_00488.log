@@ -1,0 +1,1 @@
+﻿Stream mapping: Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264)) Stream #0:1 -> #0:1 (aac (native) -> aac (aac_lc)) video:12345kB audio:6789kB total:19134kB PSNR= 47.89

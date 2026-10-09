@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid argument: Unsupported pixel format",
+    "resolution_steps": "Review the FFmpeg command line arguments for syntax errors or unsupported options. Consult the FFmpeg documentation for correct usage, specifically checking pixel format compatibility.",
+    "log_file": "ffmpeg_log_00687.log"
+}

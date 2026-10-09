@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unsupported audio encoder (AC3).",
+    "resolution_steps": "Select an audio encoder that your FFmpeg build supports (e.g., aac, libmp3lame), or ensure FFmpeg is compiled with AC3 support if needed.",
+    "log_file": "ffmpeg_log_02402.log"
+}

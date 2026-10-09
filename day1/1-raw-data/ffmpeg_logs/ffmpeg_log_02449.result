@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Transcoding process appears to have been interrupted or stalled due to DTS/PTS issues.",
+    "resolution_steps": "This often indicates problematic timestamps in the input stream. Try remuxing the input file or using `setpts` filter (`-vf setpts=PTS`) to correct timestamps. Examine the input file for corruption or non-standard encoding. Check system resources for interruptions.",
+    "log_file": "ffmpeg_log_02449.log"
+}

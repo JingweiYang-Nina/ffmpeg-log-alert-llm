@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+Input #0, mov,mp4, from 'source.mp4':
+  Duration: 00:00:10.00
+Output #0, mov, to 'reencoded.mp4':
+frame=  250 fps= 22 q=-1.0 Lsize=    2500kB time=00:00:10.00 bitrate=2000.0kbits/s speed=0.88x
+PSNR=32.55 dB

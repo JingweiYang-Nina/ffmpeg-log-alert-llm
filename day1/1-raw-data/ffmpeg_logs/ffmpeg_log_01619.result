@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Error processing input stream #0:0. Past duration too large. Likely corrupted input file.",
+    "resolution_steps": "Verify the integrity of the input file ('bad_file.mp4'). Try re-downloading or repairing the source file. If possible, attempt to transcode with more robust settings or a different input format.",
+    "log_file": "ffmpeg_log_01619.log"
+}

@@ -1,0 +1,4 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+[h264_nvenc @ 0x7f8d68000800] A NVENC internal error has occurred
+Error initializing output stream 0:0 -- Error while opening encoder for output stream #0:0 - maybe incorrect parameters such as bitrate, rate, width or height
+Conversion failed!

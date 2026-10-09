@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mp4 -c:v copy -c:a aac output_dir/output.mp4
+ffmpeg version 4.4.2-0ubuntu0.22.04.1
+[out#0/mp4 @ 0x557fb40a0000] Could not open 'output_dir/output.mp4': Permission denied
+av_interleaved_write_frame(): Permission denied
+Error writing trailer of output_dir/output.mp4: Permission denied

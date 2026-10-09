@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mp4 output.mp4
+... (progress) ...
+Output file #0 does not contain any stream
+Failed to write header for output file #0: No space left on device
+Error writing trailer of output.mp4: No space left on device

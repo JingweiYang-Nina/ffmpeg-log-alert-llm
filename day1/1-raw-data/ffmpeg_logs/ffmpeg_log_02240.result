@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "FFmpeg ran out of memory.",
+    "resolution_steps": "Close other applications to free up RAM. Reduce the resolution or bitrate of the output video, or process in smaller chunks if possible.",
+    "log_file": "ffmpeg_log_02240.log"
+}

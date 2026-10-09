@@ -1,0 +1,4 @@
+﻿ffmpeg -i presentation.ppt -vf 'drawtext=text="Confidential":x=10:y=10:fontcolor=white:fontsize=24' -c:v libx264 -crf 23 output.mp4
+... (log lines) ...
+frame= 900 fps= 30 q=-1.0 Lsize=   20000kB time=00:00:30.00 bitrate=5333.3kbits/s speed=1.0x
+PSNR y:38.05 u:41.10 v:40.88 average:39.99 min:30.00 max:45.00

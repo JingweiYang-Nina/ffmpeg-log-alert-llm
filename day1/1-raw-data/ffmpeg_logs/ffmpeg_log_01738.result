@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Failed to write output file header due to invalid arguments.",
+    "resolution_steps": "Check output container format compatibility with streams (e.g., audio/video codecs) and ensure file extension matches format.",
+    "log_file": "ffmpeg_log_01738.log"
+}

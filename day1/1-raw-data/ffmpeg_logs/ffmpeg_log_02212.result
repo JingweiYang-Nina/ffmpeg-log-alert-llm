@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "AMRNB tag not found for AMR format, possibly due to unsupported parameters.",
+    "resolution_steps": "Ensure the input audio stream is compatible with AMR. The AMR container typically requires a specific audio codec (AMR-NB or AMR-WB). Check if FFmpeg is built with AMR support and if the audio parameters are valid for AMR.",
+    "log_file": "ffmpeg_log_02212.log"
+}

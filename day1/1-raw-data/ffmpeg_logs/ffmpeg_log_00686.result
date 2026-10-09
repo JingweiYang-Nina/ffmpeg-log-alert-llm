@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "/path/to/nonexistent_video.mp4: No such file or directory",
+    "resolution_steps": "The input file '/path/to/nonexistent_video.mp4' could not be found. Verify the file path and name, and ensure the file exists and is accessible.",
+    "log_file": "ffmpeg_log_00686.log"
+}

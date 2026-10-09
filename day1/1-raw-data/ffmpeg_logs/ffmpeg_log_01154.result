@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Video dimensions are not aligned to 2, causing encoder initialization error.",
+    "resolution_steps": "Ensure video width and height are divisible by 2. Adjust output resolution using `-vf scale=w:h` or crop to an even dimension.",
+    "log_file": "ffmpeg_log_01154.log"
+}

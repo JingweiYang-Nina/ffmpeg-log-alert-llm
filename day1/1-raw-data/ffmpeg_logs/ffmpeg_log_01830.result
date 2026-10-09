@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Encoding failed due to DTS issue",
+    "resolution_steps": "This often indicates an issue with the input video's timestamps or encoder. Try rebuilding FFmpeg or using a different input format.",
+    "log_file": "ffmpeg_log_01830.log"
+}

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Output file 'output.webm' already exists and overwrite was not permitted.",
+    "resolution_steps": "Either delete the existing output file, choose a different output filename, or run FFmpeg with the '-y' flag to automatically overwrite existing files.",
+    "log_file": "ffmpeg_log_02287.log"
+}

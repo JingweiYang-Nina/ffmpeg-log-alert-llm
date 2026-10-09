@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mp4 -c:v h264_qsv -qsv_sync_op_timeout 1000 output.mp4
+ffmpeg version 4.4.2-0ubuntu0.22.04.1
+[h264_qsv @ 0x557fb40a0000] Error initializing the MFX session: -3
+Error initializing output stream 0:0 -- Error while opening encoder for input stream #0:0
+Conversion failed!

@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'short.mp4':
+  Duration: 00:00:02.00, bitrate: 500 kb/s
+Output #0, mp4, to 'output.mp4':
+Conversion failed! An error occurred:
+Output file is empty, nothing was encoded (check -ss and -t parameters)

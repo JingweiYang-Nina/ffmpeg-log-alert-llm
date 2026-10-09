@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Failed to create Direct3D11 device for hardware acceleration.",
+    "resolution_steps": "This indicates a problem with DirectX 11 or your graphics drivers. Update your GPU drivers, ensure DirectX 11 is properly installed, or try using a different hardware acceleration method if available, or disable hardware acceleration entirely.",
+    "log_file": "ffmpeg_log_02415.log"
+}

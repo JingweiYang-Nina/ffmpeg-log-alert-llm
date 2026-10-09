@@ -1,0 +1,6 @@
+﻿ffmpeg version 5.1.2-0ubuntu1 Copyright (c) 2000-2022 FFmpeg developers
+Input #0, mov, from 'corrupted_video.mp4':
+[h264 @ 0x5600d8c00000] A non-existing PPS 0 referenced
+[h264 @ 0x5600d8c00000] decode_slice_header error
+Error while decoding stream #0:0: Invalid data found when processing input
+Conversion failed!

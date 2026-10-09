@@ -1,0 +1,8 @@
+﻿Input #0, mov, from 'source_2.mp4':
+  Duration: 00:00:10.00, start: 0.000000, bitrate: 2000 kb/s
+Stream #0:0: Video: h264 (High), 1920x1080, 25 fps
+Output #0, mp4, to 'output_2.mp4':
+Stream #0:0: Video: h264 (libx264), 1280x720, 25 fps
+frame=  250 fps= 25 q=28.0 size=    2560kB time=00:00:10.00 bitrate=2048.0kbits/s speed=1.00x
+video:2480kB audio:80kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000%
+[libx264 @ 0x4f494f1c9c74] PSNR Mean Y:46.33 U:46.47 V:46.99 Avg:46.33 Global:46.33

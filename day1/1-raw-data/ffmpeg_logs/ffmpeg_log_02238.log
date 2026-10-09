@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.ts output.mp4
+Option '-c:v copy' not found.
+Error parsing options: Invalid argument
+
+ffmpeg exited with code 1.

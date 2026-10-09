@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mp4 -vf scale=720:480 -c:v libx264 -preset medium -crf 23 -c:a aac -b:a 128k output_720p.mp4
+ffmpeg version 4.4.2 Copyright (c) 2000-2021 the FFmpeg developers
+...
+[libx264 @ 0x55d7f191a300] PSNR Avg:44.55 Global:44.55
+video:1000kB audio:200kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.0%

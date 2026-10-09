@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid argument for input file 'bad_format.mov'.",
+    "resolution_steps": "The input file might be corrupted or has an unusual format that FFmpeg cannot properly parse. Try using a tool like MediaInfo to inspect its properties, or convert it to a common container/codec format using another utility if possible.",
+    "log_file": "ffmpeg_log_02911.log"
+}

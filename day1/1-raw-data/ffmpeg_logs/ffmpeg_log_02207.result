@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Audio bitrate (32000) too low for AC3 encoder, minimum is 64000.",
+    "resolution_steps": "Increase the audio bitrate (e.g., using `-b:a 64k` or higher) to meet the encoder's minimum requirement.",
+    "log_file": "ffmpeg_log_02207.log"
+}

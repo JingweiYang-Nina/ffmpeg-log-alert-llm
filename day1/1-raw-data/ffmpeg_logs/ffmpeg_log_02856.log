@@ -1,0 +1,14 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'source_clip.mov':
+  Duration: 00:00:10.00, start: 0.000000, bitrate: 1000 kb/s
+  Stream #0:0(eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1920x1080 [SAR 1:1 DAR 16:9], 990 kb/s, 25 fps, 25 tbr, 12800 tbn, 50 tbc (default)
+  Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
+Output #0, mp4, to 'converted.webm':
+  Metadata:
+    encoder         : Lavf58.45.100
+  Stream #0:0(eng): Video: h264 (libx264), yuv420p, 1280x720 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 25 fps, 25 tbn
+  Stream #0:1(eng): Audio: aac (LC), 48000 Hz, stereo, fltp, 128 kb/s
+frame=  250 fps= 25 q=28.0 size=    2560kB time=00:00:10.00 bitrate=2048.0kbits/s speed=1.0x
+video:2496kB audio:128kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.487%
+[Parsed_psnr_1 @ 0x7f8d68000800] PSNR y:45.33 u:44.63 v:43.93 average:44.33 min:40.83 max:46.13
+Transcoding completed successfully.

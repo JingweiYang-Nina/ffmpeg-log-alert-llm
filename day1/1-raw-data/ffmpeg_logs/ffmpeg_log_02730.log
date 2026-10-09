@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'input.mp4':
+[swscaler @ 0x7f038c0000] width not divisible by 2 (1280x719)
+Error allocating filter.
+Conversion failed!

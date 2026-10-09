@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Non-monotonic DTS (Decoding Time Stamp) in output stream.",
+    "resolution_steps": "This often indicates an issue with the source file or certain filters. Try using a different input file, updating FFmpeg, or simplifying complex filter chains. Sometimes, adding `-copyts` or `-vsync 0` might help if frame timestamps are problematic.",
+    "log_file": "ffmpeg_log_02410.log"
+}

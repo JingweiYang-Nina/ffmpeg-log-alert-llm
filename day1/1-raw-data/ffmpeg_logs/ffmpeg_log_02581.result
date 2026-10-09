@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Error configuring video filter",
+    "resolution_steps": "Review the filter graph and parameters for correct syntax and values. Ensure the filter is correctly named and supported by your FFmpeg build.",
+    "log_file": "ffmpeg_log_02581.log"
+}

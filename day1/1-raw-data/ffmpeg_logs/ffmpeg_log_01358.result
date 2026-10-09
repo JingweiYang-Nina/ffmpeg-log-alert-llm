@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid FFmpeg command line parameters: Unrecognized option 'incorrect_param'.",
+    "resolution_steps": "Review FFmpeg documentation for correct command syntax and parameters.",
+    "log_file": "ffmpeg_log_01358.log"
+}

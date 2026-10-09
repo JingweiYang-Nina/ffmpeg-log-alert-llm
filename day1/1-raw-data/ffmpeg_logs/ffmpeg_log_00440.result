@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Could not write header for output file.",
+    "resolution_steps": "Check output format compatibility with codecs or verify FFmpeg installation. Ensure output file extension is correct.",
+    "log_file": "ffmpeg_log_00440.log"
+}

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Failed to open audio output file",
+    "resolution_steps": "Check permissions and path for the audio output file. Ensure the directory exists.",
+    "log_file": "ffmpeg_log_02043.log"
+}

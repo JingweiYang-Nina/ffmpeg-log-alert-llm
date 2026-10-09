@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Output file #0 does not contain any stream. Please check stream conditions specified for output.",
+    "resolution_steps": "Ensure that input streams are correctly mapped to output streams, and that codecs are compatible. Use -map options if necessary.",
+    "log_file": "ffmpeg_log_00959.log"
+}

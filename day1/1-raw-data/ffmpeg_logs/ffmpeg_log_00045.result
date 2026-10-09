@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid parameter or syntax in FFmpeg command: 'bitrate=high'. Invalid bitrate value.",
+    "resolution_steps": "Provide a valid numerical value for bitrate (e.g., `-b:v 2M`).",
+    "log_file": "ffmpeg_log_00045.log"
+}

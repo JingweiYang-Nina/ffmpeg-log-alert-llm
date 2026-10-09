@@ -1,0 +1,4 @@
+﻿Here's an FFmpeg log snippet:
+
+Cannot open output file 'output.mkv': Permission denied
+Error while processing data for stream #0:0

@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+Input #0, avi, from 'source.avi':
+  Duration: 00:00:15.00
+Output #0, mp4, to 'output.mp4':
+frame=  375 fps= 30 q=-1.0 Lsize=   5625kB time=00:00:15.00 bitrate=3000.0kbits/s speed=1.50x
+PSNR=38.12 dB

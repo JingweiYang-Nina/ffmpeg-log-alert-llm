@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid or misplaced bitrate option '-b'.",
+    "resolution_steps": "Ensure the bitrate option is correctly specified (e.g., '-b:v 2M' for video bitrate, '-b:a 128k' for audio bitrate) and placed before the output file name. Verify the specified bitrate is positive and valid.",
+    "log_file": "ffmpeg_log_01810.log"
+}

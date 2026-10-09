@@ -1,0 +1,6 @@
+﻿Output #0, mp4, to 'output.mp4':
+  Metadata:
+    encoder         : Lavf58.29.100
+  Stream #0:0: Video: h264 (libx264) (avc1 / 0x31637661), yuv420p, 1280x720 [SAR 1:1 DAR 16:9], q=-1--1, 24 fps, 12288 tbn, 24 tbc
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s
+size= 256MB time=00:10:00.00 bitrate=3500.0kbits/s speed=1.0x

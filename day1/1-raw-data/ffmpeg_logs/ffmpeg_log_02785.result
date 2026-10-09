@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Option 'preset' not found. Error initializing video encoder: Invalid argument.",
+    "resolution_steps": "Review FFmpeg command line arguments. Ensure all options are valid for the selected codec and version. Consult FFmpeg documentation for correct syntax. For presets, use 'ultrafast', 'superfast', 'fast', 'medium', 'slow', 'slower', 'veryslow', 'placebo'.",
+    "log_file": "ffmpeg_log_02785.log"
+}

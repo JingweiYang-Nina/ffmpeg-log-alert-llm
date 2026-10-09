@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input file 'input_corrupt.mp4' is corrupt or malformed (moov atom not found).",
+    "resolution_steps": "Verify the integrity of the input video file. Try repairing the file or using a different source.",
+    "log_file": "ffmpeg_log_01094.log"
+}

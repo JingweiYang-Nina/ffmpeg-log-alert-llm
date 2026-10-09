@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Protocol 'pipe:' not found or supported for output.",
+    "resolution_steps": "This error typically means FFmpeg couldn't infer the output format for a pipe. You must explicitly specify the output format when using pipes, e.g., `ffmpeg -i input.mp4 -f mp4 pipe:1` for MP4 output to stdout.",
+    "log_file": "ffmpeg_log_02917.log"
+}

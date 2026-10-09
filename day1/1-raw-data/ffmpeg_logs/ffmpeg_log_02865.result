@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown encoder or decoder.",
+    "resolution_steps": "Verify the encoder/decoder name (e.g., 'libx264', 'aac'). Ensure FFmpeg is compiled with support for the desired codec. Install necessary libraries or recompile FFmpeg.",
+    "log_file": "ffmpeg_log_02865.log"
+}

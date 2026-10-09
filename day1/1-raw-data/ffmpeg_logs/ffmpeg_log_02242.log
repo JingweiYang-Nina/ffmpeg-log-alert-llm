@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mp4 result.mov
+[AVFoundation indev @ 0x12345] AVF: cannot find device with name "input.mp4"
+input.mp4: No such file or directory
+
+ffmpeg exited with code 1.

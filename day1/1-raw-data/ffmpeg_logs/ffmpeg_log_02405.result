@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Disk quota exceeded.",
+    "resolution_steps": "Your user account has reached its storage limit. Delete unnecessary files, request an increase in quota, or try saving the output to a different location with more available space/quota.",
+    "log_file": "ffmpeg_log_02405.log"
+}

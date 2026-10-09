@@ -1,0 +1,3 @@
+﻿ffmpeg -c:v libx264 output.mp4
+At least one input file must be specified
+Error opening filters!

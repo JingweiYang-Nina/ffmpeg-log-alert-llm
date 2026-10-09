@@ -1,0 +1,4 @@
+﻿ffmpeg -i input.mp4 -f mpegts -y udp://127.0.0.1:1234
+[udp @ 0x55b1f9c04dc0] Failed to set UDP receive buffer size: Operation not permitted
+Could not write header for output file #0 (incorrect codec parameters ?): Operation not permitted
+Exiting due to error.

@@ -1,0 +1,1 @@
+﻿ffmpeg encountered 'Error while decoding stream #0:0: Invalid data found when processing input' during 'corrupt.mp4' transcoding. The input file might be damaged.

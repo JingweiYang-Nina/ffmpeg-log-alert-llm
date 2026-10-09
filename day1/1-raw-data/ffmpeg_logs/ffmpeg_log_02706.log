@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105232-g5968f9a2b0 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input.mp4':
+Output #0, mp4, to 'output.mp4':
+Could not find video stream in the input, or no video stream mapped.

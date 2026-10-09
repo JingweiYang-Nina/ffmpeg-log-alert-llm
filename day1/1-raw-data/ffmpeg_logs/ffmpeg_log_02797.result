@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Error parsing NAL unit. Invalid data found when processing input stream #0:0.",
+    "resolution_steps": "The input video stream might be corrupted. Try validating the source file or using a different input. This can sometimes be resolved by re-encoding the source file using a robust encoder.",
+    "log_file": "ffmpeg_log_02797.log"
+}

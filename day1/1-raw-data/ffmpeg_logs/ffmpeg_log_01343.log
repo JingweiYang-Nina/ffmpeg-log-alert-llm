@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f8e8c000000] moov atom not found
+corrupt_input_212.mp4: Invalid data found when processing input
+Error opening input file corrupt_input_212.mp4.
+Conversion failed!

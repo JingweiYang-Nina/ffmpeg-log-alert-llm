@@ -1,0 +1,2 @@
+﻿ffmpeg -i input.mp4 -t -5 output.mp4
+Invalid duration specification for '-t' (expected positive number)

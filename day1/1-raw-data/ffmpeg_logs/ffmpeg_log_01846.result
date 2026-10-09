@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Encoder setting conflict (non-pic output)",
+    "resolution_steps": "Adjust encoder settings related to picture types or compatibility, or update FFmpeg.",
+    "log_file": "ffmpeg_log_01846.log"
+}

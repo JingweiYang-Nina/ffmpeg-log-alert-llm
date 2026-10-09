@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Error: could not open output file",
+    "resolution_steps": "This often indicates a permission issue, an invalid path, or a locked file. Check write permissions for the output directory and ensure no other process is using the file.",
+    "log_file": "ffmpeg_log_01710.log"
+}

@@ -1,0 +1,7 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55f9c4c1a400] Cannot allocate memory for stream data.
+Output #0, mp4, to 'output_video_100.mp4':
+    Could not write header for file 'output_video_82.mp4': Cannot allocate memory
+av_interleaved_write_frame(): Cannot allocate memory
+Error writing trailer of output #0: Cannot allocate memory
+Conversion failed!

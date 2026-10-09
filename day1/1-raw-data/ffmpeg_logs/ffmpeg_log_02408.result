@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown input format 'wrong_format'.",
+    "resolution_steps": "Specify a valid input format using the `-f` flag if auto-detection fails, or ensure the input file extension is correct and recognized by FFmpeg.",
+    "log_file": "ffmpeg_log_02408.log"
+}

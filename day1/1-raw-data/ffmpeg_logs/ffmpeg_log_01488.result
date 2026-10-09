@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown or unsupported encoder specified ('libx266').",
+    "resolution_steps": "Ensure FFmpeg is compiled with support for the desired encoder or choose a different, supported encoder (e.g., libx264, libvpx-vp9).",
+    "log_file": "ffmpeg_log_01488.log"
+}

@@ -1,0 +1,4 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+[Parsed_scale_0 @ 0x55d0124e54c0] Value 'abc' for option 'w' is not a valid integer
+Error configuring filter 'Parsed_scale_0' (Invalid argument) -- Aborting.
+Error initializing complex filters.

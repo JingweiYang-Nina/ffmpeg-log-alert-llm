@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mp4 -vf 'transpose=invalid' -c:v copy output.mp4
+ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 FFmpeg developers
+[Parsed_transpose_0 @ 0x...] Value 'invalid' for option 'dir' is not a valid integer expression.
+[AVFilterGraph @ 0x...] Error initializing complex filters.
+Error configuring filters.

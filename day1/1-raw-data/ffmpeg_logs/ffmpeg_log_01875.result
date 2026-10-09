@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Failed to open/create a specified filter (e.g., 'something_wrong')",
+    "resolution_steps": "Check the filter name and syntax used in your FFmpeg command. Ensure the filter is correctly spelled and available in your FFmpeg build.",
+    "log_file": "ffmpeg_log_01875.log"
+}

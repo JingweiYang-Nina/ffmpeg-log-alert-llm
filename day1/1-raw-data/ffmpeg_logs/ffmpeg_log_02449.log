@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.3.1-2020-11-13-git-6b1c09b7e7 Copyright (c) 2000-2020 the FFmpeg developers
+[AVPacket @ 0x55ac21013d40] AVPacket.pts and AVPacket.dts are not in timebase of the stream
+Non-increasing DTS in stream 0:0, this may result in a non-monotonic DTS in the output file.
+frame= 100 fps= 10 q=-1.0 Lsize= N/A time=00:00:03.33 bitrate= N/A speed=0.3x    
+(process abruptly terminated)

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "No space left on device",
+    "resolution_steps": "Free up disk space on the target partition where the output file is being written. Check for large temporary files.",
+    "log_file": "ffmpeg_log_02486.log"
+}

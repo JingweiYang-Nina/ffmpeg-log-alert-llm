@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Option 'crf_value' not found. Invalid argument.",
+    "resolution_steps": "The correct option for Constant Rate Factor is `-crf`, not `-crf_value`. Correct the command line argument.",
+    "log_file": "ffmpeg_log_01651.log"
+}

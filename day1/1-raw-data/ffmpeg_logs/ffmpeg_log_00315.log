@@ -1,0 +1,5 @@
+﻿ffmpeg -i source.mkv -c:v vp9 -b:v 2M output.webm
+... (log lines) ...
+frame= 1000 fps= 33 q=-1.0 Lsize=   60000kB time=00:00:30.00 bitrate=16000.0kbits/s speed=1.1x
+video:59000kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.6%
+PSNR y:47.88 u:49.12 v:48.99 average:48.66 min:35.00 max:52.00

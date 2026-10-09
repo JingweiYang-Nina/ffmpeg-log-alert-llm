@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown encoder 'libx270'",
+    "resolution_steps": "Check the spelling of the codec. Ensure FFmpeg was compiled with support for the desired codec, or use a supported codec like 'libx264'.",
+    "log_file": "ffmpeg_log_02467.log"
+}

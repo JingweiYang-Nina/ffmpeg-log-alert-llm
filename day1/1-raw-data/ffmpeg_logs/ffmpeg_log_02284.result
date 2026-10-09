@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "No NVENC-capable GPU devices were found or are accessible.",
+    "resolution_steps": "Ensure NVIDIA drivers are installed and up-to-date. Verify that your GPU supports NVENC and is properly configured. Check if another process is using the GPU. If no NVENC GPU is available, use a software encoder like libx264.",
+    "log_file": "ffmpeg_log_02284.log"
+}

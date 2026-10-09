@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Insufficient memory to perform transcoding operations (Cannot allocate memory).",
+    "resolution_steps": "Close other applications to free up RAM. If processing very large files, consider splitting them or upgrading system memory. Check swap space configuration.",
+    "log_file": "ffmpeg_log_01806.log"
+}

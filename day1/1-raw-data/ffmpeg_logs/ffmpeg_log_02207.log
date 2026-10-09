@@ -1,0 +1,12 @@
+﻿ffmpeg version N-105151-g7a04a37f2c Copyright (c) 2000-2024 the FFmpeg developers
+  configuration: --enable-gpl --enable-libx264
+  libavutil      60. 3.100 / 60. 3.100
+  libavcodec     60. 3.100 / 60. 3.100
+  libavformat    60. 3.100 / 60. 3.100
+  libavdevice    60. 1.100 / 60. 1.100
+  libavfilter     9. 3.100 /  9. 3.100
+  libswscale      7. 1.100 /  7. 1.100
+  libswresample   4. 9.100 /  4. 9.100
+  libpostproc    57. 1.100 / 57. 1.100
+[ac3 @ 0x55e09f5383c0] bitrate is too low (32000), minimum is 64000
+Error opening encoder for output stream #0:1 -- audio: Invalid argument

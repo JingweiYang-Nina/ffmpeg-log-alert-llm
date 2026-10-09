@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Required encoder not found.",
+    "resolution_steps": "Install the `libmp3lame` development package or rebuild FFmpeg with `--enable-libmp3lame`.",
+    "log_file": "ffmpeg_log_02830.log"
+}

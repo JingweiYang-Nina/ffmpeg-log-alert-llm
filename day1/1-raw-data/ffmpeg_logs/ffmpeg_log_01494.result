@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Remote input stream (HLS/HTTP) not found or inaccessible (HTTP 404).",
+    "resolution_steps": "Verify the URL of the remote stream. Check if the stream is online and publicly accessible. Examine network connectivity and firewall rules.",
+    "log_file": "ffmpeg_log_01494.log"
+}

@@ -1,0 +1,7 @@
+﻿ffmpeg version N-105572-g0a0b1c2d3e Copyright (c) 2000-2023 the FFmpeg developers
+built with gcc 11.2.0 (GCC)
+...
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x...] Format detected only with low score, misdetection possible!
+relative/path/to/file.flv: No such file or directory
+Conversion failed!
+PSNR=0.00 dB

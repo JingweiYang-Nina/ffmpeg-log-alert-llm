@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Filter input stream not found.",
+    "resolution_steps": "Ensure the specified input stream (e.g., video stream '0:v') exists and is correctly identified for the filter.",
+    "log_file": "ffmpeg_log_01198.log"
+}

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Packet /PTS of size XXX is too large to fit in buffer of size YYY.",
+    "resolution_steps": "This often indicates a problem with the source file or encoding parameters. Try adjusting buffer sizes or using a different encoder/preset.",
+    "log_file": "ffmpeg_log_00939.log"
+}

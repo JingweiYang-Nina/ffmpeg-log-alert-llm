@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input file '/invalid/path/to/video.mp4' not found.",
+    "resolution_steps": "Correct the path to the input video file. Ensure it exists at the specified location.",
+    "log_file": "ffmpeg_log_01641.log"
+}

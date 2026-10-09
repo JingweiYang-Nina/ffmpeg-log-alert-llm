@@ -1,0 +1,8 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 The FFmpeg developers
+Input #0, concat, from 'mylist.txt':
+  Duration: 00:00:30.00, start: 0.000000, bitrate: 2000 kb/s
+Output #0, mp4, to 'concatenated.mp4':
+  Stream #0:0: Video: h264 (libx264), yuv420p, 1920x1080, 25 fps
+frame=  750 fps= 50 q=28.0 Lsize= 30000kB time=00:00:30.00 bitrate=8000.0kbits/s speed=2.0x
+video:29800kB audio:200kB
+PSNR=46.33 dB

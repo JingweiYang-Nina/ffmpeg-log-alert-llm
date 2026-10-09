@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid pixel format 'yuv444p10le' specified.",
+    "resolution_steps": "Check FFmpeg's supported pixel formats using 'ffmpeg -pix_fmts'. Ensure the specified pixel format is correctly spelled and compatible with the chosen encoder and FFmpeg build.",
+    "log_file": "ffmpeg_log_00238.log"
+}

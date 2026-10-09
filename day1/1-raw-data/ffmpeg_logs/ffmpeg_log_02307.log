@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mp4 -vf 'scale=1920:1080' -c:v h264_qsv -global_quality 20 -c:a aac output_qsv.mp4
+ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 FFmpeg developers
+[h264_qsv @ 0x...] No QSV devices found
+Error initializing output stream 0:0 -- Error while opening encoder for stream #0:0 - maybe incorrect parameters such as codec parameters (bitrate, resolution, request for a non-existent codec etc.)
+Conversion failed!

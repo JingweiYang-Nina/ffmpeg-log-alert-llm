@@ -1,0 +1,10 @@
+﻿ffmpeg version 5.1.2 Copyright (c) 2000-2022 the FFmpeg developers
+Input #0, mov,mp4, from 'input.mp4':
+  Duration: 00:00:09.00, start: 0.000000, bitrate: 500 kb/s
+    Stream #0:0: Video: h264, 1280x720, 25 fps
+[mp4 @ 0x5560b4a45080] Could not find tag for codec pcm_s16le in stream #1, retrying with 0x0000
+Output #0, mp4, to 'output.mp4':
+    Stream #0:0: Video: h264, 1280x720, 25 fps
+    Stream #0:1: Audio: pcm_s16le, 48000 Hz, stereo, s16, 1536 kb/s
+Could not write header for output file #0 (incorrect codec parameters ?): Invalid argument
+Error initializing global headers for output stream 0:1 -- conversion failed: Invalid argument

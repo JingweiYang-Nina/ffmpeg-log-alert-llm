@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Misplaced FFmpeg option 'preset' applied to an input file instead of an output stream or global options.",
+    "resolution_steps": "Rearrange the FFmpeg command line to place options correctly. Options like '-preset' belong before the output file name or specifically with the video encoder (e.g., `-c:v libx264 -preset medium`).",
+    "log_file": "ffmpeg_log_01112.log"
+}

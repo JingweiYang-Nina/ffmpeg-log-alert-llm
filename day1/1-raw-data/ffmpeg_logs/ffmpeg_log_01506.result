@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input file is corrupted or malformed (e.g., missing 'moov' atom in MP4).",
+    "resolution_steps": "Attempt to repair the corrupted input file using a specialized tool or acquire a non-corrupted version of the file.",
+    "log_file": "ffmpeg_log_01506.log"
+}

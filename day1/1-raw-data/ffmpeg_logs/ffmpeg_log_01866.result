@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown or unsupported encoder 'libx265_unsupported'",
+    "resolution_steps": "Use a supported encoder (e.g., libx264, h264_nvenc) or install/enable the required codec library.",
+    "log_file": "ffmpeg_log_01866.log"
+}

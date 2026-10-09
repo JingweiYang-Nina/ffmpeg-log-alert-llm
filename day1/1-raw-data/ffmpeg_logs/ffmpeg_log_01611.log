@@ -1,0 +1,12 @@
+﻿ffmpeg -i input_1080p.mp4 -vf scale=720:480 -c:v libx264 -preset medium -crf 24 -c:a aac -b:a 128k output_480p.mp4
+ffmpeg version 4.4.2 Copyright (c) 2000-2021 the FFmpeg developers
+...
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input_1080p.mp4':
+  Duration: 00:00:15.00, start: 0.000000, bitrate: 5000 kb/s
+    Stream #0:0: Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709/bt709/iec61966-2-1), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps
+    Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 192 kb/s
+Output #0, mp4, to 'output_480p.mp4':
+    Stream #0:0: Video: h264 (H.264) (avc1 / 0x31637661), yuv420p(progressive), 720x480 [SAR 1:1 DAR 3:2], q=-1.00, 25 fps
+    Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s
+[libx264 @ 0x55d7f191a300] PSNR Mean Y:42.15 U:45.33 V:46.01 Avg:42.98 Global:42.98
+video:1024kB audio:240kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.0%

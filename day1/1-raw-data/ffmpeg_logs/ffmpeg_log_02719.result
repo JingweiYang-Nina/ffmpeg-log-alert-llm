@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input file not found: non_existent_file.mp4",
+    "resolution_steps": "Verify the input file path and ensure the file exists and is accessible. Check for typos or incorrect directories.",
+    "log_file": "ffmpeg_log_02719.log"
+}

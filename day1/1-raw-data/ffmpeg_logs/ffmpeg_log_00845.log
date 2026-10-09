@@ -1,0 +1,4 @@
+﻿ffmpeg -i non_existent_file.mkv output.mp4
+ffmpeg version 4.4.2-0ubuntu0.22.04.1
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55a9b9a65f40] Format mov,mp4,m4a,3gp,3g2,mj2 probe failed.
+non_existent_file.mkv: No such file or directory

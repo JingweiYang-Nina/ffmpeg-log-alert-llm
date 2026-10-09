@@ -1,0 +1,2 @@
+﻿ffmpeg -i input.mp4 -c:v unknown_video_codec output.mkv
+Unknown encoder 'unknown_video_codec'

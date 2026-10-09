@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Output port (UDP) is already in use.",
+    "resolution_steps": "The specified UDP port is already occupied by another process. Choose a different port number or terminate the process currently using it.",
+    "log_file": "ffmpeg_log_02444.log"
+}

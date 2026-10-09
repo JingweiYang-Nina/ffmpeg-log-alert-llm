@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mp4 -vf scale=640:480 -crf 25 output.mp4
+ffmpeg version 4.4 Copyright (c) 2000-2021 Fabrice Bellard et al.
+[libx264 @ 0x...] CRF is not an integer. Must be between 0 and 51.
+Error initializing output stream 0:0 -- Error while opening encoder for output stream #0:0 - maybe incorrect parameters such as bitrate, rate, width or height
+Conversion failed!

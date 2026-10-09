@@ -1,0 +1,2 @@
+﻿Protocol 'rtmp' not found or not compiled in.
+Could not open protocol for 'rtmp://server/live/stream'.

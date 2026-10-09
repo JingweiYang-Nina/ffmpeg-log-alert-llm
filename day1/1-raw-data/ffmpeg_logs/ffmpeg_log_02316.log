@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mp4 -ss 0 -c:v copy -c:a copy output_empty.mp4
+ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 FFmpeg developers
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input.mp4':
+  Duration: 00:00:00.00, start: 0.000000, bitrate: 0 kb/s
+input.mp4: Invalid data found when processing input

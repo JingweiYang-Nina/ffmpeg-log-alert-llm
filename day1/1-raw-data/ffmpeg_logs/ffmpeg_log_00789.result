@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid data found when processing input file 'input_18.mp4' (e.g., moov atom missing).",
+    "resolution_steps": "The input file might be corrupted. Try playing it with a media player to confirm. If corrupted, try to repair it or use a different source file.",
+    "log_file": "ffmpeg_log_00789.log"
+}

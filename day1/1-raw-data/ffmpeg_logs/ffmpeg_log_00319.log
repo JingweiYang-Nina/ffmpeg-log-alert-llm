@@ -1,0 +1,5 @@
+﻿ffmpeg -i webinar.flv -c:v libx264 -preset slow -crf 20 final_webinar.mp4
+... (log lines) ...
+frame= 1200 fps= 40 q=-1.0 Lsize=   90000kB time=00:00:30.00 bitrate=24000.0kbits/s speed=1.3x
+video:89000kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.1%
+PSNR y:43.21 u:46.10 v:45.98 average:45.09 min:33.00 max:48.00

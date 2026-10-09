@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "moov atom not found. Invalid data found when processing input.",
+    "resolution_steps": "The input file might be corrupted or incomplete. Try re-downloading or re-creating the source file. Use a tool like `ffprobe` to inspect the input file's integrity.",
+    "log_file": "ffmpeg_log_02791.log"
+}

@@ -1,0 +1,4 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+... (some processing)
+Output file #0 does not contain any stream
+Conversion failed!

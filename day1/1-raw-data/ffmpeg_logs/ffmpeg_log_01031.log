@@ -1,0 +1,4 @@
+﻿Here's an FFmpeg log snippet:
+
+Option 'b:v' (video bitrate) requires an argument.
+Error parsing global options: Option not found

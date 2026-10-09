@@ -1,0 +1,4 @@
+﻿ffmpeg -i input.mp4 -vf scale=1280:720,psnr -c:v libx264 output_720p.mp4
+... (processing lines) ...
+frame= 750 fps= 25 q=-1.0 Lsize=   30000kB time=00:00:30.00 bitrate=8000.0kbits/s speed=1.0x
+PSNR y:35.10 u:38.20 v:37.90 average:36.95 min:28.00 max:42.00

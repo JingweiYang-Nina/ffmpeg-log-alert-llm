@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid or unknown option 'framerate'",
+    "resolution_steps": "Check FFmpeg documentation for correct command-line options and syntax. Use '-r' for framerate.",
+    "log_file": "ffmpeg_log_01867.log"
+}

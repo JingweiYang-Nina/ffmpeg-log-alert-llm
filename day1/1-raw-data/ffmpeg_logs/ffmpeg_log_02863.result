@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Error while encoding/transcoding stream.",
+    "resolution_steps": "This is a generic encoding error, often related to specific codec parameters or unforeseen issues. Check for other error messages preceding this, try different encoding parameters (e.g., bitrate, profile, preset) or update FFmpeg.",
+    "log_file": "ffmpeg_log_02863.log"
+}

@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+... (processing lines) ...
+[mp4 @ 0x5608d8109840] Error writing trailer of output.mp4: No space left on device
+Error writing file 'output.mp4': No space left on device
+Conversion failed!

@@ -1,0 +1,3 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 Fabrice Bellard et al.
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55d7f1d41180] Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection very possible!
+/path/to/nonexistent_input.mp4: No such file or directory

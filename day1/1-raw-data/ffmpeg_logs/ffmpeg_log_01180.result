@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "FFmpeg failed to determine the output format for the RTMP stream, or the RTMP URL is invalid.",
+    "resolution_steps": "Ensure the RTMP URL is correct and includes the stream key. Specify the output format explicitly using `-f flv` (or other appropriate format) before the RTMP URL. Check network connectivity to the RTMP server.",
+    "log_file": "ffmpeg_log_01180.log"
+}

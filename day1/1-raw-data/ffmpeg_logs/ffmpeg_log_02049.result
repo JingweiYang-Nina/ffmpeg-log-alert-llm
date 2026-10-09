@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Internal FFmpeg assertion failure",
+    "resolution_steps": "This is likely a bug in FFmpeg or a highly malformed input. Try updating FFmpeg or using a different input file.",
+    "log_file": "ffmpeg_log_02049.log"
+}

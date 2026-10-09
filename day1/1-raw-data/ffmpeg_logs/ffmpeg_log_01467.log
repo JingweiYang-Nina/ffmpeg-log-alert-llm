@@ -1,0 +1,3 @@
+﻿ffmpeg -i read_only_input.mp4 output.mp4
+read_only_input.mp4: Permission denied
+Exiting due to error.

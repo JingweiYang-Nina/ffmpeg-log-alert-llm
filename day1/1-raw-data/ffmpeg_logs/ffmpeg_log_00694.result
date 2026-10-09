@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Codec not compatible with container",
+    "resolution_steps": "The selected codec is not compatible with the output container format. Try changing the codec (e.g., use H.264 for MP4) or choose a different container format that supports the chosen codec.",
+    "log_file": "ffmpeg_log_00694.log"
+}

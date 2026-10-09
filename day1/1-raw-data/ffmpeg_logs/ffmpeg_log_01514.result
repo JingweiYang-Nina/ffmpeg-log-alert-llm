@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input file is unreadable due to permission issues or a corrupt file system.",
+    "resolution_steps": "Check read permissions for the input file. Verify that the file is not locked or on a corrupted drive. Ensure the user running FFmpeg has access to the file.",
+    "log_file": "ffmpeg_log_01514.log"
+}

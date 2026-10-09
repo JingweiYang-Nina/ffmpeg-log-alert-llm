@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.ts output.mp4
+[AVFoundation indev @ 0x12345] AVF: cannot find device with name "input.ts"
+input.ts: No such file or directory
+
+ffmpeg exited with code 1.

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Error while decoding stream #0:0: Invalid data found when processing input.",
+    "resolution_steps": "The input file might be partially corrupted. Try skipping problematic frames or re-encoding the source.",
+    "log_file": "ffmpeg_log_00926.log"
+}

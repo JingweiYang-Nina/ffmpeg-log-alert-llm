@@ -1,0 +1,11 @@
+﻿ffmpeg -i input.mp4 output.mkv
+frame= 1000 fps= 98 q=28.0 size= 2000kB time=00:00:40.00 bitrate=400.0kbits/s speed=3.9x 
+frame= 2000 fps= 99 q=28.0 size= 4000kB time=00:00:80.00 bitrate=400.0kbits/s speed=4.0x 
+video:4000kB audio:1000kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.123%
+Output #0, matroska, to 'output.mkv':
+  Metadata:
+    encoder         : Lavf58.29.100
+    Stream #0:0: Video: h264 (libx264) (avc1 / 0x31637661), yuv420p, 1280x720 [SAR 1:1 DAR 16:9], q=-1.0, 24 fps, 1k tbn, 24 tbc
+    Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s
+PSNR-HVS-M avg:38.25
+Exiting normally, finished.

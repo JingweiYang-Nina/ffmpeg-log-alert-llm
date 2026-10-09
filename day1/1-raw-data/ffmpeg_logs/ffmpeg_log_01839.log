@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'input_video.mp4':
+[AVIOContext @ 0x...] Cannot write header for file 'pipe:': Broken pipe
+Error writing output header.
+Conversion failed!

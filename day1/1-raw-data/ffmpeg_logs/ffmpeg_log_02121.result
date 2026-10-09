@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Specified encoder/decoder not found or supported.",
+    "resolution_steps": "Check FFmpeg build for required codecs (e.g., libx264, libvpx). Recompile FFmpeg with necessary libraries or use a different codec.",
+    "log_file": "ffmpeg_log_02121.log"
+}

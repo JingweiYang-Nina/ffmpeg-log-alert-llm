@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'video_4k.mp4':
+  Duration: 00:00:30.00, start: 0.000000, bitrate: 10000 kb/s
+Output #0, mp4, to 'video_1080p.mp4':
+frame=  899 fps= 45 q=-1.0 Lsize=   60000kB time=00:00:29.98 bitrate=16000.0kbits/s speed=1.50x
+PSNR Mean: Y:44.20 U:46.50 V:45.80 Avg:45.50 dB

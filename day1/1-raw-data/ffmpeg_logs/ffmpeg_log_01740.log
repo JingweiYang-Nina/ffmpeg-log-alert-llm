@@ -1,0 +1,11 @@
+﻿Input #0, image2, from 'image%03d.png':
+  Duration: N/A, start: 0.000000, bitrate: N/A
+    Stream #0:0: Video: png, rgba(pc), 1920x1080 [SAR 3779:3779 DAR 16:9], 25 fps
+Output #0, mp4, to 'output.mp4':
+  Stream #0:0: Video: h264 (libx264) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=-1.0, 25 fps, 12800 tbn
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+Press [q] to stop, [?] for help.
+frame=  250 fps= 25 q=-1.0 Lsize=   18750kB time=00:00:10.00 bitrate=15000.0kbits/s speed=1.0x
+video:18740kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.053333%
+[libx264 @ 0x555c4d00] PSNR Y:49.80 U:51.20 V:52.50 Avg:50.90 Global:51.05

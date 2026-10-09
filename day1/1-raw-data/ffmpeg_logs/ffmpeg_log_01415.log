@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105267-ge74c7e4a1c-tess full_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+... (omitted verbose output)
+[AVHWDeviceContext @ 0x55a90d40e100] Failed to create a device context for type 1.
+Error creating a hardware device context.

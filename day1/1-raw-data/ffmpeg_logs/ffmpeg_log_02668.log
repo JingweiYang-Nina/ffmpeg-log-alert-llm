@@ -1,0 +1,8 @@
+﻿ffmpeg version N-105151-g721c00f074-tessr
+Input #0, mov,mp4, from 'input.mp4':
+  Duration: 00:00:05.00
+Output #0, mp4, to 'output.mp4':
+[mp4 @ 0x...] Too high bitrate for format 'mp4' (bitrate = 1000000000)
+frame=  150 fps= 30 q=28.0 size=  60000kB time=00:00:05.00 bitrate=96000.0kbits/s speed=1.0x    
+video:59000kB audio:1000kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.666667%
+[libx264 @ 0x...] PSNR Mean Y:42.01 U:43.12 V:43.76 Avg:42.15 Global:42.15

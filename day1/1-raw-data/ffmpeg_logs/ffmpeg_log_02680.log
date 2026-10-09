@@ -1,0 +1,3 @@
+﻿ffmpeg -i input_corrupt.mp4 output.mp4
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x...] moov atom not found
+input_corrupt.mp4: Invalid data found when processing input

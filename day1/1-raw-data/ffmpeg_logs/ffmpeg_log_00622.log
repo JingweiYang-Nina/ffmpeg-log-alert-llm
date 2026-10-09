@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 FFmpeg developers
+...
+[h264 @ 0x...] Non-monotonous DTS in output stream 0:0; previous: 12345, current: 12340; average: 12344
+[mp4 @ 0x...] Error writing trailer of output #0: Invalid data found when processing input
+Error while decoding stream #0:0: Invalid data found when processing input

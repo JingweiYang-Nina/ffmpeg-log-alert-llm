@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid parameter or syntax in FFmpeg command: 'scale=640x'. Width or height is missing for scale filter.",
+    "resolution_steps": "Provide both width and height for the scale filter (e.g., `scale=640x480`) or use auto-scaling (e.g., `scale=640:-1`).",
+    "log_file": "ffmpeg_log_00067.log"
+}

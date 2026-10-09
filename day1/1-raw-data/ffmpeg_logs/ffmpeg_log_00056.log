@@ -1,0 +1,4 @@
+﻿ffmpeg -i input.mp4 /root/no_permission_output.mp4
+[mp4 @ 0x12345678] Could not open '/root/no_permission_output.mp4': Permission denied
+av_interleaved_write_frame(): Permission denied
+Error writing trailer of /root/no_permission_output.mp4: Permission denied

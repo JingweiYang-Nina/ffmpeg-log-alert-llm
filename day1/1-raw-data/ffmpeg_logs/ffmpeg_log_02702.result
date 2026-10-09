@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid encoder parameters (e.g., B-frames not allowed for selected H.264 profile).",
+    "resolution_steps": "1. Adjust encoder parameters to match the chosen profile (e.g., remove B-frames for baseline H.264). 2. Select a different H.264 profile if B-frames are desired. 3. Consult the encoder's documentation for valid options.",
+    "log_file": "ffmpeg_log_02702.log"
+}

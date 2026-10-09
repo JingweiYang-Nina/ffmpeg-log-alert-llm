@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Output file already exists.",
+    "resolution_steps": "Rename the output file, delete the existing file, or use '-y' to overwrite (if intended).",
+    "log_file": "ffmpeg_log_00985.log"
+}

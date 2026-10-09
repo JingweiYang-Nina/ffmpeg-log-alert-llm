@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Failed to create CUDA context: No CUDA device found or accessible.",
+    "resolution_steps": "Ensure NVIDIA drivers are correctly installed and up-to-date. Verify that a CUDA-enabled GPU is present and functioning. Check 'nvidia-smi' output. If no GPU is available, use CPU-based decoding/encoding (e.g., remove `_cuvid` from codec name).",
+    "log_file": "ffmpeg_log_02910.log"
+}

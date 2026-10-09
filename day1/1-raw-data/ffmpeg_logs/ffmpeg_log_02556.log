@@ -1,0 +1,6 @@
+﻿ffmpeg version 6.0 Copyright (c) 2000-2023 Fabrice Bellard et al.
+  Output #0, webm, to 'output_3.webm':
+    Stream #0:0: Video: vp9 (libvpx-vp9), yuv420p, 640x480 [SAR 1:1 DAR 4:3], q=-1, 24 fps
+  frame=  720 fps= 30 q=-1.0 Lsize=    8000kB time=00:00:30.00 bitrate=2133.3kbits/s speed= 1.2x    
+video:7800kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.56%
+PSNR=41.25 dB

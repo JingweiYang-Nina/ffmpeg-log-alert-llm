@@ -1,0 +1,9 @@
+﻿ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 the FFmpeg developers
+... (input and output file details) ...
+Output #0, mp4, to 'fast_motion.mp4':
+  Metadata:
+    encoder         : Lavf58.76.100
+  Stream #0:0: Video: h264 (libx264), yuv420p, 1280x720, 60 fps
+  Stream #0:1: Audio: aac, 48000 Hz, stereo
+frame= 600 fps= 60 q=22.0 size=  1024kB time=00:00:10.00 bitrate=819.2kbits/s speed=2.0x
+[Parsed_psnr_0 @ 0x55e9c0b115c0] PSNR y:45.50 u:46.50 v:47.50 average:46.50 min:40.00 max:51.00

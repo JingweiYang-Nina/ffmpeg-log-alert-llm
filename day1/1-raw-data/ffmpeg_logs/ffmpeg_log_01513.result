@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Filtergraph configuration error: too many inputs provided to a filter (e.g., 'scale').",
+    "resolution_steps": "Review the filtergraph syntax and ensure that each filter receives the correct number of input streams/pads. Correct any redundant or erroneous '-map' or filter chain connections.",
+    "log_file": "ffmpeg_log_01513.log"
+}

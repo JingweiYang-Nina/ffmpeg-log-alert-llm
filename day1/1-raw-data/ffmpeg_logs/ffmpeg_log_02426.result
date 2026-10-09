@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Muxing error: invalid parameters or missing stream.",
+    "resolution_steps": "Verify that all required streams (video, audio) are present and properly configured. Check the output format's requirements and parameters (e.g., -g for GOP size if keyframes are an issue, or segment flags for streaming). Ensure the input file is valid.",
+    "log_file": "ffmpeg_log_02426.log"
+}

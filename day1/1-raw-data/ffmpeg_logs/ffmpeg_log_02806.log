@@ -1,0 +1,3 @@
+﻿ffmpeg -i /dev/video0 output.mp4
+[video4linux2,v4l2 @ 0x...] Cannot open device /dev/video0: Device or resource busy
+Error opening input.

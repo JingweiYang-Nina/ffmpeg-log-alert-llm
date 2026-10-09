@@ -1,0 +1,5 @@
+﻿Here's an FFmpeg log snippet:
+
+Output file #0 does not contain any stream
+Could not write header for output file #0 (incorrect codec parameters ?): Invalid argument
+Error writing trailer of output.mp4: Invalid argument

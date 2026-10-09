@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Audio codec not supported in the specified container format.",
+    "resolution_steps": "Choose a compatible audio codec (e.g., AAC, MP3 for MP4) or a different container format that supports the chosen audio codec.",
+    "log_file": "ffmpeg_log_02134.log"
+}

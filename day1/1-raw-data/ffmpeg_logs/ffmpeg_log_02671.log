@@ -1,0 +1,2 @@
+﻿ffmpeg -i rtmp://stream.server/live/key -c copy output.flv
+rtmp://stream.server/live/key: Connection refused

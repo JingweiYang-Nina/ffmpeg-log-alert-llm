@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unsupported encoder or codec.",
+    "resolution_steps": "Install the required codec or use a supported encoder. Check FFmpeg compilation flags.",
+    "log_file": "ffmpeg_log_02811.log"
+}

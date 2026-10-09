@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105156-gd58b5e905c Copyright (c) 2000-2022 The FFmpeg developers
+[ac3 @ 0x...] No channel layout specified. The encoder will choose the default channel layout of 2.0 (stereo).
+[ac3 @ 0x...] Too many bits in a frame!
+Error encoding audio frame

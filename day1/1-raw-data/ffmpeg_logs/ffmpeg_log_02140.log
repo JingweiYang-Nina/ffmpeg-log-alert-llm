@@ -1,0 +1,3 @@
+﻿ffmpeg version 4.3.1-2020-11-09-git Copyright (c) 2000-2020 the FFmpeg developers
+[NULL @ 0x55c654332100] Unable to find a suitable output format for 'invalid_format'
+invalid_format: Invalid argument

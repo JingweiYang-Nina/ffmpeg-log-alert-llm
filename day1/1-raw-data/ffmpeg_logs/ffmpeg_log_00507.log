@@ -1,0 +1,6 @@
+﻿ffmpeg version N-105566-gc456e7e0d3 Copyright (c) 2000-2022 The FFmpeg developers
+  built with gcc 11.2.0 (Rev4, Built by MSYS2)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'corrupt.mp4':
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7fa28c0000] moov atom not found
+corrupt.mp4: Invalid data found when processing input
+Conversion failed!

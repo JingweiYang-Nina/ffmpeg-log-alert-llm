@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.3.1
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x12345678] Could not find tag for codec h264 in stream #0, codec not currently supported in container.
+Output #0, mp4, to 'output.mp4':
+  Output file #0 does not contain any stream
+Conversion failed!

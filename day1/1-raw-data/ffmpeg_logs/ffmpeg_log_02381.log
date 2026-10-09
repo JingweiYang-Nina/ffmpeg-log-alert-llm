@@ -1,0 +1,4 @@
+﻿ffmpeg version 4.3.1
+[NULL @ 0x558004f112c0] Unable to find a suitable output format for 'rtmp://a.rtmp.youtube.com/live2/YOUR_STREAM_KEY'
+rtmp://a.rtmp.youtube.com/live2/YOUR_STREAM_KEY: Invalid argument
+Conversion failed!

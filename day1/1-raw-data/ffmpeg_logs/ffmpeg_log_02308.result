@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Failed to load the specified font file for the 'drawtext' filter ('/path/to/non_existent_font.ttf').",
+    "resolution_steps": "Verify the font file path is correct and the file exists. Ensure FFmpeg has read permissions for the font file. Use a valid and accessible font file.",
+    "log_file": "ffmpeg_log_02308.log"
+}

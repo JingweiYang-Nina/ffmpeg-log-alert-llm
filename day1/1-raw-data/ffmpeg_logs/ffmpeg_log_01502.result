@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown or unsupported input format or protocol specified.",
+    "resolution_steps": "Verify the input file extension or explicitly specify a known input format using '-f'. Ensure FFmpeg is compiled with support for the required protocol/format.",
+    "log_file": "ffmpeg_log_01502.log"
+}

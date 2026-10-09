@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid timebase (0) for video stream in output muxer.",
+    "resolution_steps": "This indicates a problem with how the video stream's timing is being handled by the output container. Ensure that the input video stream is not corrupted and that the framerate and other time-related parameters are correctly set and compatible with the chosen output container format.",
+    "log_file": "ffmpeg_log_02455.log"
+}

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Could not write header for output file #0 (incorrect codec parameters ?): No space left on device.",
+    "resolution_steps": "Clear disk space on the target drive or choose a different output location with sufficient free space.",
+    "log_file": "ffmpeg_log_00970.log"
+}

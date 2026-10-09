@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Output file does not contain any stream, likely due to stream mapping issues or invalid filters.",
+    "resolution_steps": "Check the FFmpeg command for correct stream mapping (-map) and ensure that input streams are properly selected and output streams are being generated (e.g., video and audio streams).",
+    "log_file": "ffmpeg_log_01100.log"
+}

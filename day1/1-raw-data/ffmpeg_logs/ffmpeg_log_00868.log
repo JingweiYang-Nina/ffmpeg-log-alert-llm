@@ -1,0 +1,12 @@
+﻿ffmpeg -i input.mp4 -c:v hevc -c:a aac -f mp4 output.mov
+ffmpeg version 4.4.2-0ubuntu0.22.04.1
+Output #0, mov, to 'output.mov':
+  Metadata:
+    encoder         : Lavf58.76.100
+  Stream #0:0(und): Video: hevc (libx265) (hev1 / 0x31766568), yuv420p(tv, bt709), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 29.97 fps, 29.97 tbr, 30k tbn, 29.97 tbc
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s
+[mp4 @ 0x55d7f350c300] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 59940 >= 59940
+[mp4 @ 0x55d7f350c300] This may occur if the input contains a non-monotonic dts and the muxer is not smart enough to cope with it. It can also occur if the encoder does not set dts or if the encoder bypasses the muxer. Muxer will continue to work, but with an output which may have non-monotonic dts values
+frame=  900 fps= 30 q=28.0 Lsize=   7500kB time=00:00:30.00 bitrate=2000.0kbits/s speed=1.0x    
+video:7400kB audio:100kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead:0.000%
+[Parsed_psnr_0 @ 0x55d7f3521b40] PSNR y:35.12 U:38.34 V:37.89 average:36.78 min:33.01 max:40.12

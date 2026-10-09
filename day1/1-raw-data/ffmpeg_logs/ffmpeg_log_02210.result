@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Codec 'pcm_s16le' is not supported by the MP4 container format.",
+    "resolution_steps": "Choose an audio codec compatible with MP4 (e.g., AAC using `-c:a aac`) or select a different output container format that supports PCM audio (e.g., WAV or MOV).",
+    "log_file": "ffmpeg_log_02210.log"
+}

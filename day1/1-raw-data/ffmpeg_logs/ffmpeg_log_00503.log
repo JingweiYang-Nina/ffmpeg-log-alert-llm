@@ -1,0 +1,44 @@
+﻿ffmpeg version N-105566-gc456e7e0d3 Copyright (c) 2000-2022 The FFmpeg developers
+  built with gcc 11.2.0 (Rev4, Built by MSYS2)
+  configuration: --enable-gpl --enable-version3 --disable-w32threads --enable-fontconfig --enable-gnutls --enable-iconv --enable-libass --enable-libbluray --enable-libfreetype --enable-libmp3lame --enable-libopus --enable-libressl --enable-libsnappy --enable-libx264 --enable-libx265 --enable-libvpx --enable-libwebp --enable-libxml2 --enable-lzma --enable-zlib --enable-libfribidi --enable-opencl --enable-cuda-llvm --enable-cuvid --enable-d3d11va --enable-nvenc --enable-nvdec --enable-dxva2 --enable-amf --enable-ffnvcodec --enable-libmfx --enable-avisynth --enable-libaom --enable-libdav1d --extra-cflags=-DLIBTWOLAME_STATIC --extra-libs=-lstdc++ --extra-cflags=-DLIBXXHASH_STATIC --extra-libs=-lstdc++ --enable-libglslang --enable-opengl
+  libavutil      57. 20.100 / 57. 20.100
+  libavcodec     59. 24.100 / 59. 24.100
+  libavformat    59. 19.100 / 59. 19.100
+  libavdevice    59.  4.100 / 59.  4.100
+  libavfilter     8. 31.100 /  8. 31.100
+  libswscale      6.  5.100 /  6.  5.100
+  libswresample   4.  4.100 /  4.  4.100
+  libpostproc    56.  3.100 / 56.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.20.100
+  Duration: 00:00:10.00, start: 0.000000, bitrate: 2000 kb/s
+  Stream #0:0(eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709/bt709/iec61966-2-1), 1920x1080 [SAR 1:1 DAR 16:9], 1990 kb/s, 25 fps, 25 tbr, 12800 tbn, 50 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+  Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help
+Output #0, mp4, to 'output.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf59.19.100
+  Stream #0:0(eng): Video: h264 (avc1 / 0x31637661), yuv420p(tv, bt709/bt709/iec61966-2-1), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 25 fps, 25 tbr, 12800 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+  Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+frame=  250 fps= 25 q=-1.0 Lsize=   2457kB time=00:00:09.96 bitrate=2028.9kbits/s speed=0.999x    
+video:2300kB audio:150kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.306059%
+PSNR Mean: Y:42.56 U:45.12 V:44.89 Average:43.32 dB
+Conversion finished successfully.

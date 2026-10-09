@@ -1,0 +1,9 @@
+﻿ffmpeg started...
+Input #0, avi, from 'source.avi':
+  Duration: 00:00:20.00, start: 0.000000, bitrate: 1200 kb/s
+  Stream #0:0: Video: mpeg4 (Simple Profile) (FMP4 / 0x41345046), yuv420p, 1280x720 [SAR 1:1 DAR 16:9], 1100 kb/s, 30 fps
+Output #0, mp4, to 'destination.mp4':
+  Stream #0:0: Video: h264 (H264 / 0x34363248), yuv420p, 1280x720 [SAR 1:1 DAR 16:9], q=2-31, 1000 kb/s, 30 fps
+frame=  600 fps= 30 q=-1.0 size=    2400kB time=00:00:20.00 bitrate= 983.0kbits/s speed=1.0x    PSNR=45.12
+video:2300kB audio:100kB
+Transcoding finished successfully.

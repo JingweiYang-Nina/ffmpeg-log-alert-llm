@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid data found when processing input.",
+    "resolution_steps": "The input file might be corrupted or have an unsupported format. Try re-encoding the source or using a different input format. Inspect the source file for integrity issues.",
+    "log_file": "ffmpeg_log_02869.log"
+}

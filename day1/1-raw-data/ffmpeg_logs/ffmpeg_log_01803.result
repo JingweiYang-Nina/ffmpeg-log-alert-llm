@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Corrupted or unsupported audio data detected in input stream (SBR not implemented or reserved channel element type).",
+    "resolution_steps": "The input audio stream might be corrupted or encoded with an unsupported AAC profile. Update your FFmpeg to the latest version. Try re-encoding the source audio if possible.",
+    "log_file": "ffmpeg_log_01803.log"
+}

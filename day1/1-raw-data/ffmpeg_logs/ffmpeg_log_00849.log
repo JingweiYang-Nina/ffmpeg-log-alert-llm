@@ -1,0 +1,4 @@
+﻿ffmpeg -i input.mkv -c:v h265 -c:a aac output.mp4
+ffmpeg version 4.4.2-0ubuntu0.22.04.1
+[h265 @ 0x557fb40a0000] Failed to open 'input.mkv'.
+Error while decoding stream #0:0: Operation not permitted

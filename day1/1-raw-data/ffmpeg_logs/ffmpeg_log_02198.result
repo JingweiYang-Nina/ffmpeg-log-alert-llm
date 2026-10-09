@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Stream specifier '0:v:1' does not match any streams.",
+    "resolution_steps": "Verify the input video stream indexes. Use `ffprobe` to list available streams and their indexes (e.g., `0:v:0` for the first video stream).",
+    "log_file": "ffmpeg_log_02198.log"
+}

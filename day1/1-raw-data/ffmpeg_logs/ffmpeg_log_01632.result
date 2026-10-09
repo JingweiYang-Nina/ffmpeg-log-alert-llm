@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Permission denied when writing to output file '/opt/output/encoded.mp4'.",
+    "resolution_steps": "Check the write permissions of the `/opt/output/` directory for the user running FFmpeg. Ensure the directory exists and FFmpeg has the necessary permissions to create files there.",
+    "log_file": "ffmpeg_log_01632.log"
+}

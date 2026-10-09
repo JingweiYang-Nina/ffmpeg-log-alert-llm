@@ -1,0 +1,5 @@
+﻿ffmpeg started. Processing video.mp4.
+frame= 1234 fps= 60 q=2.0 Lq=3.0 size= 12345kB time=00:01:23.45 bitrate=1234.5kbits/s speed=1.23x
+[Parsed_psnr_0 @ 0x5678efab] PSNR y:44.85 u:45.85 v:47.85 average:44.85
+Transcoding complete. Average speed: 1.45x
+Output file 'result.mp4' successfully created.

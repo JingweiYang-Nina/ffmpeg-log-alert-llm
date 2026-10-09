@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+Value 'abc' for option 's' is not a valid size. Must be in the form WxH or a valid size abbreviation.
+Error parsing options for output file #0.
+Error opening output files: Invalid argument
+Conversion failed!

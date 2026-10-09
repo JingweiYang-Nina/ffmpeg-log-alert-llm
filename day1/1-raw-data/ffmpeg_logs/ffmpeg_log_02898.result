@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown encoder 'libx265'.",
+    "resolution_steps": "Ensure 'libx265' is installed and FFmpeg is compiled with its support. For Linux, try 'sudo apt install libx265-dev' or similar for your distribution.",
+    "log_file": "ffmpeg_log_02898.log"
+}

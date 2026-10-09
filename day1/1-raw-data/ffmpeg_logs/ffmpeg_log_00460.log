@@ -1,0 +1,3 @@
+﻿ffmpeg version N-105009-g23588e00e0-20231023 Copyright (c) 2000-2023 the FFmpeg developers
+av_interleaved_write_frame(): Error while feeding data to encoder
+Conversion failed!

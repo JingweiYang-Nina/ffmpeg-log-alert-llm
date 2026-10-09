@@ -1,0 +1,3 @@
+﻿ffmpeg -i input.mp4 -c:v hevc_nvenc output.mp4
+[hevc_nvenc @ 0x...] Failed to initialize NVENC: out of memory
+Error initializing output stream 0:0 -- Error while opening encoder for output stream #0:0 - maybe incorrect parameters such as bitrate, rate, width or height

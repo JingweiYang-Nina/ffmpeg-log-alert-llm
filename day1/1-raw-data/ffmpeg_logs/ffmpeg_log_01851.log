@@ -1,0 +1,3 @@
+﻿frame=  100 fps= 24 q=28.0 Lsize=   1000kB time=00:00:05.00 bitrate=1600.0kbits/s speed=   1x
+[libx264 @ 0x987654321def] PSNR Mean Y:42.50 U:45.00 V:44.80 Avg:43.90 Global:43.90
+Transcoding finished.

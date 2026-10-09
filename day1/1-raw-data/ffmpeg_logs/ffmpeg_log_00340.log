@@ -1,0 +1,3 @@
+﻿ffmpeg -hwaccel cuda -i input.mp4 -c:v h264_nvenc output.mp4
+[h264_nvenc @ 0x...] Driver does not support the required NVENC API version. Required: 11.0 Found: 10.0
+Error initializing output stream 0:0 -- Error while opening encoder for output stream #0:0 - maybe incorrect parameters such as codec tags (0x0000) or resolution, or fivecc.

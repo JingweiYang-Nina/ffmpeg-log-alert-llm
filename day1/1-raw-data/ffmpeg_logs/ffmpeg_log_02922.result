@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Opus bitrate 192k is out of supported range.",
+    "resolution_steps": "The specified Opus bitrate (192k) might be incorrect for the version of libopus or a specific profile. Check the valid range for Opus (typically 6kbps to 510kbps) and adjust the `-b:a` parameter within this range. Ensure you're not using '-ar' (audio sample rate) with '-b:a' in a conflicting way.",
+    "log_file": "ffmpeg_log_02922.log"
+}

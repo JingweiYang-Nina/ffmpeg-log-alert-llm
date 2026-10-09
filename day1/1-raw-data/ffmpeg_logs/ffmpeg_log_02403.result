@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "H.264 video decoder not found or unsupported for this container.",
+    "resolution_steps": "Ensure your FFmpeg build supports H.264 decoding. If the input file is unusual, try inspecting its full format details or converting it to a more common container first.",
+    "log_file": "ffmpeg_log_02403.log"
+}

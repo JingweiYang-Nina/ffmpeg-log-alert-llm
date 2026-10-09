@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Error while feeding data to encoder.",
+    "resolution_steps": "This is a generic encoding error. Check input file integrity, codec parameters, and available system resources.",
+    "log_file": "ffmpeg_log_00460.log"
+}

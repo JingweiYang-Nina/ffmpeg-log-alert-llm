@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'input.mp4':
+Output #0, mp4, to 'output.mp4':
+[AVFilterGraph @ 0x563e414c4c40] Stream specifier 'v:1' does not match any streams.
+Error initializing complex filters.
+Conversion failed!

@@ -1,0 +1,4 @@
+﻿ffmpeg -i input.xyz output.mp4
+[format @ 0x7fa28c000000] Unrecognized input format: 'xyz'
+Could not open input 'input.xyz': Invalid argument
+Exiting due to error.

@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.ts converted.mkv
+Failed to allocate memory for stream 0:0
+Error allocating memory. Out of memory?
+
+ffmpeg exited with code 1.

@@ -1,0 +1,4 @@
+﻿Non-monotonous DTS in output stream 0:0; previous: 120, current: 119; changing to 120. This may result in incorrect timestamps in the output file.
+frame=  120 fps= 10 q=-1.0 Lsize=    6500kB time=00:00:05.00 bitrate=10400.0kbits/s speed=0.5x
+video:6480kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.307690%
+[libx264 @ 0x555c4d00] PSNR Y:32.10 U:35.40 V:36.70 Avg:33.95 Global:34.00

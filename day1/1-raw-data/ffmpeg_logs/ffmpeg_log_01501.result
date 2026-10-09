@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Filtergraph configuration error, likely due to a missing or improperly labeled input stream for a filter.",
+    "resolution_steps": "Review the filtergraph syntax. Ensure all inputs to filters are correctly specified and labeled, and that stream indices are accurate (e.g., using '[v]' or '[a]' or specific stream numbers).",
+    "log_file": "ffmpeg_log_01501.log"
+}

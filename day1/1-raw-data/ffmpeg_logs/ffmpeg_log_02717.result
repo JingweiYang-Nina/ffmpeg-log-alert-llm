@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Required library for encoder (e.g., libx264) could not be loaded or is missing.",
+    "resolution_steps": "1. Ensure FFmpeg is compiled with the desired library enabled (e.g., '--enable-libx264'). 2. Check system environment variables for library paths. 3. Reinstall or update FFmpeg to a version with the necessary libraries.",
+    "log_file": "ffmpeg_log_02717.log"
+}

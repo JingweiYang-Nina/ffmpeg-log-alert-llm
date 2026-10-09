@@ -1,0 +1,3 @@
+﻿ffmpeg -i input.mp4 -b:v high output.mp4
+[AVOption] No such option: 'high'.
+Invalid argument 'high' for option 'b:v'

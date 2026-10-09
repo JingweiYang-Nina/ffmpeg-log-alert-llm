@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mp4 -ss 00:01:00 -t 00:00:30 -acodec copy -vcodec copy trimmed.mp4
+frame= 1500 fps=100 q=-1.0 size= 3000kB time=00:01:30.00 bitrate=400.0kbits/s speed=5.0x 
+PSNR-HVS-M avg:45.02
+video:3000kB audio:500kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.080%
+Exiting normally, finished.

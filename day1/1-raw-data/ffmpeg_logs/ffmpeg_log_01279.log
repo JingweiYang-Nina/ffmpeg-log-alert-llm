@@ -1,0 +1,5 @@
+﻿ffmpeg version N-105009-g1e0e8e606b Copyright (c) 2000-2022 the FFmpeg developers
+  built with gcc 11.2.0 (Rev4, Built by MSYS2)
+Error writing file 'output_disk_full.mp4': No space left on device
+av_interleaved_write_frame(): No space left on device
+Error while transcoding.

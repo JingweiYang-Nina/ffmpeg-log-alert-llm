@@ -1,0 +1,3 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 Fabrice Bellard et al.
+Protocol 'rtmp' not on whitelist 'file,crypto,data'!
+Could not open 'rtmp://server/live/stream': Protocol not found

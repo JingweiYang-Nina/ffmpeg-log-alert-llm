@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Error initializing 'setpts' filter with invalid arguments.",
+    "resolution_steps": "The 'setpts' filter requires a valid time expression (e.g., `PTS/2`, `N`). Check the FFmpeg documentation for the correct syntax for the 'setpts' filter and correct your command.",
+    "log_file": "ffmpeg_log_02416.log"
+}

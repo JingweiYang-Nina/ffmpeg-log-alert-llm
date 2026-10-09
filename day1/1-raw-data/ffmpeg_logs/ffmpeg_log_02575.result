@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid video resolution (not divisible by 2)",
+    "resolution_steps": "Adjust the video resolution to be an even number for both width and height. Use '-vf scale=w:h' to set a valid resolution.",
+    "log_file": "ffmpeg_log_02575.log"
+}

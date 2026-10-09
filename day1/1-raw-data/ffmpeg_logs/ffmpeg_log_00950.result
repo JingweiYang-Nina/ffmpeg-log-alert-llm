@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Muxer does not support non-keyframes before first keyframe.",
+    "resolution_steps": "This is usually an issue with specific encoders or settings. Try adjusting keyframe interval (GOP size) or using '-flags +cgop'.",
+    "log_file": "ffmpeg_log_00950.log"
+}

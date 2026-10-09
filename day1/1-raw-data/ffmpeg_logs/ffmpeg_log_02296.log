@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mp4 -vf 'scale=w=iw:h=ih,format=yuv444p' -c:v libx264 -preset veryslow -crf 18 output_444.mp4
+ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 FFmpeg developers
+[libx264 @ 0x...] x264 does not support yuv444p. Use yuv420p instead.
+Error initializing output stream 0:0 -- Error while opening encoder for stream #0:0 - maybe incorrect parameters such as codec parameters (bitrate, resolution, request for a non-existent codec etc.)
+Conversion failed!

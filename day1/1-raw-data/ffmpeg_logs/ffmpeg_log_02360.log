@@ -1,0 +1,7 @@
+﻿ffmpeg version 4.3.1
+Input #0, mov,mp4: video.mp4
+Output #0, mp4: output.mp4
+frame= 1234 fps= 60 q=28.0 size= 5678kB time=00:01:23.45 bitrate=543.2kbits/s speed=1.5x
+PSNR y:42.15 u:45.30 v:44.90 average:43.78 min:30.00 max:50.00
+video:5400kB audio:200kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.23%
+Conversion finished successfully.

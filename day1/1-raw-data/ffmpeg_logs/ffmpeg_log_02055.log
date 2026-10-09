@@ -1,0 +1,13 @@
+﻿ffmpeg version 4.3.1-4ubuntu0.20.04.1 Copyright (c) 2000-2020 Fabrice Bellard et al.
+  built with gcc 9 (Ubuntu 9.3.0-10ubuntu2)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input_video_25.mp4':
+  Duration: 00:00:10.00, start: 0.000000, bitrate: 2000 kb/s
+    Stream #0:0(eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 1950 kb/s, 25 fps
+Output #0, mp4, to 'output_video_25.mp4':
+  Metadata:
+    encoder         : Lavf58.29.100
+    Stream #0:0(eng): Video: h264 (libx264) (avc1 / 0x31637661), yuv420p, 1280x720 [SAR 1:1 DAR 16:9], q=-1.0, 2000 kb/s, 25 fps
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+[error] Input file 'nonexistent_video.mp4' not found: No such file or directory
+Error: Input file not found. Exiting.

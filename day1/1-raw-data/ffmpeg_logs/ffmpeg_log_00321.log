@@ -1,0 +1,5 @@
+﻿ffmpeg -i dvr_rec.mpg -vf 'yadif,scale=hd720' output_720p.mp4
+... (log lines) ...
+frame= 900 fps= 30 q=-1.0 Lsize=   45000kB time=00:00:30.00 bitrate=12000.0kbits/s speed=1.0x
+video:44000kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.2%
+PSNR y:41.05 u:44.10 v:43.90 average:43.02 min:31.00 max:47.00

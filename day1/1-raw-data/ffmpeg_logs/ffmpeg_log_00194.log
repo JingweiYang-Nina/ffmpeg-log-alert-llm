@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105151-g22bb76f8c7-tessarade-master-test Copyright (c) 2000-2023 the FFmpeg developers
+...
+[AVF] Could not find header file for codec 'h264_amf'.
+Error: Error initializing output stream 0:0 -- Could not open codec 'h264_amf': Generic error in an external library

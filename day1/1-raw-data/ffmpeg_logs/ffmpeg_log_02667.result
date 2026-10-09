@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Video dimensions are not divisible by 2 for the chosen pixel format.",
+    "resolution_steps": "Ensure video width and height are even numbers when using pixel formats like yuv420p. Use the 'scale' filter with an 'in_w/2*2:in_h/2*2' expression or a different pixel format.",
+    "log_file": "ffmpeg_log_02667.log"
+}

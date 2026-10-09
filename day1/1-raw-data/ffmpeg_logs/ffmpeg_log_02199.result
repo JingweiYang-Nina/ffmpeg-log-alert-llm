@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Cannot allocate memory for transcoding operation.",
+    "resolution_steps": "Reduce the complexity of the FFmpeg command, transcode smaller segments, or free up system memory. Consider reducing resolution or bitrate.",
+    "log_file": "ffmpeg_log_02199.log"
+}

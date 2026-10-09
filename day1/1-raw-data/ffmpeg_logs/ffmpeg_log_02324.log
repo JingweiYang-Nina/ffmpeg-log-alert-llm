@@ -1,0 +1,6 @@
+﻿ffmpeg -i input.mp4 -vf 'scale=1280:-1,format=yuv420p' -c:v h264_vaapi -b:v 3M -profile:v high output_vaapi.mp4
+ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 FFmpeg developers
+[AVHWDeviceContext @ 0x...] Failed to create VAAPI device: -1 (unknown libva error)
+[h264_vaapi @ 0x...] Failed to create a VAAPI device
+Error initializing output stream 0:0 -- Error while opening encoder for stream #0:0 - maybe incorrect parameters such as codec parameters (bitrate, resolution, request for a non-existent codec etc.)
+Conversion failed!

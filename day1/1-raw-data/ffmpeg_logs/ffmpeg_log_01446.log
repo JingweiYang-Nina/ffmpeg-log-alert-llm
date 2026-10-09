@@ -1,0 +1,6 @@
+﻿ffmpeg version N-105156-g817c376c9b Copyright (c) 2000-2022 the FFmpeg developers
+  built with gcc 11.2.0 (Rev4, Built by MSYS2 project)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input.mp4':
+  Duration: 00:00:05.00, start: 0.000000, bitrate: 1500 kb/s
+    Stream #0:0: Video: h264, 1280x720, 25 fps
+Could not open 'file.txt' for writing.

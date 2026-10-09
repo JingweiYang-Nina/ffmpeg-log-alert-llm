@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "FFmpeg process terminated unexpectedly (e.g., crash, out of memory, external kill).",
+    "resolution_steps": "1. Check system resources (RAM, CPU) during transcoding. 2. Review system logs for crash details. 3. Try simplifying the command or using a less resource-intensive codec. 4. Ensure FFmpeg is up-to-date.",
+    "log_file": "ffmpeg_log_02700.log"
+}

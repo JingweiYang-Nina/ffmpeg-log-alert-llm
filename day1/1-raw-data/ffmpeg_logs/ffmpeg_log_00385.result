@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Permission denied when trying to write to '/mnt/restricted_drive/output_1.mp4'.",
+    "resolution_steps": "Check the write permissions for the directory '/mnt/restricted_drive/output_1.mp4' and the user running FFmpeg. Grant appropriate write permissions or choose a different output directory where the user has write access.",
+    "log_file": "ffmpeg_log_00385.log"
+}

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Audio encoder produced too many bits per rawframe, muxer may fail. Output file does not contain any stream.",
+    "resolution_steps": "Reduce the audio bitrate or adjust AAC encoder settings. Ensure all streams are correctly mapped to the output. This might be a partial success or a delayed failure after PSNR calculation.",
+    "log_file": "ffmpeg_log_02735.log"
+}

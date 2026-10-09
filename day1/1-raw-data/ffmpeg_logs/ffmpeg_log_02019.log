@@ -1,0 +1,4 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+Automatic encoder selection failed for stream #0:0: video to video mapping
+Please use -c:v <encoder>
+Conversion failed!

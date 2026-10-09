@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Video width or height not divisible by 2 (1919x1080), which is required by the encoder.",
+    "resolution_steps": "Adjust the video dimensions to be divisible by 2. Use a video filter like `scale=iw-mod(iw,2):ih-mod(ih,2)` or `scale=1920:1080` to correct the resolution.",
+    "log_file": "ffmpeg_log_00234.log"
+}

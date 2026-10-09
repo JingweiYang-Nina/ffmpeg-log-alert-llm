@@ -1,0 +1,5 @@
+﻿ffmpeg -i video.mp4 converted.mkv
+Permission denied
+Could not open 'converted.mkv': Permission denied
+
+ffmpeg exited with code 1.

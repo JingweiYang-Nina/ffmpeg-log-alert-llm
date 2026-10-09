@@ -1,0 +1,5 @@
+﻿Here's an FFmpeg log snippet:
+
+[aac @ 0x...] Too many bits in a frame!
+Error encoding audio frame
+Conversion failed!

@@ -1,0 +1,3 @@
+﻿ffmpeg version N-105156-gd53f47e0a2-g10d650b2 Copyright (c) 2000-2022 The FFmpeg developers
+[matroska,webm @ 0x5571618a8080] Could not find stream with codec id 106.
+Failed to open stream: Invalid argument

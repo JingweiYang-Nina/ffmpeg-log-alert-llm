@@ -1,0 +1,4 @@
+﻿ffmpeg version 4.4.1 Copyright (c) 2000-2021 Fabrice Bellard et al.
+[AVFilterGraph @ 0x55d7f1d41180] Cannot create filter 'crop' of type video_crop
+Error initializing filter 'crop' with args '1280:720:0:0'
+Error configuring filters.

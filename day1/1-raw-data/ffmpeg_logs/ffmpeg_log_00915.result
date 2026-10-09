@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Pixel format 'yuv422p' is not supported by encoder 'libx264'.",
+    "resolution_steps": "Choose a supported pixel format (e.g., yuv420p) or use an encoder that supports the specified format.",
+    "log_file": "ffmpeg_log_00915.log"
+}

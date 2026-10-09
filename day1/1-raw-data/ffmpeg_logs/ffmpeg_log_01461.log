@@ -1,0 +1,4 @@
+﻿ffmpeg -i input.mp4 -ss 999999 -t 10 output.mp4
+[mp4 @ 0x7fae44000000] Could not find stream information
+input.mp4: Invalid argument
+Exiting due to error.

@@ -1,0 +1,8 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'input_video.mp4':
+... (input stream details)
+Output #0, mp4, to 'output_video.mp4':
+... (output stream details)
+frame=  899 fps= 31 q=28.0 size=   73000kB time=00:00:29.99 bitrate=19470.0kbits/s speed=1.03x
+PSNR y:44.98 u:45.87 v:46.33 average:45.72 min:43.90 max:47.05
+Transcoding successful.

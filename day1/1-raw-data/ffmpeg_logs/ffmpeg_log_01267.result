@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Corrupt audio stream: Header missing.",
+    "resolution_steps": "The audio stream in the input file is corrupted. Try re-encoding the audio or using a different audio source. Inspect the input file for integrity.",
+    "log_file": "ffmpeg_log_01267.log"
+}

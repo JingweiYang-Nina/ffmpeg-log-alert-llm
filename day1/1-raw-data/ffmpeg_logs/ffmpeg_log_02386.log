@@ -1,0 +1,4 @@
+﻿ffmpeg started
+frame= 3000 fps= 120 q=18.0 size= 12000kB time=00:03:00.00 bitrate=1000.0kbits/s speed=1.9x
+PSNR average:47.90
+Successfully transcoded.

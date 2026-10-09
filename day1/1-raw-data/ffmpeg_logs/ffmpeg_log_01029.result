@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown or misspelled video filter used.",
+    "resolution_steps": "Correct the filter name in your FFmpeg command (e.g., `unsharp` instead of `unsharpen_bad`). Consult FFmpeg documentation for correct filter names.",
+    "log_file": "ffmpeg_log_01029.log"
+}

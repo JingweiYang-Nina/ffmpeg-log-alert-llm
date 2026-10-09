@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Permission denied when attempting to read input file.",
+    "resolution_steps": "Check file permissions for the input path. Ensure FFmpeg has necessary read access.",
+    "log_file": "ffmpeg_log_00169.log"
+}

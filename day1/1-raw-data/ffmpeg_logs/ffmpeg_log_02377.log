@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.3.1
+[swscaler @ 0x55e0c5a1a1c0] deprecated pixel format used, make sure you did set range correctly
+[libx264 @ 0x55e0c5a1a1c0] width or height not divisible by 2
+Error while opening encoder for output stream #0:0 - maybe incorrect parameters such as codec parameters (bitrate, rate, width, height ...)
+Conversion failed!

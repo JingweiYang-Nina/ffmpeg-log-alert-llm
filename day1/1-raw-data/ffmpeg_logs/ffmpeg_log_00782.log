@@ -1,0 +1,8 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 FFmpeg developers
+  configuration: --enable-gpl --enable-libx264 --enable-libx265
+Input #0, mov,mp4, from 'input_15.mp4':
+  Duration: 00:00:10.00, bitrate: 2000 kb/s
+    Stream #0:0: Video: h264 (High), 1920x1080, 30 fps
+
+Unknown encoder 'libx267'.
+Error initializing output stream 0:0 -- Error while opening encoder for input stream #0:0

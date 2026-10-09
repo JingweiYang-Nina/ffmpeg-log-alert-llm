@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105151-g741697e884-tessarade-git Copyright (c) 2000-2022 the FFmpeg developers
+[aac @ 0x559e2230a100] Too many bits in a frame (20480 > 12288)
+Error while encoding audio: Invalid argument
+Audio encoding failed.

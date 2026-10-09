@@ -1,0 +1,7 @@
+﻿ffmpeg version N-random-g17b2b005121 shared. Build: gcc-latest.
+configuration: --enable-gpl --enable-libx264 --enable-libx265
+libavutil      56. 46.100 / 56. 46.100
+libavcodec     58. 92.100 / 58. 92.100
+libavformat    58. 46.100 / 58. 46.100
+Error while decoding stream #0:0: Out of memory
+Cannot allocate memory

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Hardware acceleration failed (e.g., NVDEC/DXVA2 issue).",
+    "resolution_steps": "Ensure your graphics drivers are up to date and that your hardware supports the requested acceleration method (e.g., DXVA2, NVENC, VAAPI). Verify FFmpeg is compiled with hardware acceleration support.",
+    "log_file": "ffmpeg_log_00795.log"
+}

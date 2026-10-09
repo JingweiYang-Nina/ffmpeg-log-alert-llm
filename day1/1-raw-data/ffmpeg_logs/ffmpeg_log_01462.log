@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mp4 -y output.mp4
+frame= 1234 fps= 50 q=28.0 size= 2500kB time=00:01:00.00 bitrate=333.3kbits/s speed=2.5x 
+PSNR-HVS-M avg:42.10
+video:2500kB audio:500kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.150%
+Exiting normally, finished.

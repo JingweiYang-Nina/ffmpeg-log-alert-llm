@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input file is corrupted or has decoding errors (missing reference pictures, non-monotonic DTS).",
+    "resolution_steps": "The input video file is severely corrupted. Try to repair the video file or obtain a clean source. Using `-ignore_unknown` or `-err_detect +crccheck` might help for minor issues, but severe corruption might require a new source.",
+    "log_file": "ffmpeg_log_01037.log"
+}

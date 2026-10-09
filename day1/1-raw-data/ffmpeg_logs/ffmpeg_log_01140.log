@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105151-g7118182741-tessarade-git Copyright (c) 2000-2023 the FFmpeg developers
+... (log truncated)
+[mp4 @ 0x55f9a656e180] Non-monotonic DTS in output stream 0:0; previous: 123456, current: 123455; changing to 123457. This may result in incorrect timestamps in the output file.
+Conversion finished successfully.

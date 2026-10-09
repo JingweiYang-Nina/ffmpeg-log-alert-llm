@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input file 'image.jpg' has an unknown format or is not a video file.",
+    "resolution_steps": "Ensure the input file is a recognized video or audio format. FFmpeg can process images but specific commands are needed to treat them as video streams.",
+    "log_file": "ffmpeg_log_02208.log"
+}

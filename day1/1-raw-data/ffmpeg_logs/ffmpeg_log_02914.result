@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Codec 'yuv400p' not supported in MP4 container.",
+    "resolution_steps": "The MP4 container does not support the 'yuv400p' pixel format. Change the pixel format to a compatible one, such as 'yuv420p', using `-pix_fmt yuv420p` in your FFmpeg command.",
+    "log_file": "ffmpeg_log_02914.log"
+}

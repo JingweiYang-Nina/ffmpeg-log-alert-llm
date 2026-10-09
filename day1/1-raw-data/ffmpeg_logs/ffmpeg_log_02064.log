@@ -1,0 +1,8 @@
+﻿ffmpeg -i corrupt.mp4 output.mp4
+ffmpeg version N-98319-g561a37c37e Copyright (c) 2000-2023 the FFmpeg developers
+  libavutil      58. 17.100 / 58. 17.100
+  libavcodec     60. 25.100 / 60. 25.100
+  libavformat    60. 10.100 / 60. 10.100
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55a9b7074ac0] moov atom not found
+corrupt.mp4: Invalid data found when processing input
+Conversion failed!

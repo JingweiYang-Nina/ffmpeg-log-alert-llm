@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Failed to open file 'C:\\Program Files\\ffmpeg\\out.avi': Permission denied",
+    "resolution_steps": "FFmpeg lacks write permissions to the output directory or file. Ensure FFmpeg has necessary permissions, try a different output location, or run with elevated privileges.",
+    "log_file": "ffmpeg_log_00685.log"
+}

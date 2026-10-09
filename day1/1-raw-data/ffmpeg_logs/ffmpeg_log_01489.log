@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105151-g741697e884-tessarade-git Copyright (c) 2000-2022 the FFmpeg developers
+[AVFormatContext @ 0x55555562d540] Could not find stream with codec id 27.
+Error while decoding stream #0:0: Invalid data found when processing input
+frame=  120 fps= 12 q=2.0 size=    1234kB time=00:00:05.00 bitrate=1974.4kbits/s speed=0.485x    

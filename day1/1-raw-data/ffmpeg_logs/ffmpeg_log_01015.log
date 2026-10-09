@@ -1,0 +1,6 @@
+﻿Here's an FFmpeg log snippet:
+
+[mp4 @ 0x...] Application provided invalid, non monotonically increasing dts to muxer in stream 0: -4 >= -4
+Error muxing packet
+av_interleaved_write_frame(): Invalid argument
+Error while processing data for stream #0:0

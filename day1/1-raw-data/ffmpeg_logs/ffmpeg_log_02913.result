@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Error while writing output file header.",
+    "resolution_steps": "This often indicates a problem with the output container format or its parameters. Ensure the chosen output format (e.g., .mp4, .mkv) is compatible with the codecs used. Try specifying a different output container or simplifying parameters.",
+    "log_file": "ffmpeg_log_02913.log"
+}

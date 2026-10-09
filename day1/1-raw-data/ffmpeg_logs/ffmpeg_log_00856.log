@@ -1,0 +1,6 @@
+﻿ffmpeg -i bad_stream.ts -c:v libx264 output.mp4
+ffmpeg version 4.4.2-0ubuntu0.22.04.1
+[h264 @ 0x557fb40a0000] error while decoding MB 4 4, bytestream -4
+Error while decoding stream #0:0: Invalid data found when processing input
+frame=  120 fps= 10 q=28.0 size=    2400kB time=00:00:04.00 bitrate=4800.0kbits/s speed=0.3x    
+Conversion failed!

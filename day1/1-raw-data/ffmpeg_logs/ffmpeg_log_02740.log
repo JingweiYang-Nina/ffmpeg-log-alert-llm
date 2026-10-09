@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'input.mp4':
+Output #0, mp4, to 'output.mp4':
+[NULL @ 0x7f038c0000] Unable to find a suitable output format for 'http://example.com/stream.mp4'
+http://example.com/stream.mp4: Invalid argument
+Conversion failed!

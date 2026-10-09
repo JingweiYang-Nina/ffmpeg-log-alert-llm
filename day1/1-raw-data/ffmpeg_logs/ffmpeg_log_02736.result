@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid pixel format specified for encoder.",
+    "resolution_steps": "Ensure the specified pixel format (yuv420p) is supported by the encoder and context. If using hardware acceleration, check its specific pixel format requirements.",
+    "log_file": "ffmpeg_log_02736.log"
+}

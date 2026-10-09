@@ -1,0 +1,7 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 The FFmpeg developers
+Input #0, mp3, from 'audio.mp3':
+  Duration: 00:02:00.00, start: 0.000000, bitrate: 192 kb/s
+Output #0, aac, to 'audio.aac':
+  Stream #0:0: Audio: aac (libfdk_aac), 48000 Hz, stereo, fltp, 128 kb/s
+size=    1920kB time=00:02:00.00 bitrate=128.0kbits/s speed=1.0x
+PSNR=48.23 dB (Audio PSNR is conceptual, often represents quality based on different metrics, here used as a generic quality indicator for audio transcoding)

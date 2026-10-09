@@ -1,0 +1,6 @@
+﻿ffmpeg version N-105151-g741697e884-tessarade-git Copyright (c) 2000-2022 the FFmpeg developers
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/path/to/input.mp4':
+  Duration: 00:00:06.00, start: 0.000000, bitrate: 1000 kb/s
+Output #0, mp4, to '/path/to/output.mp4':
+frame=  150 fps= 25 q=-1.0 Lsize=     600kB time=00:00:06.00 bitrate=800.0kbits/s speed=1.00x    
+video:540kB audio:60kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.00%

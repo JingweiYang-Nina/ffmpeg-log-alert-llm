@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Hardware encoder error (e.g., QSV).",
+    "resolution_steps": "Check hardware encoder drivers and availability. Try a software encoder (e.g., libx264) or restart the system.",
+    "log_file": "ffmpeg_log_01188.log"
+}

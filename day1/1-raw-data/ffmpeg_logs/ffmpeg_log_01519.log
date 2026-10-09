@@ -1,0 +1,7 @@
+﻿ffmpeg version N-105151-g25e9d9e6f8 Copyright (c) 2000-2024 the FFmpeg developers
+Input #0, avi, from 'old_clip.avi':
+  Duration: 00:00:05.00
+Output #0, webm, to 'new_clip.webm':
+  Stream #0:0: Video: vp9 (libvpx-vp9) (VP90 / 0x30395056), yuv420p, 800x600, q=-1--1, 30 fps, 90k tbn
+frame=  150 fps= 30 q=-1.0 Lsize=    5432kB time=00:00:05.00 bitrate=8691.2kbits/s speed=1.0x    
+video:5300kB audio:132kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000%

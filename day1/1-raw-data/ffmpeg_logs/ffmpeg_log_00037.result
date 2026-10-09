@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown or unsupported encoder 'libx267' or codec initialization failed.",
+    "resolution_steps": "Check FFmpeg documentation for supported encoders/codecs. Ensure FFmpeg is compiled with the necessary libraries, or try a different codec/encoder.",
+    "log_file": "ffmpeg_log_00037.log"
+}

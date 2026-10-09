@@ -1,0 +1,4 @@
+﻿ffmpeg -i /path/to/non_existent_file.mov -c:v copy output.mp4
+ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 FFmpeg developers
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55dc5f242500] Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection very possible!
+/path/to/non_existent_file.mov: No such file or directory

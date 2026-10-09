@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Hardware acceleration (QSV) initialization failed, potentially due to driver issues or unsupported hardware.",
+    "resolution_steps": "Check your Intel Media SDK drivers and ensure they are up to date. Verify that your hardware supports QSV. Try disabling hardware acceleration by removing '-hwaccel qsv' or similar options.",
+    "log_file": "ffmpeg_log_01492.log"
+}

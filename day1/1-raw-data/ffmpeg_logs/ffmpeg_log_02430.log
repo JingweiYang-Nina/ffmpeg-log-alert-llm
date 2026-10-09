@@ -1,0 +1,4 @@
+﻿ffmpeg version 4.3.1-2020-11-13-git-6b1c09b7e7 Copyright (c) 2000-2020 the FFmpeg developers
+[AVIOContext @ 0x55ac21013d40] No space left on device
+Could not write header for output file #0 (incorrect codec parameters ?): No space left on device
+Error writing trailer of output_video.mp4: No space left on device

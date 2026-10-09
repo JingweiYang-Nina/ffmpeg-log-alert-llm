@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unsupported video encoder specified.",
+    "resolution_steps": "Ensure FFmpeg is compiled with support for 'libvpx-vp9' or choose a different, supported encoder (e.g., 'libx264').",
+    "log_file": "ffmpeg_log_01013.log"
+}

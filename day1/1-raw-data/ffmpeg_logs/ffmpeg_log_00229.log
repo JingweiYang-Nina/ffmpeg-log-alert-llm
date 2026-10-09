@@ -1,0 +1,5 @@
+﻿ffmpeg version N-105151-g22bb76f8c7-tessarade-master-test Copyright (c) 2000-2023 the FFmpeg developers
+...
+[mp4 @ 0x55c65a0b4000] Failed to write header: No space left on device
+av_interleaved_write_frame(): No space left on device
+Error writing trailer of output_large.mp4: No space left on device

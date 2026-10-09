@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Broken pipe/I/O error during writing.",
+    "resolution_steps": "Check disk health, network issues if writing to shared storage, or insufficient permissions. Rerun the command.",
+    "log_file": "ffmpeg_log_02818.log"
+}

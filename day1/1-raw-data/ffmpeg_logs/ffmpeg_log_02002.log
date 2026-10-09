@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+Input #0, webm, from 'source.webm':
+  Duration: 00:00:08.00
+Output #0, mp4, to 'output.mp4':
+frame=  200 fps= 25 q=-1.0 Lsize=    1600kB time=00:00:08.00 bitrate=1600.0kbits/s speed=1.00x
+PSNR=46.15 dB

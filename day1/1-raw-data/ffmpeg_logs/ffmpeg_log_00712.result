@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "FFmpeg crashed with a segmentation fault",
+    "resolution_steps": "A segmentation fault indicates a crash. This can be due to corrupted input, specific codec/filter combinations, or a bug in FFmpeg. Try updating FFmpeg, using a different input, or simplifying the command.",
+    "log_file": "ffmpeg_log_00712.log"
+}

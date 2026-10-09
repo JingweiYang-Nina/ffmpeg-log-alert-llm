@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown or unsupported input format.",
+    "resolution_steps": "Verify the input file format is supported by FFmpeg. Ensure the file extension is correct or explicitly specify the format with '-f input_format'.",
+    "log_file": "ffmpeg_log_01748.log"
+}

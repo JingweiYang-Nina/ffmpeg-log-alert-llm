@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unsupported pixel format 'yuv444p' for encoder 'libx264'.",
+    "resolution_steps": "Change the pixel format to `yuv420p` or use an encoder that supports `yuv444p`.",
+    "log_file": "ffmpeg_log_00432.log"
+}

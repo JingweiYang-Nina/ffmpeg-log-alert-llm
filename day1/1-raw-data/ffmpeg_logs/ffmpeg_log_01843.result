@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Filter graph input not connected",
+    "resolution_steps": "Correct the filter graph syntax to ensure all input pads are connected to an output stream or another filter's output.",
+    "log_file": "ffmpeg_log_01843.log"
+}

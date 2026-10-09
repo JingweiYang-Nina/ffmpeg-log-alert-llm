@@ -1,0 +1,10 @@
+﻿FFmpeg version 4.4.2-0ubuntu0.22.04.1
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'source_video_18.mp4':
+  Duration: 00:00:30.00, start: 0.000000, bitrate: 2200 kb/s
+Output #0, mp4, to 'output_video_18.mp4':
+  Metadata:
+    encoder         : Lavf58.76.100
+  Stream #0:0(und): Video: h264 (libx264) (avc1 / 0x31637661), yuv420p, 1280x720, q=2-31, 1400 kb/s, 25 fps
+frame=  750 fps= 55 q=28.0 Lsize=    5250kB time=00:00:30.00 bitrate=1400.0kbits/s speed=2.2x    
+video:5100kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead:0.000%
+[Parsed_psnr_0 @ 0x55d7f3521b40] PSNR y:48.50 U:49.70 V:49.00 average:49.07 min:46.00 max:50.50

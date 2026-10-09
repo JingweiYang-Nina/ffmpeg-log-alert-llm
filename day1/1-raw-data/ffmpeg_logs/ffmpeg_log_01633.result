@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid data found when processing input file 'corrupted.mp4'. 'moov' atom not found.",
+    "resolution_steps": "The input file 'corrupted.mp4' appears to be corrupted or incomplete (missing metadata). Try to repair the file, obtain a different copy, or use a tool like `qtfaststart` if it's a truncated MP4.",
+    "log_file": "ffmpeg_log_01633.log"
+}

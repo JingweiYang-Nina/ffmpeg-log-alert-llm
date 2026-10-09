@@ -1,0 +1,2 @@
+﻿ffmpeg -i input.mp4 -vf scale=1081:720 -pix_fmt yuv420p output.mp4
+Width or height not divisible by 2 for yuv420p

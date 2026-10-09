@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Stream mapping error.",
+    "resolution_steps": "Verify input file streams and ensure correct stream mapping in the command (e.g., -map 0:v:0).",
+    "log_file": "ffmpeg_log_02817.log"
+}

@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mp4 -ss 00:00:10 -t 00:00:20 -c:v libx264 -crf 23 output_clip.mp4
+ffmpeg version 4.4.2 Copyright (c) 2000-2021 the FFmpeg developers
+...
+[libx264 @ 0x55d7f191a300] PSNR average: 41.78 dB
+video:2000kB audio:300kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.0%

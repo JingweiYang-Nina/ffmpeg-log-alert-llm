@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid FFmpeg command line parameters.",
+    "resolution_steps": "Review FFmpeg documentation for correct syntax and available options. Ensure '20M' is parsed as 20000000.",
+    "log_file": "ffmpeg_log_02814.log"
+}

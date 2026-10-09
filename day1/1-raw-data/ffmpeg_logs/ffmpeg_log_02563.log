@@ -1,0 +1,6 @@
+﻿ffmpeg version 6.0.1 Copyright (c) 2000-2023 Fabrice Bellard et al.
+  Output #0, mov, to 'output_10.mov':
+    Stream #0:0: Video: prores (apch), yuv422p10le, 1920x1080, 29.97 fps
+  frame=  899 fps= 60 q=-1.0 Lsize=   50000kB time=00:00:30.00 bitrate=13333.3kbits/s speed= 2.0x    
+video:49500kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.01%
+PSNR=47.18 dB

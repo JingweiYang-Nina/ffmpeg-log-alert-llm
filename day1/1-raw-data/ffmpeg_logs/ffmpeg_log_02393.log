@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mkv, from 'source.mkv':
+  Duration: 00:00:25.00, start: 0.000000, bitrate: 4000 kb/s
+Output #0, mp4, to 'destination.mp4':
+frame=  749 fps= 90 q=-1.0 Lsize=   30000kB time=00:00:24.98 bitrate=9600.0kbits/s speed=3.00x
+PSNR Mean: Y:40.21 U:42.55 V:41.89 Avg:41.55 dB

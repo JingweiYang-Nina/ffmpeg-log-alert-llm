@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'input_large.mp4':
+Output #0, mp4, to 'output_large_success.mp4':
+frame= 3000 fps= 28 q=-1.0 Lsize=   25000kB time=00:01:40.00 bitrate=2000.0kbits/s speed=0.93x
+video:24000kB audio:1000kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.100000%
+PSNR=44.99dB

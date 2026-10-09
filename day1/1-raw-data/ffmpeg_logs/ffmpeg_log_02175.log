@@ -1,0 +1,1 @@
+﻿ffmpeg reported 'Error initializing complex filters' during a highly customized transcode of 'input.mp4'. This indicates a problem with the filtergraph setup.

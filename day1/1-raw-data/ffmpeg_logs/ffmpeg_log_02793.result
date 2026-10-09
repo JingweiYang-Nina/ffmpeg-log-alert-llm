@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Could not allocate memory for stream 0. Malloc of size 12345678 failed.",
+    "resolution_steps": "The system ran out of memory. Try reducing the resolution, bitrate, or other memory-intensive settings. Close other applications to free up RAM or increase system memory.",
+    "log_file": "ffmpeg_log_02793.log"
+}

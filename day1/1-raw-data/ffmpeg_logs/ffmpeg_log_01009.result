@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input file not found or accessible.",
+    "resolution_steps": "Verify the input file path, ensure the file exists, and check read permissions.",
+    "log_file": "ffmpeg_log_01009.log"
+}

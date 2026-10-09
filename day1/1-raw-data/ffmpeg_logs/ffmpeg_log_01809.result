@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Output video width (1281) is not divisible by 2, which is required by the encoder (libx264).",
+    "resolution_steps": "Adjust the output resolution to ensure both width and height are even numbers. For example, use 1280x720 instead of 1281x720. Use a 'scale' filter with 'force_original_aspect_ratio' or 'trunc(iw/2)*2:trunc(ih/2)*2' to ensure even dimensions.",
+    "log_file": "ffmpeg_log_01809.log"
+}

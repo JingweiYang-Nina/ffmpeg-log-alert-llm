@@ -1,0 +1,5 @@
+﻿ffmpeg -i webcam.mkv -c:v h264_nvenc -b:v 5M stream.ts
+... (log lines) ...
+frame= 1500 fps= 50 q=-1.0 Lsize=  100000kB time=00:00:30.00 bitrate=26666.6kbits/s speed=1.7x
+video:99000kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.0%
+PSNR y:46.77 u:49.00 v:48.88 average:48.22 min:35.00 max:51.00

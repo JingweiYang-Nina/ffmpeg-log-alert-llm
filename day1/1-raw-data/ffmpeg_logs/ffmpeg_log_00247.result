@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "No input streams matched for processing, potentially missing expected video or audio stream in 'video_no_audio.mp4'.",
+    "resolution_steps": "Verify the input file's content using 'ffprobe' to ensure it contains the expected video/audio streams. Adjust stream mapping ('-map') or input file if necessary.",
+    "log_file": "ffmpeg_log_00247.log"
+}

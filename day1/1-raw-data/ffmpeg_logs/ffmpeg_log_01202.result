@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unrecognized command-line option.",
+    "resolution_steps": "Check FFmpeg command-line syntax and options. Remove or correct the invalid option.",
+    "log_file": "ffmpeg_log_01202.log"
+}

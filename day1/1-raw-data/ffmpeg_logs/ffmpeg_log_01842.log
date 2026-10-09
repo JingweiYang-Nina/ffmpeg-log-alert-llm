@@ -1,0 +1,7 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'input_video.mp4':
+... (input stream details)
+Output #0, mp4, to 'output_video.mp4':
+[libopus @ 0x...] Specified sample_rate is not supported. Supported rates: 8000, 12000, 16000, 24000, 48000
+Error initializing output stream 0:1 -- Error while opening encoder for stream #0:1 - maybe incorrect parameters such as codec parameters (profile, level, etc.)
+Conversion failed!

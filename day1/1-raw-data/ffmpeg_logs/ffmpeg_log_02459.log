@@ -1,0 +1,4 @@
+﻿ffmpeg version 4.3.1-2020-11-13-git-6b1c09b7e7 Copyright (c) 2000-2020 the FFmpeg developers
+[filter @ 0x55ac21013d40] Audio filter 'atempo' needs a non-zero parameter for 'tempo'
+Error initializing complex filters.
+Invalid argument

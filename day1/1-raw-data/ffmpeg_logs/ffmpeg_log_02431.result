@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid video resolution: width not divisible by 2.",
+    "resolution_steps": "Adjust the video width to be an even number. Use a filter like `scale=iw-(iw%2):ih-(ih%2)` or ensure your input/output dimensions are valid.",
+    "log_file": "ffmpeg_log_02431.log"
+}

@@ -1,0 +1,11 @@
+﻿Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input_large.mp4':
+  Duration: 00:02:00.00, start: 0.000000, bitrate: 5000 kb/s
+    Stream #0:0(eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1920x1080 [SAR 1:1 DAR 16:9], 5000 kb/s, 30 fps, 30 tbr, 15360 tbn, 60 tbc (default)
+Output #0, mp4, to 'output_long.mp4':
+  Stream #0:0(eng): Video: h264 (libx264) (avc1 / 0x31637661), yuv420p(progressive), 1280x720 [SAR 1:1 DAR 16:9], q=-1.0, 30 fps, 12288 tbn
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+Press [q] to stop, [?] for help.
+frame= 3600 fps= 28 q=-1.0 Lsize=   210000kB time=00:02:00.00 bitrate=14000.0kbits/s speed=0.9x
+video:209900kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.004762%
+[libx264 @ 0x555c4d00] PSNR Y:40.50 U:43.60 V:44.90 Avg:42.25 Global:42.35

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Output file already exists and overwrite was not confirmed.",
+    "resolution_steps": "Use the '-y' option to automatically overwrite output files, or provide a new, non-existent output filename.",
+    "log_file": "ffmpeg_log_01750.log"
+}

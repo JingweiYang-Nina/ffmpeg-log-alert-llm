@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mp4 -loop 1 -i overlay.png -filter_complex "[0:v][1:v]overlay=0:0" -c:v libx264 output.mp4
+frame= 800 fps= 45 q=28.0 size= 1600kB time=00:00:32.00 bitrate=400.0kbits/s speed=1.8x 
+PSNR-HVS-M avg:34.55
+video:1600kB audio:400kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.100%
+Exiting normally, finished.

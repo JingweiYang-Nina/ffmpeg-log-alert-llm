@@ -1,0 +1,5 @@
+﻿Here's an FFmpeg log snippet:
+
+[h264 @ 0x...] non-existing PPS 0 referenced
+[h264 @ 0x...] decode_slice_header error
+Error while decoding stream #0:0: Invalid data found when processing input

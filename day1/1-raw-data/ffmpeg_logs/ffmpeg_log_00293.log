@@ -1,0 +1,2 @@
+﻿[AVFormatContext] Could not open 'non_existent_input.mp4': No such file or directory
+av_err_no_such_file_or_directory

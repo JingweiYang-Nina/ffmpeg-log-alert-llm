@@ -1,0 +1,2 @@
+﻿ffmpeg -i input.mp4 output.mp4
+File 'output.mp4' already exists. Use -y to overwrite.

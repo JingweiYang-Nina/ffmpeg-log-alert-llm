@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 The FFmpeg developers
+  built with gcc 10.3.0 (Ubuntu 10.3.0-1ubuntu1~21.04)
+[libx265 @ 0x55d7f1a3a4c0] Invalid encoder.
+Error initializing output stream 0:0 -- Error while opening encoder for output stream #0:0 - maybe incorrect parameters such as codec tags, sample rate, etc.
+Conversion failed!
+Unsupported codec with id 1234 for input stream 0

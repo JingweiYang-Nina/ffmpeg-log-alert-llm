@@ -1,0 +1,3 @@
+﻿ffmpeg -i rtmp://live.example.com/app/stream output.mp4
+[rtmp @ 0x12345678] RTMP_Connect0, failed to connect socket.
+rtmp://live.example.com/app/stream: Input/output error

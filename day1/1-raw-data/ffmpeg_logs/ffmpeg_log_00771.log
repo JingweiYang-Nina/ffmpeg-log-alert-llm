@@ -1,0 +1,9 @@
+﻿ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 the FFmpeg developers
+... (input and output file details) ...
+Output #0, mp4, to 'rotated.mp4':
+  Metadata:
+    encoder         : Lavf58.76.100
+  Stream #0:0: Video: h264 (libx264), yuv420p, 720x1280, 25 fps
+  Stream #0:1: Audio: aac, 48000 Hz, stereo
+frame= 250 fps= 25 q=27.0 size=   400kB time=00:00:10.00 bitrate=320.0kbits/s speed=1.0x
+[Parsed_psnr_0 @ 0x55e9c0b115c0] PSNR y:45.00 u:46.00 v:47.00 average:46.00 min:40.00 max:51.00

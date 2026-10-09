@@ -1,0 +1,2 @@
+﻿ffmpeg -i audio.mp3 -map 0:v:0 output.mp4
+Stream specifier 'v:0' in filtergraph 'v:0' matches no streams.

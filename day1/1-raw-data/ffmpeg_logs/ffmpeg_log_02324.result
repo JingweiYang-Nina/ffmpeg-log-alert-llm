@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Failed to create a VAAPI device, indicating a problem with VAAPI setup or drivers.",
+    "resolution_steps": "Ensure VAAPI drivers and `libva` are correctly installed and configured for your system's integrated graphics. Verify that the user has permissions to access '/dev/dri/renderD128'. Try updating graphics drivers. Consider using a software encoder if VAAPI hardware acceleration is not critical.",
+    "log_file": "ffmpeg_log_02324.log"
+}

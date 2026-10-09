@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Aac encoder setup failed",
+    "resolution_steps": "Verify the AAC encoder is correctly installed and accessible. Ensure the audio sample rate or bitrate are supported by the encoder.",
+    "log_file": "ffmpeg_log_01672.log"
+}

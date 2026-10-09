@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Disk space full or permission denied writing to 'output.mp4'.",
+    "resolution_steps": "Free up disk space on the target drive or ensure write permissions for the output directory. Try writing to a different location.",
+    "log_file": "ffmpeg_log_01605.log"
+}

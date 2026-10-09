@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Incorrect placement of 'bitrate' option.",
+    "resolution_steps": "Place global options before input files and output options before output files. The `-b:v` (video bitrate) or `-b:a` (audio bitrate) options usually go before the output file name.",
+    "log_file": "ffmpeg_log_02203.log"
+}

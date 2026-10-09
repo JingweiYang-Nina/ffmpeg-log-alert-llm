@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unable to find a suitable output format for 'nonexistent.format'. Invalid output file extension or format name.",
+    "resolution_steps": "Ensure the output file extension corresponds to a supported format (e.g., .mp4, .mkv, .avi) or explicitly specify a supported format using '-f format_name'. Use 'ffmpeg -formats' to list available formats.",
+    "log_file": "ffmpeg_log_01817.log"
+}

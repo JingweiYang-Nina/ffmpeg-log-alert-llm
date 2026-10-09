@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "No such filter: 'fade'.",
+    "resolution_steps": "Check for typos in filter names. Ensure the FFmpeg build includes the required filters; some filters might need specific compilation flags. Consult FFmpeg filter documentation.",
+    "log_file": "ffmpeg_log_02725.log"
+}

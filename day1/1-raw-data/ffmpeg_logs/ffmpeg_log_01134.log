@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105151-g7118182741-tessarade-git Copyright (c) 2000-2023 the FFmpeg developers
+... (log truncated)
+[AVIO open @ 0x559e2172a080] Failed to resolve hostname stream.invalid: Name or service not known
+http://stream.invalid/live.m3u8: Input/output error

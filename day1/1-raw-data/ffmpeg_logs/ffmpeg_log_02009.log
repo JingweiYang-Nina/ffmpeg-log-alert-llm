@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+Output #0, avi, to 'output.avi':
+[libx265 @ 0x123456789] Codec 'hevc' (0x63766568) is not supported by the 'avi' muxer.
+Could not write header for output file #0 (incorrect codec parameters ?): Invalid argument
+Conversion failed!

@@ -1,0 +1,7 @@
+﻿ffmpeg -i input.mp4 -vf crop=500:500:2000:1000 output.mp4
+ffmpeg version 4.4 Copyright (c) 2000-2021 Fabrice Bellard et al.
+[Parsed_crop_0 @ 0x...] w:500 h:500 x:2000 y:1000 -> w:500 h:80 y:1000
+[Parsed_crop_0 @ 0x...] [Eval @ 0x...] Undefined constant in 'w:500 h:500 x:2000 y:1000'.
+[AVFilterGraph @ 0x...] Error initializing filter 'crop' with args '500:500:2000:1000'
+Error configuring filters.
+Conversion failed!

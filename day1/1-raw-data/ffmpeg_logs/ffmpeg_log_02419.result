@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Failed to open output segment due to connection refused/protocol error.",
+    "resolution_steps": "This typically happens with network outputs (e.g., RTMP, HLS). Check network connectivity, firewall rules, server availability, and the correctness of the output URL/protocol. If saving locally, ensure the path is valid and not pointing to a network location that's inaccessible.",
+    "log_file": "ffmpeg_log_02419.log"
+}

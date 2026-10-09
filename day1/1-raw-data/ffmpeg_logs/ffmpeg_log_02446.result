@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Segment duration for output (MPEG-TS) exceeded maximum allowed value.",
+    "resolution_steps": "This error typically occurs when writing very long streams to formats like MPEG-TS with segmenting options. Break the output into shorter segments using `-segment_time` or `-segment_frames`, or consider a different output container format that supports longer durations.",
+    "log_file": "ffmpeg_log_02446.log"
+}

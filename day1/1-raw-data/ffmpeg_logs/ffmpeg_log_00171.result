@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid argument, possibly due to a too long or invalid output path.",
+    "resolution_steps": "Review the output file path and filename length, ensuring it adheres to filesystem limits and is valid.",
+    "log_file": "ffmpeg_log_00171.log"
+}

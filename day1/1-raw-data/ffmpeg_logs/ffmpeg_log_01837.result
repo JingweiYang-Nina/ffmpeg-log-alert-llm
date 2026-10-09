@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Protocol not found",
+    "resolution_steps": "Ensure FFmpeg is compiled with support for the specified protocol (e.g., RTMP) or use a supported protocol.",
+    "log_file": "ffmpeg_log_01837.log"
+}

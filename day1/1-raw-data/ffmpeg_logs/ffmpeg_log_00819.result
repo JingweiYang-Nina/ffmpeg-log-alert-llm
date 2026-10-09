@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid encoding parameter",
+    "resolution_steps": "Review FFmpeg command syntax and correct invalid parameters. Consult FFmpeg documentation for correct usage of options.",
+    "log_file": "ffmpeg_log_00819.log"
+}

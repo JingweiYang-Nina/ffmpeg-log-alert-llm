@@ -1,0 +1,9 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 The FFmpeg developers
+Input #0, mpegts, from 'live_stream.ts':
+  Duration: N/A, start: 1.400000, bitrate: N/A
+    Stream #0:0: Video: h264, yuv420p, 1920x1080, 29.97 fps
+Output #0, flv, to 'stream_out.flv':
+  Stream #0:0: Video: flv1, yuv420p, 1280x720, 25 fps
+frame= 900 fps= 30 q=20.0 Lsize= 12000kB time=00:00:30.00 bitrate=3200.0kbits/s speed=1.0x
+video:11800kB audio:200kB
+PSNR=41.55 dB

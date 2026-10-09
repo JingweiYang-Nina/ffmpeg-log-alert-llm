@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mp4 -vf scale=1920:1080 -c:v libx264 -crf 23 output_fullhd.mp4
+ffmpeg version 4.4.2 Copyright (c) 2000-2021 the FFmpeg developers
+...
+[libx264 @ 0x55d7f191a300] PSNR average: 45.11 dB
+video:2500kB audio:300kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.0%

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Could not open or initialize codec 'h264_amf', potentially due to missing libraries or hardware issues.",
+    "resolution_steps": "Ensure necessary hardware acceleration drivers (e.g., AMD drivers for AMF) are installed and updated. Verify FFmpeg was compiled with support for 'h264_amf'. Try a software encoder like 'libx264' if hardware acceleration is not critical or failing.",
+    "log_file": "ffmpeg_log_00241.log"
+}

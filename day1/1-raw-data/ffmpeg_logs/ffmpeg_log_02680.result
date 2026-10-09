@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input file is missing essential metadata (e.g., 'moov' atom in MP4).",
+    "resolution_steps": "The file header might be corrupted. Try to repair the input file using specialized tools, or re-acquire the file if possible. Some players might still play such files, but FFmpeg needs a valid structure.",
+    "log_file": "ffmpeg_log_02680.log"
+}

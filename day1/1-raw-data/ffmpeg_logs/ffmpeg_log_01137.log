@@ -1,0 +1,5 @@
+﻿ffmpeg version N-105151-g7118182741-tessarade-git Copyright (c) 2000-2023 the FFmpeg developers
+... (log truncated)
+Error writing trailer of output.mov: Invalid argument
+muxing overhead: -100.00%
+Conversion failed!

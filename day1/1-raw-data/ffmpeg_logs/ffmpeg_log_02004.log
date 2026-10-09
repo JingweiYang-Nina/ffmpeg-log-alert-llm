@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+Input #0, flv, from 'live_stream.flv':
+  Duration: N/A
+Output #0, mp4, to 'recorded_stream.mp4':
+frame=  750 fps= 30 q=-1.0 Lsize=   15000kB time=00:00:30.00 bitrate=4000.0kbits/s speed=1.00x
+PSNR=40.01 dB

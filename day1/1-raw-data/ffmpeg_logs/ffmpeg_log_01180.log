@@ -1,0 +1,3 @@
+﻿ffmpeg version N-105156-gd58b5e905c Copyright (c) 2000-2022 The FFmpeg developers
+[NULL @ 0x...] Unable to find a suitable output format for 'rtmp://publish.example.com/live/streamkey'
+rtmp://publish.example.com/live/streamkey: Invalid argument

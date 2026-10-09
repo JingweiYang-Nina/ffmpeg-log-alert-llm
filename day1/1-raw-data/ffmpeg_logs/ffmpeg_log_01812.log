@@ -1,0 +1,7 @@
+﻿ffmpeg version 5.1.2-0ubuntu1 Copyright (c) 2000-2022 FFmpeg developers
+Input #0, mov, from 'input.mp4':
+Output #0, mp4, to 'output.mp4':
+[aac @ 0x55e968000000] More than 20 frames buffered. Skipping.
+[mp4 @ 0x55e968000000] Malformed AAC bitstream detected. This will likely cause problems.
+[mp4 @ 0x55e968000000] Muxer does not support non-interleaved media. To fix this, use -map instead of '-map 0 -map 1', or vice versa.
+Conversion failed!

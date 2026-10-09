@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+Error while decoding stream #0:1: Invalid argument
+[aac @ 0x7f8d68000800] Qavg is NaN, cannot calculate next QP
+Error while encoding stream #0:1: Function not implemented
+Conversion failed!

@@ -1,0 +1,6 @@
+﻿ffmpeg version N-105156-gd53f47e0a2-g10d650b2 Copyright (c) 2000-2022 The FFmpeg developers
+Input #0, mov,mp4, from 'test_input.mp4':
+  Duration: 00:00:25.00, bitrate: 1800 kb/s
+Output #0, mp4, to 'test_output.mp4':
+frame=  750 fps= 30 q=-1.0 size=    4500kB time=00:00:25.00 bitrate=1440.0kbits/s speed=1.1x
+PSNR=39.21 dB

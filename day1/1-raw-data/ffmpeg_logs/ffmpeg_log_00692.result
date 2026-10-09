@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Disk quota exceeded for '/tmp/transcode.avi'",
+    "resolution_steps": "The disk where the output file is being written is full or a disk quota has been exceeded. Free up space, increase your quota, or select a different output directory.",
+    "log_file": "ffmpeg_log_00692.log"
+}

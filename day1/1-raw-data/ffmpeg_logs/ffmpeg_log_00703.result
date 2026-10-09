@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown encoder 'libvo_aacenc'",
+    "resolution_steps": "The specified encoder 'libvo_aacenc' is not supported or installed. Check FFmpeg's available encoders ('ffmpeg -encoders'), install the necessary library, or use a supported encoder like 'aac'.",
+    "log_file": "ffmpeg_log_00703.log"
+}

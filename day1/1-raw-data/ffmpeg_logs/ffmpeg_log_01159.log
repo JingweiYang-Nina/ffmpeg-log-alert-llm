@@ -1,0 +1,8 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 The FFmpeg developers
+Input #0, mov, from 'input.mp4':
+  Duration: 00:00:10.00, start: 0.000000, bitrate: 2500 kb/s
+Output #0, mov, to 'output.mov':
+  Stream #0:0: Video: prores_ks, yuv422p10le, 1920x1080, 25 fps
+frame=  250 fps= 25 q=2.0 Lsize=  25000kB time=00:00:10.00 bitrate=20000.0kbits/s speed=1.0x
+video:24900kB audio:100kB
+PSNR=47.92 dB

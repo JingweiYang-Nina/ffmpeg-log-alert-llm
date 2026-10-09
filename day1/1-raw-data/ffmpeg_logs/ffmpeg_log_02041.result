@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Corrupted input stream",
+    "resolution_steps": "Verify the integrity of the input video file. Try re-downloading or repairing it.",
+    "log_file": "ffmpeg_log_02041.log"
+}

@@ -1,0 +1,7 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'input_video.mp4':
+... (input stream details)
+Output #0, mp4, to 'output_video.mp4':
+[h264_qsv @ 0x...] Could not find a suitable output format for 'output_video.mp4'.
+[AVHWDeviceContext @ 0x...] Hardware device not found.
+Conversion failed!

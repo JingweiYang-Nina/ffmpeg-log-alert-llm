@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Stream specifier 'v:1' does not match any streams.",
+    "resolution_steps": "Correct the stream mapping arguments. Ensure the stream specifier refers to an existing stream in the input file (e.g., 'v:0' for the first video stream).",
+    "log_file": "ffmpeg_log_02733.log"
+}

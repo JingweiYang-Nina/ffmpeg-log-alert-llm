@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Failed to create or configure CUDA-enabled filter (e.g., scale_cuda).",
+    "resolution_steps": "Ensure the CUDA drivers are correctly installed and FFmpeg is compiled with CUDA filter support. Check the syntax for the CUDA filter and if the GPU has enough resources or is compatible. Try a non-CUDA filter if troubleshooting.",
+    "log_file": "ffmpeg_log_01813.log"
+}

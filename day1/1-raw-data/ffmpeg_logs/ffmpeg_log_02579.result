@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Too many packets in queue, dropping frames",
+    "resolution_steps": "This often indicates a slow encoder or fast input. Try reducing the input speed (e.g., using '-re'), or increasing encoder performance (e.g., lower quality settings, faster preset).",
+    "log_file": "ffmpeg_log_02579.log"
+}

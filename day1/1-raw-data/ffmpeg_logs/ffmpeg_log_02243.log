@@ -1,0 +1,5 @@
+﻿ffmpeg -i source.mkv output.mp4
+[AVFormatContext @ 0x12345] Unable to find a suitable output format for 'libx265'
+Unknown encoder 'libx265'
+
+ffmpeg exited with code 1.

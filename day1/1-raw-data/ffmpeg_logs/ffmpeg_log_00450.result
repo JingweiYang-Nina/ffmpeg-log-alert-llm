@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown error occurred during encoding process. Conversion failed! (-1073741824)",
+    "resolution_steps": "Examine preceding log lines for more specific errors or try a simpler command to isolate the issue.",
+    "log_file": "ffmpeg_log_00450.log"
+}

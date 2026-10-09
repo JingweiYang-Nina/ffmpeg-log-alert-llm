@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown encoder 'libx269_nonexistent'.",
+    "resolution_steps": "Ensure the specified video encoder (e.g., libx269) is installed and correctly spelled. Try using a common encoder like libx264 or verify FFmpeg build flags.",
+    "log_file": "ffmpeg_log_00956.log"
+}

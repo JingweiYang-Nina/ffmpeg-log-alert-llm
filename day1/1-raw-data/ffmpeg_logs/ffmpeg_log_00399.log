@@ -1,0 +1,15 @@
+﻿ffmpeg version N-105213-gb111f1 Copyright (c) 2000-2023 the FFmpeg developers
+  built with gcc 11.2.0 (GCC) on linux
+  configuration: --enable-gpl --enable-libx264
+  libavutil      57.28.100 / 57.28.100
+  libavcodec     59.37.100 / 59.37.100
+  libavformat    59.27.100 / 59.27.100
+  libavdevice    59.7.100 / 59.7.100
+  libavfilter     8.44.100 /  8.44.100
+  libswscale      6.7.100 /  6.7.100
+  libswresample   4.7.100 /  4.7.100
+  libpostproc    56.6.100 / 56.6.100
+
+Option '-bitrate' (set video bitrate (in bits/s)) cannot be applied to output file 'input.mp4' -- you are trying to apply an input option to an output file or vice versa. Move this option before the file it belongs to.
+Error parsing options for input file input.mp4.
+Error opening input files: Invalid argument

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown encoder 'vp9-fake'.",
+    "resolution_steps": "Verify the encoder name 'vp9-fake'. It might be a typo or the encoder library is not installed/enabled with your FFmpeg build. Use `ffmpeg -encoders` to list available encoders.",
+    "log_file": "ffmpeg_log_00058.log"
+}

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Corrupted or problematic input stream causing encoding issues.",
+    "resolution_steps": "Verify the integrity of the input video file. Try re-encoding the input or using a different source.",
+    "log_file": "ffmpeg_log_01743.log"
+}

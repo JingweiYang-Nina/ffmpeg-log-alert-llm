@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Attempted to use an experimental encoder without enabling it with '-strict -2'.",
+    "resolution_steps": "1. Add '-strict -2' to your FFmpeg command to explicitly allow experimental features. 2. Use a stable, non-experimental encoder instead.",
+    "log_file": "ffmpeg_log_02704.log"
+}

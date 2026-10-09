@@ -1,0 +1,4 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'input.mp4':
+[mp4 @ 0x55c68991a00] Encoder did not produce proper mp4 header. This might be a bug in the encoder or a configuration problem.
+Conversion failed!

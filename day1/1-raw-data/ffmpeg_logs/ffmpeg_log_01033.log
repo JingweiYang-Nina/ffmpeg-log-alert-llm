@@ -1,0 +1,5 @@
+﻿Here's an FFmpeg log snippet:
+
+[tcp @ 0x...] connection refused
+Cannot open output file 'tcp://192.168.1.100:1234': Connection refused
+Error while processing data for stream #0:0

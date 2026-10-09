@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Output file 'existing_output.mp4' already exists and overwrite was not permitted.",
+    "resolution_steps": "Delete the existing 'existing_output.mp4' file, or specify a different output filename. Alternatively, use the `-y` flag in the FFmpeg command to automatically overwrite existing files.",
+    "log_file": "ffmpeg_log_02413.log"
+}

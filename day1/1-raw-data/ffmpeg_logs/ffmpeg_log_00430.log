@@ -1,0 +1,8 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'clean_input.mp4':
+  Duration: 00:00:08.00, start: 0.000000, bitrate: 1800 kb/s
+Output #0, mp4, to 'clean_output.mp4':
+  Stream #0:0: Video: h264 (libx264), yuv420p, 1280x720, q=-1, 25 fps
+frame=  200 fps= 22 q=28.0 Lsize=    1000kB time=00:00:08.00 bitrate=1000.0kbits/s speed=1.1x    
+video:990kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.000000%
+PSNR_Y:39.00 PSNR_U:42.50 PSNR_V:42.20 PSNR_AVG:40.75

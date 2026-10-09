@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "No output file or stream specified for the output format.",
+    "resolution_steps": "Ensure that an output file name is provided in the FFmpeg command line. Also, make sure that at least one stream (video or audio) is mapped to the output (e.g., by default, or explicitly using '-map').",
+    "log_file": "ffmpeg_log_01814.log"
+}

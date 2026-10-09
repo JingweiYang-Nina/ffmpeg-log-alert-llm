@@ -1,0 +1,22 @@
+﻿ffmpeg -i input.mp4 -ss 00:00:05 -t 00:00:10 -c copy segment.mp4
+ffmpeg version 4.4 Copyright (c) 2000-2021 Fabrice Bellard et al.
+  libavutil      56. 70.100 / 56. 70.100
+  libavcodec     58.134.100 / 58.134.100
+  libavformat    58. 76.100 / 58. 76.100
+  libavdevice    58. 13.100 / 58. 13.100
+  libavfilter     7.110.100 /  7.110.100
+  libswscale      5.  9.100 /  5.  9.100
+  libswresample   3.  9.100 /  3.  9.100
+  libpostproc    55.  9.100 / 55.  9.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input.mp4':
+  Duration: 00:00:30.00, start: 0.000000, bitrate: 2000 kb/s
+    Stream #0:0: Video: h264 (High), yuv420p(tv), 1280x720, 2000 kb/s, 30 fps
+Output #0, mp4, to 'segment.mp4':
+  Metadata:
+    encoder         : Lavf58.76.100
+    Stream #0:0: Video: h264 (High), yuv420p(tv), 1280x720, q=2-31, 2000 kb/s, 30 fps
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help.
+frame=  300 fps=1000 q=-1.0 Lsize=    2500kB time=00:00:10.00 bitrate=2000.0kbits/s speed=33.3x
+video:2500kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.0%

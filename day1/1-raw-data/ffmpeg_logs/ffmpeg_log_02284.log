@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mp4 -c:v h264_nvenc -preset p5 -tune hq -b:v 5M output_nv.mp4
+ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 FFmpeg developers
+[h264_nvenc @ 0x...] No NVENC capable devices found
+Error initializing output stream 0:0 -- Error while opening encoder for stream #0:0 - maybe incorrect parameters such as codec parameters (bitrate, resolution, request for a non-existent codec etc.)
+Conversion failed!

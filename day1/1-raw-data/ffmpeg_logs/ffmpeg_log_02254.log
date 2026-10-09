@@ -1,0 +1,8 @@
+﻿ffmpeg version 5.1.2 Copyright (c) 2000-2022 the FFmpeg developers
+Input #0, mov,mp4, from 'input.mp4':
+  Duration: 00:00:10.00, start: 0.000000, bitrate: 500 kb/s
+    Stream #0:0: Video: h264, 1280x720, 25 fps
+Output #0, mp4, to 'output.mp4':
+output.mp4: No space left on device
+Error writing trailer of output.mp4: No space left on device
+Conversion failed!

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown video encoder.",
+    "resolution_steps": "Check available FFmpeg encoders using 'ffmpeg -encoders'. Install missing libraries or choose a supported encoder.",
+    "log_file": "ffmpeg_log_01183.log"
+}

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Cannot allocate memory for video stream, likely due to high resolution or bitrate.",
+    "resolution_steps": "Reduce video resolution, bitrate, or close other memory-intensive applications.",
+    "log_file": "ffmpeg_log_00446.log"
+}

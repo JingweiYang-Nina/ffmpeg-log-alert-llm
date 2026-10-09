@@ -1,0 +1,6 @@
+﻿ffmpeg version 5.1.2-0ubuntu1 Copyright (c) 2000-2022 FFmpeg developers
+Input #0, avi, from 'old_clip.avi':
+Output #0, mp4, to 'new_clip.mp4':
+frame=  300 fps= 25 q=-1.0 Lsize=   3000kB time=00:00:12.00 bitrate=2000.0kbits/s
+PSNR average: 45.99 dB
+Encoding finished.

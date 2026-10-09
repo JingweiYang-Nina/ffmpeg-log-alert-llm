@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Output bitrate is too high for the selected profile.",
+    "resolution_steps": "Reduce the target bitrate for the output video. The specified bitrate might exceed the limits for the chosen codec profile.",
+    "log_file": "ffmpeg_log_00794.log"
+}

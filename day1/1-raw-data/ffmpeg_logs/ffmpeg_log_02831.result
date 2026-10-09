@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid input data/format.",
+    "resolution_steps": "Ensure the input file is a valid media file and not corrupted. Check the file extension and actual content.",
+    "log_file": "ffmpeg_log_02831.log"
+}

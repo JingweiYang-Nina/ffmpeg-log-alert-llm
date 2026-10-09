@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Requested bitrate is too high for the specified output format or container.",
+    "resolution_steps": "Lower the target bitrate or choose an output format that supports higher bitrates. Some formats have limitations.",
+    "log_file": "ffmpeg_log_00030.log"
+}

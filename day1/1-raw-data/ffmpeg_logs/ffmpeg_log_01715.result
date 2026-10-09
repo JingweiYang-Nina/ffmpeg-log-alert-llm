@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Option 'crf' not found.",
+    "resolution_steps": "This usually indicates a typo or an attempt to use a codec-specific option with the wrong codec. Ensure 'crf' is being used with a codec that supports it (e.g., libx264, libx265).",
+    "log_file": "ffmpeg_log_01715.log"
+}

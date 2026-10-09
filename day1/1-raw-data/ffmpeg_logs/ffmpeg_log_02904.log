@@ -1,0 +1,3 @@
+﻿Input #0, rtsp, from 'rtsp://192.168.1.100/stream':
+[rtsp @ 0x55d7f1d44000] method DESCRIBE failed: 404 Not Found
+rtsp://192.168.1.100/stream: Server returned 404 Not Found

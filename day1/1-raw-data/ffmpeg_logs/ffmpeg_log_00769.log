@@ -1,0 +1,9 @@
+﻿ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 the FFmpeg developers
+... (input and output file details) ...
+Output #0, mp4, to 'short_clip.mp4':
+  Metadata:
+    encoder         : Lavf58.76.100
+  Stream #0:0: Video: h264 (libx264), yuv420p, 800x450, 30 fps
+  Stream #0:1: Audio: aac, 48000 Hz, stereo
+frame= 150 fps= 30 q=26.0 size=   256kB time=00:00:05.00 bitrate=409.6kbits/s speed=1.5x
+[Parsed_psnr_0 @ 0x55e9c0b115c0] PSNR y:43.50 u:44.60 v:45.70 average:44.60 min:39.00 max:49.00

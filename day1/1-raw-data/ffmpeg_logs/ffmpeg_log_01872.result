@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "RTMP protocol not supported or compiled",
+    "resolution_steps": "Ensure FFmpeg build includes RTMP support. If using a pre-built binary, find one with RTMP enabled or compile FFmpeg from source with '--enable-librtmp'.",
+    "log_file": "ffmpeg_log_01872.log"
+}

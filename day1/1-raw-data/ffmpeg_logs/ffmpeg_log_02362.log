@@ -1,0 +1,6 @@
+﻿ffmpeg started
+Input #0, avi: 'input.avi'
+Output #0, mp4: 'output.mp4'
+frame= 850 fps= 45 q=30.0 size= 2500kB time=00:00:50.00 bitrate=400.0kbits/s speed=1.2x
+PSNR average:41.25
+Transcoding completed.

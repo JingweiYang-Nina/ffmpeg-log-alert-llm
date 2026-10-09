@@ -1,0 +1,8 @@
+﻿ffmpeg -i rtsp://192.168.1.100/live -c:v copy -c:a copy output.mp4
+ffmpeg version N-98319-g561a37c37e Copyright (c) 2000-2023 the FFmpeg developers
+  libavutil      58. 17.100 / 58. 17.100
+  libavcodec     60. 25.100 / 60. 25.100
+  libavformat    60. 10.100 / 60. 10.100
+[rtsp @ 0x55dc5c414600] Could not find protocol handler for rtsp
+rtsp://192.168.1.100/live: Protocol not found
+Conversion failed!

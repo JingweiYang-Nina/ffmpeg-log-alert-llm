@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Permission denied when attempting to write to '/read/only/dir/output.mp4'. The target directory is read-only.",
+    "resolution_steps": "Change the output directory to one where the user running FFmpeg has write permissions, or change the permissions of `/read/only/dir`.",
+    "log_file": "ffmpeg_log_01639.log"
+}

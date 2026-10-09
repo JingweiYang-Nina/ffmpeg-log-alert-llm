@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Protocol not found: 'udp'",
+    "resolution_steps": "FFmpeg could not find the specified protocol. Ensure the protocol name is correct and supported by your FFmpeg build. Check network connectivity if it's a streaming protocol.",
+    "log_file": "ffmpeg_log_00730.log"
+}

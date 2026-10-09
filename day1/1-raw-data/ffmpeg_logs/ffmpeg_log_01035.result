@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Muxer does not support non-monotonic timestamps.",
+    "resolution_steps": "This indicates an issue with the input's timestamps. Try adding `-async 1` or `-vsync 0` to your FFmpeg command, or re-encode the input file first.",
+    "log_file": "ffmpeg_log_01035.log"
+}

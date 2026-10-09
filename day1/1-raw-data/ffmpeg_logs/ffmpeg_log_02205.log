@@ -1,0 +1,11 @@
+﻿ffmpeg version N-105151-g7a04a37f2c Copyright (c) 2000-2024 the FFmpeg developers
+  configuration: --enable-gpl --enable-libx264
+  libavutil      60. 3.100 / 60. 3.100
+  libavcodec     60. 3.100 / 60. 3.100
+  libavformat    60. 3.100 / 60. 3.100
+  libavdevice    60. 1.100 / 60. 1.100
+  libavfilter     9. 3.100 /  9. 3.100
+  libswscale      7. 1.100 /  7. 1.100
+  libswresample   4. 9.100 /  4. 9.100
+  libpostproc    57. 1.100 / 57. 1.100
+Option 'ss' (set the start time offset) cannot be applied to output file 'output.mp4' -- you are trying to apply an input option to an output file or vice versa. Move this option before the file it belongs to.

@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+Input #0, mov,mp4, from 'original.mp4':
+  Duration: 00:00:04.00
+Output #0, mp4, to 'low_quality.mp4':
+frame=  100 fps= 33 q=-1.0 Lsize=     200kB time=00:00:04.00 bitrate=400.0kbits/s speed=1.32x
+PSNR=25.60 dB

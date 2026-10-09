@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "A general input/output error occurred while writing the output file.",
+    "resolution_steps": "Check the integrity of the storage device and cabling. Ensure the output path is valid and not experiencing hardware issues.",
+    "log_file": "ffmpeg_log_00034.log"
+}

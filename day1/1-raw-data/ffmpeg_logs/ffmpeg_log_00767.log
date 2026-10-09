@@ -1,0 +1,9 @@
+﻿ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 the FFmpeg developers
+... (input and output file details) ...
+Output #0, mov, to 'lossless.mov':
+  Metadata:
+    encoder         : Lavf58.76.100
+  Stream #0:0: Video: prores_ks (apcn), yuv422p10le, 1920x1080, 25 fps
+  Stream #0:1: Audio: pcm_s16le, 48000 Hz, stereo
+frame= 750 fps= 25 q=0.0 size= 25600kB time=00:00:30.00 bitrate=6826.7kbits/s speed=1.0x
+[Parsed_psnr_0 @ 0x55e9c0b115c0] PSNR y:55.00 u:55.00 v:55.00 average:55.00 min:55.00 max:55.00

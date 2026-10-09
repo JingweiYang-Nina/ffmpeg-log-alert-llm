@@ -1,0 +1,26 @@
+﻿ffmpeg -i input.mkv -map 0:v:0 -map 0:a:1 -c:v libx264 -c:a aac output_remux.mp4
+ffmpeg version 4.4 Copyright (c) 2000-2021 Fabrice Bellard et al.
+  libavutil      56. 70.100 / 56. 70.100
+  libavcodec     58.134.100 / 58.134.100
+  libavformat    58. 76.100 / 58. 76.100
+  libavdevice    58. 13.100 / 58. 13.100
+  libavfilter     7.110.100 /  7.110.100
+  libswscale      5.  9.100 /  5.  9.100
+  libswresample   3.  9.100 /  3.  9.100
+  libpostproc    55.  9.100 / 55.  9.100
+Input #0, matroska,webm, from 'input.mkv':
+  Duration: 00:00:12.00, start: 0.000000, bitrate: 2500 kb/s
+    Stream #0:0: Video: vp9, yuv420p(tv), 1920x1080, 2400 kb/s, 30 fps
+    Stream #0:1: Audio: opus, 48000 Hz, stereo, fltp, 100 kb/s
+    Stream #0:2: Audio: aac, 44100 Hz, stereo, fltp, 80 kb/s
+Output #0, mp4, to 'output_remux.mp4':
+  Metadata:
+    encoder         : Lavf58.76.100
+    Stream #0:0: Video: h264 (High) (libx264), yuv420p(tv), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2400 kb/s, 30 fps
+    Stream #0:1: Audio: aac (LC) (mp4a), 44100 Hz, stereo, fltp, 80 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (vp9 (native) -> libx264)
+  Stream #0:2 -> #0:1 (aac (native) -> aac)
+Press [q] to stop, [?] for help.
+frame=  360 fps= 29 q=25.0 Lsize=    3800kB time=00:00:12.00 bitrate=2533.3kbits/s speed=0.96x
+video:3700kB audio:100kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.0%

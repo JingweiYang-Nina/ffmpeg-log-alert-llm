@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.2.4 Copyright (c) 2000-2020 The FFmpeg developers
+  built with gcc 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04)
+[libx264 @ 0x559e2b17f540] rc_lookahead 0 is too low for current encode settings, increase to at least 10.
+[libx264 @ 0x559e2b17f540] bitrate too high: 50000 kb/s, cap 40000 kb/s.
+Error initializing output stream 0:0 -- Error while opening encoder for output stream #0:0 - maybe incorrect parameters such as codec tags, sample rate, etc.
+Conversion failed!

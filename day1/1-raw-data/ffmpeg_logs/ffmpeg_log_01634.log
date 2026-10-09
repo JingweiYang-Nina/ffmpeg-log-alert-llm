@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.flv -c:v libx264 -crf 23 -f mp4 output.mp4
+ffmpeg version 4.4.2 Copyright (c) 2000-2021 the FFmpeg developers
+...
+[libx264 @ 0x55d7f191a300] PSNR average: 40.89 dB
+video:900kB audio:150kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.0%

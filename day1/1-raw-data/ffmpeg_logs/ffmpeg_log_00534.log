@@ -1,0 +1,8 @@
+﻿ffmpeg version N-105156-gd53f47e0a2-g10d650b2 Copyright (c) 2000-2022 The FFmpeg developers
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input_clip.mp4':
+  Duration: 00:01:30.00, start: 0.000000, bitrate: 1500 kb/s
+Output #0, mp4, to 'output_clip.mp4':
+  Duration: 00:01:30.00, start: 0.000000, bitrate: 1000 kb/s
+frame= 2700 fps= 30 q=-1.0 size=   18000kB time=00:01:30.00 bitrate=1600.0kbits/s speed=1.0x
+PSNR=45.23 dB
+video:17500kB audio:500kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.12%

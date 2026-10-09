@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Codec 'h269' not properly recognized or supported by the MP4 container format.",
+    "resolution_steps": "Ensure that the chosen codec (h269) is compatible with the MP4 container. Consider using a standard codec like h264 or h265 if h269 is not a typo and is truly unsupported.",
+    "log_file": "ffmpeg_log_01106.log"
+}

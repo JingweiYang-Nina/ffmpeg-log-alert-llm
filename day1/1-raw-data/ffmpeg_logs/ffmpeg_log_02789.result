@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown encoder 'libx267'.",
+    "resolution_steps": "Ensure the specified encoder ('libx267' in this case) is correctly spelled, installed, and supported by your FFmpeg build. Use `ffmpeg -encoders` to list available encoders.",
+    "log_file": "ffmpeg_log_02789.log"
+}

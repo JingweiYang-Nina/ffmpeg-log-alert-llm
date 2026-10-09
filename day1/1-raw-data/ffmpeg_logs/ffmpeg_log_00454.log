@@ -1,0 +1,9 @@
+﻿FFmpeg command executed: ffmpeg -i source.mov -vf scale=1280:720 output.mp4
+[mp4 @ 0x12345678] Using AAC encoder.
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help.
+frame= 2500 fps= 50 q=2.5 Lq=3.5 size= 23456kB time=00:02:34.56 bitrate=2345.6kbits/s speed=1.56x
+[Parsed_psnr_0 @ 0x87654321] PSNR y:48.33 u:49.83 v:48.83 average:48.33
+Conversion finished successfully.

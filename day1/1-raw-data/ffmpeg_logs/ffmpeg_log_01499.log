@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105151-g741697e884-tessarade-git Copyright (c) 2000-2022 the FFmpeg developers
+[mp4 @ 0x55dc5c4b5d00] Muxer does not support non seekable output
+Could not write header for output file #0 (incorrect codec parameters ?): Invalid argument
+Error writing file '/path/to/output.mp4'.

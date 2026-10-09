@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mp4 -vf 'crop=invalid_parameter' -c:v libx264 -crf 23 output.mp4
+ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 FFmpeg developers
+[Parsed_crop_0 @ 0x...] Invalid crop expression 'invalid_parameter'
+[AVFilterGraph @ 0x...] Error initializing complex filters.
+Error configuring filters.

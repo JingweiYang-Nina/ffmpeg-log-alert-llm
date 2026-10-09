@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Missing library or plugin for specified codec (e.g., 'libvpx-vp9').",
+    "resolution_steps": "FFmpeg might be missing a required external library or plugin for the specified codec. Recompile FFmpeg with the necessary `--enable-lib...` options or install missing dependencies.",
+    "log_file": "ffmpeg_log_00791.log"
+}

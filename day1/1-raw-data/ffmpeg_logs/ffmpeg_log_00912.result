@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "No such file or directory",
+    "resolution_steps": "Verify the input file path and ensure it exists.",
+    "log_file": "ffmpeg_log_00912.log"
+}

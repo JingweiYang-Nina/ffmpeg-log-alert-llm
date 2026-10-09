@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown encoder/codec",
+    "resolution_steps": "Check your FFmpeg build for required codecs or use a supported encoder (e.g., libx264, vp9).",
+    "log_file": "ffmpeg_log_02033.log"
+}

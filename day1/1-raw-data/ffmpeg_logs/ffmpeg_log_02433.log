@@ -1,0 +1,4 @@
+﻿ffmpeg version 4.3.1-2020-11-13-git-6b1c09b7e7 Copyright (c) 2000-2020 the FFmpeg developers
+[aac @ 0x55ac21013d40] Too many bits in a frame
+Error while encoding aac frame: Invalid argument
+Audio encoding failed.

@@ -1,0 +1,8 @@
+﻿ffmpeg version N-105151-g721c00f074-tessr
+Input #0, mov,mp4, from 'input.mp4':
+  Duration: 00:00:10.00
+Output #0, mp4, to 'output.mp4':
+frame=  299 fps= 29 q=28.0 size=  3000kB time=00:00:10.00 bitrate=2400.0kbits/s speed=0.99x    
+drop_frames=1
+video:2900kB audio:100kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.666667%
+[libx264 @ 0x...] PSNR Mean Y:41.02 U:42.15 V:42.50 Avg:41.55 Global:41.55

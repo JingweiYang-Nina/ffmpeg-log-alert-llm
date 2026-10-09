@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Audio encoder (libopus) sample rate out of supported range.",
+    "resolution_steps": "Ensure the audio sample rate for the Opus encoder is within the supported range of 8000 to 48000 Hz. Adjust the `-ar` parameter in your FFmpeg command accordingly.",
+    "log_file": "ffmpeg_log_02461.log"
+}

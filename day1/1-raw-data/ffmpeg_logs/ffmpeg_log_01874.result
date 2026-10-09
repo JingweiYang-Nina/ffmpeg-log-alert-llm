@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Cannot find suitable output format 'invalid_format'",
+    "resolution_steps": "Specify a valid FFmpeg output format (e.g., mp4, mkv, webm) for the output file extension or using the -f flag.",
+    "log_file": "ffmpeg_log_01874.log"
+}

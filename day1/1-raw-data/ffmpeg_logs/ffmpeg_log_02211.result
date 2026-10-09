@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Failed to open TCP stream: Connection refused.",
+    "resolution_steps": "Ensure the network service at the specified address and port (`tcp://localhost:1234`) is running and accessible. Check firewall rules or try a different address/port.",
+    "log_file": "ffmpeg_log_02211.log"
+}

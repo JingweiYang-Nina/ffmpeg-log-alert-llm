@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "FFmpeg process unexpectedly terminated. Crash dump generated.",
+    "resolution_steps": "This indicates a severe bug or system instability. Try updating FFmpeg to the latest version. Check system logs for related errors (e.g., memory issues).",
+    "log_file": "ffmpeg_log_02465.log"
+}

@@ -1,0 +1,13 @@
+﻿ffmpeg version 5.0.1 Copyright (c) 2000-2022 The FFmpeg developers
+  built with gcc 10.2.1 (GCC) 20210110
+[h264_qsv @ 0x55710d0f0c00] Error creating a MFXVideoSession
+Error initializing an internal MFX session
+Error creating a MFXVideoSession
+[AVHWDeviceContext @ 0x55710d0a7900] Failed to create a VAAPI device.
+Failed to initialise MFX device: -1
+Error creating a MFXVideoSession
+[AVHWDeviceContext @ 0x55710d0a7900] Failed to create a VAAPI device.
+Failed to initialise MFX device: -1
+Error opening filters!
+Error initializing complex filters.
+Conversion failed!

@@ -1,0 +1,4 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+[AVFilterGraph @ 0x55d0124e54c0] Error initializing filter 'setpts' with args 'N'
+Error creating filter 'setpts'
+Error initializing complex filters.

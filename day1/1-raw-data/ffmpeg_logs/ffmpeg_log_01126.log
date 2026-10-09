@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105151-g7118182741-tessarade-git Copyright (c) 2000-2023 the FFmpeg developers
+... (log truncated)
+[libx264 @ 0x55ff1d56e780] PSNR mean Y:47.50 U:50.11 V:49.03 all:48.22 dB
+video:25000kB audio:12000kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead:0.80%

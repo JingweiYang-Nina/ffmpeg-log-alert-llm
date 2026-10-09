@@ -1,0 +1,6 @@
+﻿ffmpeg version N-105001-g57b491a03a-lsf Copyright (c) 2000-2022 the FFmpeg developers
+built with gcc 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.1)
+Configuration: --prefix=/usr/local --enable-gpl --enable-libx264
+[mp4 @ 0x3d0b2e88a381] Could not write header: No space left on device
+Error writing trailer of long_name_output.webm: No space left on device
+Conversion failed!

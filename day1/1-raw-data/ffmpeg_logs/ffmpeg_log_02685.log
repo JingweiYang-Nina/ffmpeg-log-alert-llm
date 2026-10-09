@@ -1,0 +1,2 @@
+﻿ffmpeg -i input.mp4 output.xyz
+Unrecognized file format, could not probe output format 'output.xyz' with default options.

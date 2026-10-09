@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input pipe (pipe:0) encountered an input/output error, possibly due to no data or invalid data being piped.",
+    "resolution_steps": "Ensure that data is correctly piped to FFmpeg's standard input. Verify the format of the piped data matches what FFmpeg expects for the input. Check the piping command for errors.",
+    "log_file": "ffmpeg_log_02310.log"
+}

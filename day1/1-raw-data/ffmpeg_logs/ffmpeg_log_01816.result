@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Too many packets buffered, potentially due to I/O bottleneck or a mismatch in stream processing speed.",
+    "resolution_steps": "This often indicates a bottleneck in writing to the output file or reading from the input. Try a faster output device, reduce the output bitrate, or use a larger buffer. Ensure no other processes are heavily utilizing disk I/O or CPU.",
+    "log_file": "ffmpeg_log_01816.log"
+}

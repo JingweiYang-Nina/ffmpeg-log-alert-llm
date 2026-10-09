@@ -1,0 +1,5 @@
+﻿ffmpeg version N-105566-gc456e7e0d3 Copyright (c) 2000-2022 The FFmpeg developers
+  built with gcc 11.2.0 (Rev4, Built by MSYS2)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'non_existent_input.mp4':
+non_existent_input.mp4: No such file or directory
+Conversion failed!

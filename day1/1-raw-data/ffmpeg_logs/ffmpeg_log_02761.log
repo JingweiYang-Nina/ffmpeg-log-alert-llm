@@ -1,0 +1,7 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 9 (Ubuntu 9.3.0-17ubuntu1~20.04)
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55dc98a280c0] Could not open '/root/restricted_output_14.mp4': Permission denied
+Output #0, mp4, to '/root/restricted_output_14.mp4':
+  Metadata:
+    encoder         : Lavf58.45.100
+Conversion failed!

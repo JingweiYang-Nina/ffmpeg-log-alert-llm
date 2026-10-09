@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+frame=   50 fps= 20 q=28.0 size=     500kB time=00:00:02.00 bitrate=2000.0kbits/s speed=0.8x
+[out.mp4] Input/output error
+Error writing trailer of final_render.mkv: No space left on device
+Conversion failed!

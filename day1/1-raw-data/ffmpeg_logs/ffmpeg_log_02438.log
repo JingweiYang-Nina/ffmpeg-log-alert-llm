@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.3.1-2020-11-13-git-6b1c09b7e7 Copyright (c) 2000-2020 the FFmpeg developers
+[AVHWDeviceContext @ 0x55ac21013d40] CUDA: Failed to load NVML. Is NVIDIA driver installed?
+Error initializing NVDEC for 'h264_cuvid': Invalid argument
+Impossible to convert between the formats supported by the filter 'Parsed_null_0' and the filter 'auto_scale_0'
+Error configuring filters.

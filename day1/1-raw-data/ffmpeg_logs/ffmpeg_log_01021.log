@@ -1,0 +1,5 @@
+﻿Here's an FFmpeg log snippet:
+
+[libx264 @ 0x...] width not divisible by 2 (1921x1080)
+Error initializing video encoder: Invalid argument
+Error while opening encoder for output stream #0:0 - maybe incorrect parameters such as bitrate, rate, width or height

@@ -1,0 +1,4 @@
+﻿ffmpeg version 4.3.1-2020-11-13-git-6b1c09b7e7 Copyright (c) 2000-2020 the FFmpeg developers
+[audio @ 0x55ac21013d40] Invalid sample rate: 0
+Error initializing filter 'abuffer' with args 'smp_fmt=fltp:sample_rate=0:channel_layout=stereo'
+Error configuring filters!

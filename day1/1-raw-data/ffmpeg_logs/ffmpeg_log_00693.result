@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Hardware acceleration error: Failed to load OpenCL library",
+    "resolution_steps": "Hardware acceleration failed. Ensure your GPU drivers are up to date and the necessary libraries (e.g., OpenCL, CUDA, VAAPI, NVENC) are correctly installed and configured for FFmpeg. Consider disabling hardware acceleration if issues persist.",
+    "log_file": "ffmpeg_log_00693.log"
+}

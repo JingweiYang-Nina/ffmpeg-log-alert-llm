@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Codec private data is missing or incompatible for the video stream when trying to copy an H.264 stream from MXF to MP4.",
+    "resolution_steps": "Use the H.264 bitstream filter '-bsf:v h264_mp4toannexb' to properly handle the stream when copying from MXF to MP4. For example: `ffmpeg -i input.mxf -c:v copy -bsf:v h264_mp4toannexb -c:a copy output.mp4`",
+    "log_file": "ffmpeg_log_02322.log"
+}

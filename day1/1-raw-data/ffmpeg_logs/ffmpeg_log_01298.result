@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid argument for video filtergraph (vf).",
+    "resolution_steps": "Review FFmpeg documentation for correct syntax and valid options for video filters. Ensure the filter string is correctly formatted and not empty.",
+    "log_file": "ffmpeg_log_01298.log"
+}

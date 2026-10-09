@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "No suitable output format found for output.mp4; potentially missing codec or stream mapping.",
+    "resolution_steps": "Ensure that both video and audio codecs are specified (e.g., `-c:v libx264 -c:a aac`) and that streams are correctly mapped (e.g., `-map 0`). FFmpeg might not infer codecs if the input has unusual streams or if no default is suitable.",
+    "log_file": "ffmpeg_log_02464.log"
+}

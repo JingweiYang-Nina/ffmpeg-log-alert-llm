@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown encoder (e.g., 'libx267').",
+    "resolution_steps": "Ensure FFmpeg is compiled with support for the desired encoder (e.g., --enable-libx265 for H.265). Check the exact codec name or try a different one.",
+    "log_file": "ffmpeg_log_00782.log"
+}

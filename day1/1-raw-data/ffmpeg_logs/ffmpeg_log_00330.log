@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mp4 -vf 'delogo=x=10:y=10:w=100:h=50' -c:v libx264 output.mp4
+[mp4 @ 0x...] Using AVStream.codec.time_base as a timebase for the encoder is deprecated. Set AVCodecContext.time_base instead.
+... (log lines) ...
+frame= 900 fps= 30 q=-1.0 Lsize=   35000kB time=00:00:30.00 bitrate=9333.3kbits/s speed=1.0x
+PSNR y:40.10 u:42.50 v:42.30 average:41.63 min:30.00 max:46.00

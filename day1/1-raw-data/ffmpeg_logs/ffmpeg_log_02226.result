@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input file not found: 'clip.avi'",
+    "resolution_steps": "Ensure the input file path is correct and the file exists. Check for typos or incorrect directory.",
+    "log_file": "ffmpeg_log_02226.log"
+}

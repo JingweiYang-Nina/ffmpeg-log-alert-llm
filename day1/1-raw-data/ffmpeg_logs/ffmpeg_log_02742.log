@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'input.mp4':
+[h264 @ 0x55c68991a00] Error: bitrate too high for specified profile
+Error initializing output stream 0:0 -- error copying stream parameters to encoder: Invalid argument
+Conversion failed!

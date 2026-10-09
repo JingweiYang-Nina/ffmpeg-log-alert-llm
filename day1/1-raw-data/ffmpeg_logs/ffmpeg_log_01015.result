@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid timestamp (DTS) provided to muxer.",
+    "resolution_steps": "This often indicates corrupt input or an issue with frame rates. Try using `-async 1` or `-vsync 1` or re-encoding the input first.",
+    "log_file": "ffmpeg_log_01015.log"
+}

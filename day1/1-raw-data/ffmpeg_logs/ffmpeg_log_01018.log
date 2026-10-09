@@ -1,0 +1,6 @@
+﻿Here's an FFmpeg log snippet:
+
+frame=  300 fps=70 q=28.0 size=   2700kB time=00:00:12.00 bitrate=1800.0kbits/s speed=2.80x    
+video:2600kB audio:100kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+[libx264 @ 0x555c2f821100] PSNR Mean Y:41.20 U:44.50 V:43.90 Avg:42.87 global:42.66
+Successfully transcoded video.

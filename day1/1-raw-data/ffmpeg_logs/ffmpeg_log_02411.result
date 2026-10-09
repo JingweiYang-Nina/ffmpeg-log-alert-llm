@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Permission denied when trying to write to 'protected_output.mp4'.",
+    "resolution_steps": "Check the write permissions for the directory where 'protected_output.mp4' is intended to be saved. Run FFmpeg with appropriate user privileges, or save the output file to a directory where the current user has write access.",
+    "log_file": "ffmpeg_log_02411.log"
+}

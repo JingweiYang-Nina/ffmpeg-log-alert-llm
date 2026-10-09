@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Output file system is read-only.",
+    "resolution_steps": "1. Change the output directory to a writable location. 2. Verify file system permissions and remount if necessary. 3. Ensure the user running FFmpeg has write access to the target directory.",
+    "log_file": "ffmpeg_log_02711.log"
+}

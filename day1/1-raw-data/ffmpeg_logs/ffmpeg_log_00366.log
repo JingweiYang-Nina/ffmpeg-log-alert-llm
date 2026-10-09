@@ -1,0 +1,36 @@
+﻿ffmpeg version N-105213-gb111f1 Copyright (c) 2000-2023 the FFmpeg developers
+  built with gcc 11.2.0 (GCC) on linux
+  configuration: --enable-gpl --enable-libx264
+  libavutil      57.28.100 / 57.28.100
+  libavcodec     59.37.100 / 59.37.100
+  libavformat    59.27.100 / 59.27.100
+  libavdevice    59.7.100 / 59.7.100
+  libavfilter     8.44.100 /  8.44.100
+  libswscale      6.7.100 /  6.7.100
+  libswresample   4.7.100 /  4.7.100
+  libpostproc    56.6.100 / 56.6.100
+
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'video_source_3.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: mp42isom
+    creation_time   : 2023-01-01T12:00:00.000000Z
+  Duration: 22:52:16.00, start: 0.000000, bitrate: 2795 kb/s
+    Stream #0:0(eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv), 1920x1080 [SAR 1:1 DAR 16:9], 2595 kb/s, 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s
+Output #0, mp4, to 'transcoded_output_3.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: mp42isom
+    encoder         : Lavf59.27.100
+  Stream #0:0(eng): Video: h264 (libx264) (avc1 / 0x31637661), yuv420p(tv, bt709/bt709/iec61966-2-1), 1280x720 [SAR 1:1 DAR 16:9], q=-1.0, 2038 kb/s, 25 fps
+  Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (aac (native) -> aac (aac))
+Press [q] to stop, [?] for help.
+frame=  429 fps= 29 q=-1.0 Lsize=  4306kB time=00:00:17.37 bitrate=2008.3kbits/s speed=1.17x
+video:4306kB audio:144kB subtitle:0kB other:0kB global headers:0kB muxing overhead:0.835%
+[libx264 @ 0x550325d988] PSNR Mean Y:46.36 U:48.33 V:47.88 Average:47.45 Global:47.45

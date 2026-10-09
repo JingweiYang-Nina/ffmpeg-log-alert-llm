@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid or unrecognized option provided in the command line ('-pix_fmt_invalid').",
+    "resolution_steps": "Review the FFmpeg command for typos or incorrect parameters. Consult FFmpeg documentation for valid options and their usage.",
+    "log_file": "ffmpeg_log_01491.log"
+}

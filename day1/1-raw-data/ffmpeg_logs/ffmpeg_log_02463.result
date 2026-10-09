@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input pixel format is not YUV420P, which is required by the encoder (libx264).",
+    "resolution_steps": "Convert the input video to YUV420P pixel format using `-pix_fmt yuv420p` before encoding with libx264. Alternatively, use an encoder that supports the input pixel format.",
+    "log_file": "ffmpeg_log_02463.log"
+}

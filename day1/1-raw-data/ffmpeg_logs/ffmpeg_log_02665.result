@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input stream is corrupted or has invalid data.",
+    "resolution_steps": "Attempt to repair the source file or try playing it in a media player to confirm integrity. Use a different source file if corruption is severe.",
+    "log_file": "ffmpeg_log_02665.log"
+}

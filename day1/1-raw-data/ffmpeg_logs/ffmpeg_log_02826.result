@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Codec tag not found for output format.",
+    "resolution_steps": "Manually specify the codec tag (e.g., -tag:v h264) or choose a different output container format that natively supports the codec.",
+    "log_file": "ffmpeg_log_02826.log"
+}

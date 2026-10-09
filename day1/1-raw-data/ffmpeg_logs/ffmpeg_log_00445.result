@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Broken pipe or connection reset by peer during transcoding.",
+    "resolution_steps": "Check network connection stability or ensure the FFmpeg process isn't being terminated externally.",
+    "log_file": "ffmpeg_log_00445.log"
+}

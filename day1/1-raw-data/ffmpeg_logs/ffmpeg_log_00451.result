@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Bitrate value (50000000) out of valid range for encoder.",
+    "resolution_steps": "Adjust the bitrate to a valid range for the encoder and output format (e.g., 2000k to 10000k).",
+    "log_file": "ffmpeg_log_00451.log"
+}

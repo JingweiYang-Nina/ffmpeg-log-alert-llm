@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Internal decoding error for MJPEG stream, possibly due to corrupted frames or unsupported MJPEG variant.",
+    "resolution_steps": "Verify the integrity of the MJPEG input file. If it's a non-standard MJPEG, try converting it to a more common format first or updating FFmpeg to a newer version that might support it.",
+    "log_file": "ffmpeg_log_01172.log"
+}

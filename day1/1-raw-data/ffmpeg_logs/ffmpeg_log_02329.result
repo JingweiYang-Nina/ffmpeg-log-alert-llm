@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "The specified video bitrate (1G) is excessively high and exceeds the allowed range for the MP4 muxer.",
+    "resolution_steps": "Reduce the target video bitrate to a practical and supported value. For stream copying, avoid setting a bitrate with '-b:v' as it's typically determined by the source stream. If transcoding, choose a reasonable bitrate like '-b:v 5M' for 5 Mbps.",
+    "log_file": "ffmpeg_log_02329.log"
+}

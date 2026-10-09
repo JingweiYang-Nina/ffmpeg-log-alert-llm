@@ -1,0 +1,12 @@
+﻿ffmpeg version N-105151-g7a04a37f2c Copyright (c) 2000-2024 the FFmpeg developers
+  configuration: --enable-gpl --enable-libx264
+  libavutil      60. 3.100 / 60. 3.100
+  libavcodec     60. 3.100 / 60. 3.100
+  libavformat    60. 3.100 / 60. 3.100
+  libavdevice    60. 1.100 / 60. 1.100
+  libavfilter     9. 3.100 /  9. 3.100
+  libswscale      7. 1.100 /  7. 1.100
+  libswresample   4. 9.100 /  4. 9.100
+  libpostproc    57. 1.100 / 57. 1.100
+[AVFMT_mp4 @ 0x55e09f5383c0] Application provided duration 10000000 is not a multiple of timescale 1000000. Reducing to 10000000.
+Output file #0 does not contain any stream

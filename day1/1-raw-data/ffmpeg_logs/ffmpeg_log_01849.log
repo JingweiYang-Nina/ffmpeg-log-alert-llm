@@ -1,0 +1,4 @@
+﻿frame=  250 fps= 25 q=28.0 Lsize=   1250kB time=00:00:10.00 bitrate=1000.0kbits/s speed=   1x
+video:1248kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.160475%
+[libx264 @ 0x55d7f2a71f00] PSNR Mean Y:45.67 U:48.12 V:47.89 Avg:46.56 Global:46.56
+Conversion finished successfully.

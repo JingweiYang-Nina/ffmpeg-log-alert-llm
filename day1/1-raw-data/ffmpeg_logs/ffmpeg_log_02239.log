@@ -1,0 +1,5 @@
+﻿ffmpeg -i source.mkv result.mov
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x12345] moov atom not found
+Error loading file 'corrupt.mp4': Invalid data found when processing input
+
+ffmpeg exited with code 1.

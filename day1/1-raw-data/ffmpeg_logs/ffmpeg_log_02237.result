@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Disk space or quota exceeded.",
+    "resolution_steps": "Free up disk space on the target drive or increase your disk quota. Check the available storage before transcoding.",
+    "log_file": "ffmpeg_log_02237.log"
+}

@@ -1,0 +1,9 @@
+﻿ffmpeg -i invalid_format.mp4 output.mp4
+ffmpeg version N-98319-g561a37c37e Copyright (c) 2000-2023 the FFmpeg developers
+  libavutil      58. 17.100 / 58. 17.100
+  libavcodec     60. 25.100 / 60. 25.100
+  libavformat    60. 10.100 / 60. 10.100
+[mp4 @ 0x55a9b70b04c0] Format mp4 detected only with low score of 1, misdetection possible.
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55a9b70b04c0] Could not find tag for codec h264 in stream #0, corresponding to an unsupported format or input file
+invalid_format.mp4: Invalid argument
+Conversion failed!

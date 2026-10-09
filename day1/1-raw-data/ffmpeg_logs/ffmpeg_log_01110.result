@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "FFmpeg ran out of memory during processing.",
+    "resolution_steps": "Reduce the complexity of the transcoding task (e.g., lower resolution, fewer filters), increase available RAM, or process smaller segments of the video.",
+    "log_file": "ffmpeg_log_01110.log"
+}

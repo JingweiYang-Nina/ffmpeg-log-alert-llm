@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Specified stream mapping (e.g., video stream) not found.",
+    "resolution_steps": "Verify stream indices in the FFmpeg command (e.g., -map 0:v:0). Check if the input file contains the expected streams.",
+    "log_file": "ffmpeg_log_02136.log"
+}

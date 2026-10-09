@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Output format not supported or invalid.",
+    "resolution_steps": "Ensure the output container format (e.g., '.mp4', '.mkv', '.webm') is correctly specified and supported by FFmpeg. Check for typos in the extension or if a specific format is unsupported by your FFmpeg build.",
+    "log_file": "ffmpeg_log_02894.log"
+}

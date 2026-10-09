@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unsupported output file extension or format.",
+    "resolution_steps": "Ensure the output file extension is recognized by FFmpeg and corresponds to a supported container format (e.g., .mp4, .mkv, .avi). Use a valid and commonly supported format.",
+    "log_file": "ffmpeg_log_02447.log"
+}

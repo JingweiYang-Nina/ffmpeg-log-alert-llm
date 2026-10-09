@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mp4 -strict -2 output.mp3
+ffmpeg version 4.4 Copyright (c) 2000-2021 Fabrice Bellard et al.
+[mp3 @ 0x...] No audio stream present in the input file, or codec not supported.
+Could not write header for file 'output.mp3': Invalid argument
+Conversion failed!

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Error while opening decoder for input stream #0:0. Invalid data found when processing input.",
+    "resolution_steps": "The input video stream is likely corrupted or uses a non-standard encoding not recognized by FFmpeg. Try a different input file.",
+    "log_file": "ffmpeg_log_00914.log"
+}

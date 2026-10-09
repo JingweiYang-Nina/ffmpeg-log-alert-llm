@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input file appears to be corrupted or malformed.",
+    "resolution_steps": "1. Verify the integrity of the input file. 2. Try converting the file to a different intermediate format before the desired output. 3. Obtain a healthy copy of the input file.",
+    "log_file": "ffmpeg_log_02691.log"
+}

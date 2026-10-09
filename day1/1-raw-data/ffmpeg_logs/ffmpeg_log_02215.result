@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Global option 'incorrect_option' not found.",
+    "resolution_steps": "Review your FFmpeg command for typos or invalid options. Refer to the FFmpeg documentation for correct syntax and available options.",
+    "log_file": "ffmpeg_log_02215.log"
+}

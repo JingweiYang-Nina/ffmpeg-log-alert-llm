@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input file 'input_missing.mp4' not found.",
+    "resolution_steps": "Verify the path and filename of the input video. Ensure the file exists and is accessible.",
+    "log_file": "ffmpeg_log_02193.log"
+}

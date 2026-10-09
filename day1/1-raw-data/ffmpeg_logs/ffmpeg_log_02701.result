@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "No streams were successfully mapped or encoded into the output file.",
+    "resolution_steps": "1. Ensure input file has valid video/audio streams. 2. Verify stream mapping options (e.g., '-map 0:v', '-map 0:a'). 3. Check for any encoding errors that might prevent stream output.",
+    "log_file": "ffmpeg_log_02701.log"
+}

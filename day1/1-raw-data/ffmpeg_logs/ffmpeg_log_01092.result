@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid argument for encoder parameter, likely bitrate or codec specific setting.",
+    "resolution_steps": "Review the FFmpeg command line arguments, especially those related to video encoding parameters like bitrate (-b:v) and ensure they are correctly formatted and within valid ranges.",
+    "log_file": "ffmpeg_log_01092.log"
+}

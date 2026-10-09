@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid argument or option placement: Option '-vframes' with value 'wrong_value' for output file.",
+    "resolution_steps": "Review the FFmpeg command syntax. Ensure that options like '-vframes' are correctly placed, i.e., input options (`-i`) before the input file and output options before the output file. Check the documentation for '-vframes' for valid values and placement.",
+    "log_file": "ffmpeg_log_00387.log"
+}

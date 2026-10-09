@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "FFmpeg failed to detect codec parameters (like resolution) for input image sequence.",
+    "resolution_steps": "Try increasing 'probesize' and 'analyzeduration' using `-probesize 50M -analyzeduration 10M` before input file. Ensure all images are valid and have consistent properties.",
+    "log_file": "ffmpeg_log_01160.log"
+}

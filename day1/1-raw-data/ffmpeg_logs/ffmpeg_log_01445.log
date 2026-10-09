@@ -1,0 +1,7 @@
+﻿ffmpeg version N-105156-g817c376c9b Copyright (c) 2000-2022 the FFmpeg developers
+  built with gcc 11.2.0 (Rev4, Built by MSYS2 project)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input.mp4':
+  Duration: 00:00:10.00, start: 0.000000, bitrate: 2000 kb/s
+    Stream #0:0: Video: h264, 1920x1080, 25 fps
+[Parsed_psnr_0 @ 0x55ff672a1e00] PSNR average: 40.05 dB
+video:1678kB audio:369kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.012345%

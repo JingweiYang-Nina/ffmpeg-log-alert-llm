@@ -1,0 +1,4 @@
+﻿ffmpeg -i input.mp4 output.mp4
+Output #0, mp4, to 'output.mp4':
+[AVIOContext @ 0x...] Failed to open 'output.mp4': Permission denied
+Error writing output file.

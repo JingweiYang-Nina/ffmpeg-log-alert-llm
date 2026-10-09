@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Could not connect to the specified network stream.",
+    "resolution_steps": "Verify the stream URL and network connectivity. Ensure the streaming server is running and accessible from your machine, and check firewall settings.",
+    "log_file": "ffmpeg_log_02671.log"
+}

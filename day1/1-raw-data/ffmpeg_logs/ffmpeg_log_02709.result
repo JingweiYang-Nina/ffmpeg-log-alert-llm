@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Too many frames provided to the muxer, indicating an issue with frame rate or duration mismatch.",
+    "resolution_steps": "1. Ensure the output frame rate is consistent with input or explicitly set. 2. Use '-re' option for real-time input reading. 3. Check for '-t' or '-to' options potentially cutting frames too early.",
+    "log_file": "ffmpeg_log_02709.log"
+}

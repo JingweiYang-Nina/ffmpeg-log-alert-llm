@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'input_video.mp4':
+[file @ 0x...] Failed to open 'input_video.mp4' on network share: Access denied
+Could not open input 'input_video.mp4': Access denied
+Conversion failed!

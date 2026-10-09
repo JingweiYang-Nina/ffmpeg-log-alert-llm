@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'input.mp4':
+[h264 @ 0x7f038c0000] Failed to open cuvid device: 9 (CUDA_ERROR_INVALID_VALUE)
+Error initializing CUDA device
+Conversion failed!

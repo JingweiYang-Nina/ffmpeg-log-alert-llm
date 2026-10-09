@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Memory allocation failed.",
+    "resolution_steps": "Reduce the complexity of the transcoding (e.g., lower resolution, simpler filters, less reference frames), reduce the number of concurrent transcoding jobs, or increase available system memory (RAM/swap).",
+    "log_file": "ffmpeg_log_00656.log"
+}

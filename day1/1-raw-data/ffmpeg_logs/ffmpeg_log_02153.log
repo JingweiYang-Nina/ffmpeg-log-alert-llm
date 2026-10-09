@@ -1,0 +1,1 @@
+﻿ffmpeg exited with an error during 'input.mp4' to 'output.avi' conversion. The log stated 'Option not found' related to a video filter.

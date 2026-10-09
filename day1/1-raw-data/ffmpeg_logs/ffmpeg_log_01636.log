@@ -1,0 +1,5 @@
+﻿ffmpeg -i source.webm -c:v libvpx -b:v 1M -c:a libvorbis output.webm
+ffmpeg version 4.4.2 Copyright (c) 2000-2021 the FFmpeg developers
+...
+[libvpx @ 0x55d7f191a300] PSNR average: 37.10 dB
+video:1000kB audio:180kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.0%

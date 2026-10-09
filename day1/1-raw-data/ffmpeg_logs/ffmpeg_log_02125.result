@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input file is corrupt or unreadable.",
+    "resolution_steps": "Attempt to repair the source file or use a different source. Check the integrity of the input file.",
+    "log_file": "ffmpeg_log_02125.log"
+}

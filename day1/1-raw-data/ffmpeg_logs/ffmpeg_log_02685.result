@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Output file format is unrecognized or unsupported by this FFmpeg build.",
+    "resolution_steps": "Ensure the output container format (e.g., .mp4, .mkv) is correctly specified and supported. You might need a FFmpeg build with more codecs/muxers enabled, or try a common format like mp4 or mkv.",
+    "log_file": "ffmpeg_log_02685.log"
+}

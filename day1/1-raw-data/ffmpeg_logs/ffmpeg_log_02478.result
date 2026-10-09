@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid argument '1920x108' specified for option 's'",
+    "resolution_steps": "The specified resolution is not valid. Ensure it follows widthxheight format and is within acceptable bounds. Correct to a valid resolution like '1920x1080'.",
+    "log_file": "ffmpeg_log_02478.log"
+}

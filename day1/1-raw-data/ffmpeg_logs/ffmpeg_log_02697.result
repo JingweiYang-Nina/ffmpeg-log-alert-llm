@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Syntax error in filtergraph description (e.g., invalid arguments to a filter).",
+    "resolution_steps": "1. Review the FFmpeg command line, specifically the filtergraph. 2. Correct any typos or incorrect arguments for filters. 3. Consult FFmpeg documentation for correct filter syntax.",
+    "log_file": "ffmpeg_log_02697.log"
+}

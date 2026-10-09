@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Specified stream (e.g., '0:v:0') not found in the input file.",
+    "resolution_steps": "1. Check if the input file actually contains the stream you are trying to map (e.g., video stream 0). 2. Verify the stream specifier is correct (e.g., '0:v', '0:a'). 3. Use 'ffprobe input.mp4' to inspect available streams.",
+    "log_file": "ffmpeg_log_02715.log"
+}

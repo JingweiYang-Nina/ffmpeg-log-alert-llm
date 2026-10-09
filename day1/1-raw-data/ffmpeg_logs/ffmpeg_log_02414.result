@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "No NVENC capable devices found for hardware acceleration.",
+    "resolution_steps": "Ensure you have an NVIDIA GPU with NVENC support, the latest NVIDIA drivers are installed, and FFmpeg is compiled with NVENC support. If not available, use software encoding (e.g., libx264) instead.",
+    "log_file": "ffmpeg_log_02414.log"
+}

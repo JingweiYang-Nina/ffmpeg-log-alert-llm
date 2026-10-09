@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input file 'input.mp4' not found or could not be accessed: No such file or directory",
+    "resolution_steps": "Verify the input file path and filename. Ensure the file exists and is accessible to FFmpeg.",
+    "log_file": "ffmpeg_log_02488.log"
+}

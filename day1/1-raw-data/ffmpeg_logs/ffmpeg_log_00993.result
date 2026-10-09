@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Codec not found or unsupported.",
+    "resolution_steps": "Check if the specified codec is installed and supported by your FFmpeg build. Try a different codec or recompile FFmpeg with required libraries. Ensure the container supports the chosen codec.",
+    "log_file": "ffmpeg_log_00993.log"
+}

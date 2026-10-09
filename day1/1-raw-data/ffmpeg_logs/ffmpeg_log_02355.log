@@ -1,0 +1,4 @@
+﻿[mov,mp4,m4a,3gp,3g2,mj2 @ 0x3d0b28e578a8] moov atom not found
+Input #0, mov, from 'corrupt_file_25.mp4':
+[AVFormat] Input file is corrupt or has invalid headers.
+Conversion failed!

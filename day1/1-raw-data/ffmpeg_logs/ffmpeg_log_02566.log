@@ -1,0 +1,4 @@
+﻿ffmpeg version 6.0 Copyright (c) 2000-2023 Fabrice Bellard et al.
+[mp4 @ 0x5580a1c6e180] Could not write header for file 'output_large.mp4': No space left on device
+av_interleaved_write_frame(): No space left on device
+Error writing trailer of output_large.mp4: No space left on device

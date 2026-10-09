@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Muxer does not support non-keyframes for first frame.",
+    "resolution_steps": "Ensure the encoder generates a keyframe as the first frame. This might require specific encoder settings like `-g 1` or `-force_key_frames expr:gte(t,0)`. If copying streams, re-encode instead.",
+    "log_file": "ffmpeg_log_02737.log"
+}

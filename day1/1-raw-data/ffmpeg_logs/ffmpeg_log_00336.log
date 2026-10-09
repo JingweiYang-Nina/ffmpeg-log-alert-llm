@@ -1,0 +1,2 @@
+﻿ffmpeg -i non_existent_file.mp4 output.mp4
+non_existent_file.mp4: No such file or directory

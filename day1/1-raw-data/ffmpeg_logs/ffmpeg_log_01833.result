@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Hardware device not found for QSV",
+    "resolution_steps": "Ensure Intel Quick Sync Video (QSV) hardware is present and drivers are installed, or disable QSV and use software encoding.",
+    "log_file": "ffmpeg_log_01833.log"
+}

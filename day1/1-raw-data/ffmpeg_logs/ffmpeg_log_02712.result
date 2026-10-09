@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "System ran out of memory during transcoding.",
+    "resolution_steps": "1. Reduce the output resolution, bitrate, or complexity of filters. 2. Free up RAM by closing other applications. 3. Increase system memory (RAM) or swap space. 4. Try processing smaller segments of the video.",
+    "log_file": "ffmpeg_log_02712.log"
+}

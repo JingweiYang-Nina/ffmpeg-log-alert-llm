@@ -1,0 +1,12 @@
+﻿  Stream #0:0(eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p, 1920x1080
+Conversion failed: Bitstream reader error
+Stream mapping:
+  Stream #0:1 -> #0:1 (aac (native) -> aac (aac_lc))
+  Stream #0:1(eng): Audio: aac (LC), 48000 Hz, stereo
+[h264 @ 0x...] A bitstream reader error occurred, try increasing 'probesize' or 'analyzeduration'
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'source_782.mp4':
+frame= 308 fps=11 q=22.5 size=     905kB time=00:00:28.093 bitrate=264.4kbits/s speed=0.34x
+Press [q] to stop, [?] for help
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Duration: 00:01:00.00, start: 0.000000, bitrate: 2000 kb/s
+ffmpeg version N-105151-g7d363574c8 Copyright (c) 2000-2021 the FFmpeg developers

@@ -1,0 +1,7 @@
+﻿ffmpeg version 5.1.2 Copyright (c) 2000-2022 the FFmpeg developers
+Input #0, mov,mp4, from 'input.mp4':
+  Duration: 00:00:10.00, start: 0.000000, bitrate: 500 kb/s
+    Stream #0:0: Video: h264, 1280x720, 25 fps
+Output #0, mp4, to 'output.mp4':
+[NULL @ 0x55d140e02c40] Unable to find a suitable output format for 'invalid_format'
+invalid_format: Invalid argument

@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105151-g741697e884-tessarade-git Copyright (c) 2000-2022 the FFmpeg developers
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/path/to/input_unreadable.mp4':
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55555562d540] Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+/path/to/input_unreadable.mp4: Operation not permitted

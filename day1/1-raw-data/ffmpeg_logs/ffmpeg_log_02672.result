@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid frame rate option or applied incorrectly.",
+    "resolution_steps": "Ensure the frame rate option is correctly placed (e.g., before output for output frame rate). Check if the specified frame rate is valid for the chosen codec/container.",
+    "log_file": "ffmpeg_log_02672.log"
+}

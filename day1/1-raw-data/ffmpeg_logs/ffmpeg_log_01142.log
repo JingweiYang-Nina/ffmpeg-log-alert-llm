@@ -1,0 +1,5 @@
+﻿ffmpeg version N-105151-g7118182741-tessarade-git Copyright (c) 2000-2023 the FFmpeg developers
+... (log truncated)
+[aac @ 0x55c3c0a5b880] Qavg: 128.000
+[aac @ 0x55c3c0a5b880] The encoder 'aac' is experimental but experimental codecs are disabled, add '-strict -2' if you want to use it.
+Error initializing output stream 0:1 -- Error while opening encoder for output stream #0:1 - maybe incorrect parameters such as codec parameters, rate, or number of channels

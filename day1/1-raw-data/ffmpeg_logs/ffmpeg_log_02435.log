@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.3.1-2020-11-13-git-6b1c09b7e7 Copyright (c) 2000-2020 the FFmpeg developers
+[h264 @ 0x55ac21085c80] SPS missing or invalid
+Error while decoding stream #0:0: Invalid data found when processing input
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'corrupt_input.mp4':
+  Duration: N/A, start: 0.000000, bitrate: N/A
+    Stream #0:0: Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 0x0, 25 fps

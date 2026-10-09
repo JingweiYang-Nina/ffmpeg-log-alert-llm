@@ -1,0 +1,7 @@
+﻿ffmpeg version N-105232-g5968f9a2b0 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input.mp4':
+Output #0, mp4, to 'output.mp4':
+[AVFilterGraph @ 0x55b7f23c0200] The --filter-complex 'scale=foo:bar' contains too many ' ' tokens.
+[AVFilterGraph @ 0x55b7f23c0200] Error parsing a filter description.
+Error configuring filters.
+Conversion failed!

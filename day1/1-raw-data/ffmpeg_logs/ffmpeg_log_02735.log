@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'input.mp4':
+[aac @ 0x7f038c0000] Too many bits per rawframe, the muxer may not be able to handle it.
+frame=  300 fps= 29 q=-1.0 Lsize=    1876kB time=00:00:10.00 bitrate=1543.1kbits/s speed=0.966x
+PSNR=41.12dB
+Output file #0 does not contain any stream

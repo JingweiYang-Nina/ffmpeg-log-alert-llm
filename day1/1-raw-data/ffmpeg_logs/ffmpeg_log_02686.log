@@ -1,0 +1,7 @@
+﻿ffmpeg version N-105151-g721c00f074-tessr
+Input #0, mov,mp4, from 'input.mp4':
+  Duration: 00:00:05.00
+Output #0, mp4, to 'output.mp4':
+[aac @ 0x...] Too many bits in a frame, the bitrate is too high or the sample rate is too low. Maybe you are using a wrong encoder.
+frame=  150 fps= 30 q=28.0 size=  1000kB time=00:00:05.00 bitrate=1600.0kbits/s speed=1.0x    
+[libx264 @ 0x...] PSNR Mean Y:39.50 U:40.20 V:40.35 Avg:40.01 Global:40.01

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "The specified video encoder 'unknown_codec' is not recognized by FFmpeg.",
+    "resolution_steps": "Use a valid and supported video encoder (e.g., 'libx264', 'libx265', 'h264_nvenc'). Check FFmpeg documentation for a list of available encoders.",
+    "log_file": "ffmpeg_log_02293.log"
+}

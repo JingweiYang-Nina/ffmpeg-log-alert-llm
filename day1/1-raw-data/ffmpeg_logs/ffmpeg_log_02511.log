@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mp4 -s 1280x720 -c:v h264_nvenc output_nvenc.mp4
+ffmpeg version 4.4 Copyright (c) 2000-2021 Fabrice Bellard et al.
+[h264_nvenc @ 0x...] No NVENC capable devices found
+Error initializing output stream 0:0 -- Error while opening encoder for output stream #0:0 - maybe incorrect parameters such as bitrate, rate, width or height
+Conversion failed!

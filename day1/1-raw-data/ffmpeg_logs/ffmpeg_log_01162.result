@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input file is corrupted or contains invalid data, preventing decoding.",
+    "resolution_steps": "Check the integrity of the input file. Try playing it with a media player to confirm corruption. If possible, use a different source or repair the file with specialized tools.",
+    "log_file": "ffmpeg_log_01162.log"
+}

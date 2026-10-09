@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Failed to allocate memory for video frame, likely due to excessive resolution or complex filter chains.",
+    "resolution_steps": "Reduce the output resolution, simplify complex filter graphs, or provide more RAM to the system/process.",
+    "log_file": "ffmpeg_log_00078.log"
+}

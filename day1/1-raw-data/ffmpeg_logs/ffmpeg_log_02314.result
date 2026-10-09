@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid parameters or expression provided for the 'crop' video filter.",
+    "resolution_steps": "Correct the 'crop' filter parameters. It expects dimensions and coordinates (e.g., 'crop=width:height:x:y').",
+    "log_file": "ffmpeg_log_02314.log"
+}

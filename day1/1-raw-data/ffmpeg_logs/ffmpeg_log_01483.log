@@ -1,0 +1,5 @@
+﻿ffmpeg -i input.mp4 -c:v copy -c:a aac -b:a 192k output.mp4
+frame= 1000 fps= 90 q=-1.0 size= 2000kB time=00:00:40.00 bitrate=400.0kbits/s speed=3.6x 
+PSNR-HVS-M avg:46.30
+video:2000kB audio:500kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.090%
+Exiting normally, finished.

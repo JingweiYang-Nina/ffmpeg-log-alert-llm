@@ -1,0 +1,6 @@
+﻿ffmpeg version N-105156-gd53f47e0a2-g10d650b2 Copyright (c) 2000-2022 The FFmpeg developers
+Input #0, mov,mp4, from 'high_quality.mp4':
+  Duration: 00:01:00.00, bitrate: 5000 kb/s
+Output #0, webm, to 'web_compatible.webm':
+frame= 1800 fps= 30 q=-1.0 size=   30000kB time=00:01:00.00 bitrate=4000.0kbits/s speed=0.95x
+PSNR=46.89 dB

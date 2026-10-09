@@ -1,0 +1,3 @@
+﻿[AVHWDeviceContext @ 0x5580a1586e00] Failed to create CUDA context: CUDA_ERROR_NO_DEVICE (100)
+Error creating a CUDA decoding context.
+Device setup failed for decoder 'h264_cuvid': Input/output error

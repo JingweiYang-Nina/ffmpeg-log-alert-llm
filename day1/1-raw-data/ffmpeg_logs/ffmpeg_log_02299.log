@@ -1,0 +1,4 @@
+﻿ffmpeg -i http://example.com/live_stream -c:v copy -c:a copy -f flv rtmp://localhost/live/my_stream
+ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 FFmpeg developers
+[tcp @ 0x...] Connection refused
+http://example.com/live_stream: Connection refused

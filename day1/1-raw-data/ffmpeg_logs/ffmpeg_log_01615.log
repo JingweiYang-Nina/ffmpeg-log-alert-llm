@@ -1,0 +1,6 @@
+﻿ffmpeg -i large_video.avi -c:v h264_nvenc -qp 20 output.mp4
+ffmpeg version 4.4.2 Copyright (c) 2000-2021 the FFmpeg developers
+...
+[h264_nvenc @ 0x55d7f191a300] Error initializing CUDA device
+Error initializing output stream 0:0 -- error: Operation not permitted
+Conversion failed!

@@ -1,0 +1,3 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 The FFmpeg developers
+Could not write header for output file #0 (incorrect codec parameters ?): Invalid argument
+Error opening output file.

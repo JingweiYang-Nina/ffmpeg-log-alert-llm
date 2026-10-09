@@ -1,0 +1,4 @@
+﻿ffmpeg -i dash_stream.mpd -map 0:v:0 -c:v libx264 -preset veryfast -crf 32 -f mp4 converted_dash.mp4
+... (log lines) ...
+frame= 750 fps= 25 q=-1.0 Lsize=   8000kB time=00:00:30.00 bitrate=2133.3kbits/s speed=1.0x
+PSNR y:26.10 u:29.00 v:28.80 average:27.96 min:15.00 max:32.00

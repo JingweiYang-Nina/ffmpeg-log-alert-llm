@@ -1,0 +1,3 @@
+﻿ffmpeg -i input.mp4 -c:v libx265z output.mp4
+Unknown encoder 'libx265z'
+Error initializing output stream 0:0 -- Error while opening encoder for input stream #0:0, output stream #0:0, codec libx265z: Operation not permitted

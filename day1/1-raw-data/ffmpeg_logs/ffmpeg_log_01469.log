@@ -1,0 +1,4 @@
+﻿ffmpeg -i broken.mkv output.mp4
+[matroska,webm @ 0x55e975a6c380] Can't find an index entry in a seekable file
+Error while decoding stream #0:0: Invalid data found when processing input
+Exiting due to error.

@@ -1,0 +1,4 @@
+﻿ffmpeg version 4.3.1-2020-11-13-git-6b1c09b7e7 Copyright (c) 2000-2020 the FFmpeg developers
+[in#0/hls @ 0x55ac21013d40] Error opening input: Invalid argument
+Cannot open input stream 'http://localhost/live/playlist.m3u8': Invalid argument
+Conversion failed!

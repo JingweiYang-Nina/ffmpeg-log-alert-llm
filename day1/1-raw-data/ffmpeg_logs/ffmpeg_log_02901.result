@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid option 'crf' applied to input file.",
+    "resolution_steps": "The 'crf' option is for video encoding, not input files. Ensure encoding options are placed after the input file and before the output file, e.g., 'ffmpeg -i input.mp4 -crf 23 output.mp4'.",
+    "log_file": "ffmpeg_log_02901.log"
+}

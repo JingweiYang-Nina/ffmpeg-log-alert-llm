@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Complex filter initialization error.",
+    "resolution_steps": "Review the `filter_complex` graph for syntax errors, incompatible filter chains, or unsupported options.",
+    "log_file": "ffmpeg_log_02833.log"
+}

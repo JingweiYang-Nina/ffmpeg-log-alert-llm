@@ -1,0 +1,5 @@
+﻿ffmpeg version N-105156-gd53f47e0a2-g10d650b2 Copyright (c) 2000-2022 The FFmpeg developers
+Input #0, mov, from 'broken.mov':
+[AVFormatContext @ 0x559e211e4000] Stream #0:0 invalid stream size
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x559e211e4000] error reading header
+broken.mov: Invalid data found when processing input

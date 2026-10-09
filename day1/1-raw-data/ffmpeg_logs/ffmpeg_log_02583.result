@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Output file too short or header writing error",
+    "resolution_steps": "Ensure sufficient duration for the output. Check if there are issues with the specified encoder or container format preventing proper header writing. Try increasing the duration or using a different format/codec.",
+    "log_file": "ffmpeg_log_02583.log"
+}

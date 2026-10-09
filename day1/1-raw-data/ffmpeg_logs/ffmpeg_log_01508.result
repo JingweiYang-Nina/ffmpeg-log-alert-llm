@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "x264 VBV (Video Buffer Verifier) settings are too restrictive, causing buffer underrun/overrun issues.",
+    "resolution_steps": "Increase the '-maxrate' and '-bufsize' values, or decrease the '-crf' (Constant Rate Factor) value, or select a faster x264 preset (e.g., from 'medium' to 'fast').",
+    "log_file": "ffmpeg_log_01508.log"
+}

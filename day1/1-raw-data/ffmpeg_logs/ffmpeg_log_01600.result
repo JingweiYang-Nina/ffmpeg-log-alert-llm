@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Insufficient system memory or other resource exhaustion during processing.",
+    "resolution_steps": "Reduce the complexity of the transcoding task (e.g., lower resolution, simpler filters, lower bitrate), or free up system resources. Consider running on a system with more RAM/CPU.",
+    "log_file": "ffmpeg_log_01600.log"
+}

@@ -1,0 +1,5 @@
+﻿ffmpeg -i movie.mov converted.mkv
+[AVFormatContext @ 0x12345] Unable to find a suitable output format for 'vp9'
+Unknown encoder 'vp9'
+
+ffmpeg exited with code 1.

@@ -1,0 +1,2 @@
+﻿ffmpeg -i input.mp4 -c:a pcm_s16le output.mp4
+[pcm_s16le @ 0x...] Error while encoding audio: Generic error in an external library

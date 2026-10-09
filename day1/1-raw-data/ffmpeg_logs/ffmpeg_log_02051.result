@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Insufficient disk space",
+    "resolution_steps": "Free up disk space on the output drive where the transcoded file is being written.",
+    "log_file": "ffmpeg_log_02051.log"
+}

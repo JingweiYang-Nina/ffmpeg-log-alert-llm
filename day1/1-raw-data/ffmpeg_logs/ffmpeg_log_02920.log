@@ -1,0 +1,5 @@
+﻿Input #0, image2, from 'image%03d.png':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: N/A
+    Stream #0:0: Video: png, rgba(pc), 1920x1080 [SAR 3937:3937 DAR 16:9], 25 fps, 25 tbr, 25 tbn, 25 tbc
+[AVFilterGraph @ 0x55ffc695cf00] No such filter: 'scale=1920x1080'
+Error configuring filters.

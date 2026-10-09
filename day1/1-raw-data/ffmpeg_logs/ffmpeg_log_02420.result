@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Broken pipe error during transcoding.",
+    "resolution_steps": "A 'broken pipe' error indicates an issue with the output destination (e.g., a process piping data to FFmpeg terminated unexpectedly, or a network connection dropped). Check the stability of your output destination, network connection, or any linked processes. Ensure the output device/file system is healthy.",
+    "log_file": "ffmpeg_log_02420.log"
+}

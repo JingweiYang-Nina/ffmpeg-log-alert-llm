@@ -1,0 +1,4 @@
+﻿Here's an FFmpeg log snippet:
+
+[AVFilterGraph @ 0x...] No such filter: 'unsharpen_bad'
+Error initializing complex filters.

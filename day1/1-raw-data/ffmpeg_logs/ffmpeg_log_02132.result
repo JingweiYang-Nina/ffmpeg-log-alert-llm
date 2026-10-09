@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Custom FFmpeg filter not found.",
+    "resolution_steps": "Ensure the FFmpeg build includes the required filters or that the filter name is correctly spelled and supported.",
+    "log_file": "ffmpeg_log_02132.log"
+}

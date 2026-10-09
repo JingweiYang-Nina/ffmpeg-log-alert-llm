@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input file is empty or too short to contain valid media data.",
+    "resolution_steps": "Verify the input file's integrity and size. Ensure it's a complete and valid media file. Re-download or recreate the source file.",
+    "log_file": "ffmpeg_log_02684.log"
+}

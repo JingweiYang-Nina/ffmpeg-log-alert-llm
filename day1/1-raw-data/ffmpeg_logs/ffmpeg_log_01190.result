@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid or empty filtergraph.",
+    "resolution_steps": "Provide a valid filter string with the -vf or -filter_complex option, or remove the option if no filters are needed.",
+    "log_file": "ffmpeg_log_01190.log"
+}

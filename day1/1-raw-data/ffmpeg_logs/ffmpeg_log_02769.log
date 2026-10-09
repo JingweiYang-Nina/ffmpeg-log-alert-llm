@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 9 (Ubuntu 9.3.0-17ubuntu1~20.04)
+[mp4 @ 0x55a3311f9dc0] Could not write header: No space left on device
+Error writing trailer of large_output_22.mkv: No space left on device
+Conversion failed!

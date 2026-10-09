@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "RTMP protocol is not enabled or not on the allowed whitelist for FFmpeg build.",
+    "resolution_steps": "Recompile FFmpeg with RTMP support enabled (e.g., `--enable-librtmp`). If running a pre-built binary, ensure it supports RTMP. Alternatively, use a supported protocol.",
+    "log_file": "ffmpeg_log_01116.log"
+}

@@ -1,0 +1,12 @@
+﻿ffmpeg version N-105151-g7d363574c8 Copyright (c) 2000-2021 the FFmpeg developers
+  Stream #0:0(eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p, 1920x1080
+  Stream #0:1(eng): Audio: aac (LC), 48000 Hz, stereo
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Duration: 00:01:00.00, start: 0.000000, bitrate: 2000 kb/s
+Conversion failed: Aac encoder setup failed
+Press [q] to stop, [?] for help
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'source_615.mp4':
+  Stream #0:1 -> #0:1 (aac (native) -> aac (aac_lc))
+frame= 483 fps=24 q=2.9 size=    2448kB time=00:00:19.349 bitrate=1033.4kbits/s speed=0.19x
+[aac @ 0x...] Error: Aac encoder setup failed.

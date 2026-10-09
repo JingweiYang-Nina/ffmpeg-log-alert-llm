@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Application provided duration is not a multiple of timescale.",
+    "resolution_steps": "This is often a warning but can sometimes lead to issues. Ensure duration-related options (`-t`, `-to`) or input stream durations are correctly specified and don't conflict with container specific requirements. Re-examine the input file's metadata.",
+    "log_file": "ffmpeg_log_02214.log"
+}

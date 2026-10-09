@@ -1,0 +1,4 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+[ac3 @ 0x123456789] Channel layout '7.1' is not supported by the AC-3 encoder.
+Error initializing output stream 0:1 -- Error while opening encoder for input stream #0:1, output stream #0:1: Invalid argument
+Conversion failed!

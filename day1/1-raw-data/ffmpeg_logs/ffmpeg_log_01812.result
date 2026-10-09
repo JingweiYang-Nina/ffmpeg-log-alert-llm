@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Malformed AAC bitstream and muxer does not support non-interleaved media. Potentially incorrect stream mapping.",
+    "resolution_steps": "The input audio might be problematic. Try using '-strict experimental' with AAC or re-encoding the audio. Review your '-map' options; for example, try combining '-map 0' instead of individual stream maps if interleaving is an issue. Update FFmpeg.",
+    "log_file": "ffmpeg_log_01812.log"
+}

@@ -1,0 +1,14 @@
+﻿ffmpeg version N-105151-g030f250cd8-tessaract Copyright (c) 2000-2021 the FFmpeg developers
+built on Aug 18 2021 16:34:00 with gcc 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04)
+configuration: --enable-gpl --enable-libx264 --enable-libx265 --enable-libvpx --enable-libopus --enable-libfdk-aac --enable-libmp3lame
+Output #0, mp4, to 'output_23.mp4':
+  Metadata:
+    encoder         : Lavf58.76.100
+    Stream #0:0(eng): Video: h264 (libx264) (avc1 / 0x31637661), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=-1.0, 25 fps, 12800 tbn (default)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+Press [q] to stop, [?] for help.
+frame=  750 fps= 25 q=-1.0 Lsize=   7200kB time=00:00:30.00 bitrate=1920.0kbits/s speed=1.00x    
+video:6900kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.280%
+PSNR=41.50 dB
+Conversion successful.

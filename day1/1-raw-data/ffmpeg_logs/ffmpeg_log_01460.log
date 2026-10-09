@@ -1,0 +1,4 @@
+﻿ffmpeg -i input.mp4 -vf scale=xyz output.mp4
+[Parsed_scale_0 @ 0x557fb4a1a680] Invalid resolution: xyz
+Error initializing complex filters.
+Exiting due to error.

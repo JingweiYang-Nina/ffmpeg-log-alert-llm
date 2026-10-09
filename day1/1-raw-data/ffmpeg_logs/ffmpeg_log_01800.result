@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown or unsupported video encoder 'libx265_invalid'.",
+    "resolution_steps": "Ensure the specified video encoder is correct, supported by your FFmpeg build, and spelled correctly. Use 'ffmpeg -encoders' to list available encoders.",
+    "log_file": "ffmpeg_log_01800.log"
+}

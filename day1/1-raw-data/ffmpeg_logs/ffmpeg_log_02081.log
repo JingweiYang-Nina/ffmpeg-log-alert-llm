@@ -1,0 +1,17 @@
+﻿ffmpeg -i input.mp4 -acodec aac -ar 48000 output.mp4
+ffmpeg version N-98319-g561a37c37e Copyright (c) 2000-2023 the FFmpeg developers
+  libavutil      58. 17.100 / 58. 17.100
+  libavcodec     60. 25.100 / 60. 25.100
+  libavformat    60. 10.100 / 60. 10.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input.mp4':
+  Duration: 00:00:10.00, start: 0.000000, bitrate: 1000 kb/s
+    Stream #0:0: Video: h264, yuv420p, 1280x720, 25 fps
+    Stream #0:1: Audio: aac, 44100 Hz, stereo
+Output #0, mp4, to 'output.mp4':
+  Stream #0:0: Video: h264 (libx264), yuv420p, 1280x720, q=-1, 25 fps
+  Stream #0:1: Audio: aac, 48000 Hz, stereo
+frame=  250 fps= 25 q=28.0 size=     800kB time=00:00:10.00 bitrate= 655.4kbits/s speed=0.975x    
+video:800kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+[libx264 @ 0x5558110b04c0] frame=250 QP=21.0 PSNR Avg:42.50
+encoded 250 frames, 24.00 fps, 655.4kbits/s
+Transcoding successful.

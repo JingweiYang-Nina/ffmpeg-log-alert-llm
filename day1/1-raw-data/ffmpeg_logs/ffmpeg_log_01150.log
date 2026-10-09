@@ -1,0 +1,10 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 The FFmpeg developers
+  built with gcc 9.3.0
+Input #0, mov, from 'input_720p.mp4':
+  Duration: 00:00:30.00, start: 0.000000, bitrate: 5000 kb/s
+    Stream #0:0(eng): Video: h264, yuv420p, 1280x720, 25 fps
+Output #0, mp4, to 'output_1080p.mp4':
+  Stream #0:0(eng): Video: h264 (libx264), yuv420p, 1920x1080, q=-1.0, 8000 kb/s, 25 fps
+frame=  750 fps= 25 q=28.0 Lsize= 30000kB time=00:00:30.00 bitrate=8000.0kbits/s speed=1.0x
+video:29500kB audio:500kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.847%
+PSNR=45.12 dB

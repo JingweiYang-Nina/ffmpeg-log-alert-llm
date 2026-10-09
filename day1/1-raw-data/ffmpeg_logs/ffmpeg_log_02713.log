@@ -1,0 +1,7 @@
+﻿ffmpeg version N-105232-g5968f9a2b0 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input_low_psnr.mp4':
+  Duration: 00:00:30.00, start: 0.000000, bitrate: 1000 kb/s
+    Stream #0:0(eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 640x360 [SAR 1:1 DAR 16:9], 800 kb/s, 25 fps, 25 tbr, 25k tbn, 50k tbc (default)
+Output #0, mp4, to 'output_low_psnr.mp4':
+frame=  750 fps= 50 q=28.0 size=   3000kB time=00:00:30.00 bitrate=800.0kbits/s speed=2.00x
+PSNR y:32.50 u:35.00 v:33.20 average:33.57 min:30.00 max:36.00

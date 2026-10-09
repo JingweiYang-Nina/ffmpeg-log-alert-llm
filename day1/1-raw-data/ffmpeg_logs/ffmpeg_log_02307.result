@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "No Intel Quick Sync Video (QSV) capable devices were found or are accessible.",
+    "resolution_steps": "Ensure Intel graphics drivers are installed and up-to-date. Verify that your CPU supports QSV and is properly configured for FFmpeg. Consider using a software encoder like libx264 if QSV hardware is not available.",
+    "log_file": "ffmpeg_log_02307.log"
+}

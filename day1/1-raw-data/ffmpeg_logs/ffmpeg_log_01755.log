@@ -1,0 +1,4 @@
+﻿Input #0, avi, from 'broken_input.avi':
+  Duration: N/A, start: 0.000000, bitrate: N/A
+    Stream #0:0: Video: mpeg4 (Simple Profile) (FMP4 / 0x34504D46), yuv420p, 640x480 [SAR 1:1 DAR 4:3], 25 tbr, 1000 tbn, 1000 tbc
+Error while decoding stream #0:0: Protocol not found

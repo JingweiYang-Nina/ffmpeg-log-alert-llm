@@ -1,0 +1,5 @@
+﻿ffmpeg -i clip.avi converted.mkv
+Option '-vf scale=abc' not found.
+Error parsing options: Invalid argument
+
+ffmpeg exited with code 1.

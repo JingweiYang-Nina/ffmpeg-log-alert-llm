@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105151-g7118182741-tessarade-git Copyright (c) 2000-2023 the FFmpeg developers
+... (log truncated)
+[AVIO open @ 0x55a6d2105140] Could not open 'non_existent_input.mp4': No such file or directory
+non_existent_input.mp4: No such file or directory

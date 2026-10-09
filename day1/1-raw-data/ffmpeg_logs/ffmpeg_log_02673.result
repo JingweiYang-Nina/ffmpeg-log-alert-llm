@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Generic error during audio encoding.",
+    "resolution_steps": "Try a different audio codec (e.g., 'aac', 'libmp3lame'). Check if audio-related libraries are correctly installed. Ensure the audio stream is not corrupted.",
+    "log_file": "ffmpeg_log_02673.log"
+}

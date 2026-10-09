@@ -1,0 +1,4 @@
+﻿ffmpeg -i input.mp4 -c:v h264_qsv -global_quality 25 output.mp4
+[h264_qsv @ 0x7fa28c000000] Failed to create a VPP context.
+Error initializing output stream 0:0 -- Error while opening encoder for input stream #0:0, try to use a different codec (codec id 27), or enable a specific encoder (e.g. 'h264_qsv')
+Exiting due to error.

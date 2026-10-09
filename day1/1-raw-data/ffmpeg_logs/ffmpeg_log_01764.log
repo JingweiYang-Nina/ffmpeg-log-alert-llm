@@ -1,0 +1,35 @@
+﻿ffmpeg version N-112345-gabcdefgh Copyright (c) 2000-2023 the FFmpeg developers
+  built with gcc 12.2.0 (Rev10, Built by MSYS2)
+  configuration: --enable-gpl --enable-libx264 --enable-libx265 --enable-libvpx --enable-libass --enable-fontconfig --enable-libfreetype --enable-libfribidi --enable-opencl --enable-cuda --enable-cuvid --enable-nvdec --enable-nvenc --enable-amf --enable-d3d11va --enable-dxva2 --enable-sdl2 --enable-zlib --enable-avisynth --enable-libopus --enable-libvorbis --enable-libmp3lame --enable-libfdk-aac --enable-libwebp --enable-libspeex --enable-libsoxr --enable-libtheora --enable-libxvid --enable-libdav1d --enable-libaom --enable-libsvtav1 --enable-libsrt --enable-libxavs --enable-libxpm
+  libavutil      58.10.100 / 58.10.100
+  libavcodec     60.10.100 / 60.10.100
+  libavformat    60.10.100 / 60.10.100
+  libavdevice    60. 2.100 / 60. 2.100
+  libavfilter     9. 4.100 /  9. 4.100
+  libswscale      7. 2.100 /  7. 2.100
+  libswresample   4.11.100 /  4.11.100
+  libpostproc    57. 1.100 / 57. 1.100
+Input #0, mkv, from 'source_clip_8.mkv':
+  Metadata:
+    major_brand     : qt
+    minor_version   : 0
+    compatible_brands: qt
+    creation_time   : 2021-03-24T12:00:20.596041Z
+  Duration: 00:01:21.018, start: 0.000000, bitrate: 839 kb/s
+    Stream #0:0[0x1](eng): Video: hevc (Main) (hvc1 / 0x31637668), yuv420p(tv, bt709), 854x480 [SAR 1:1 DAR 16:9], 788 kb/s, 24 fps, 24 tbr, 24k tbn (default)
+    Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 50 kb/s (default)
+Output #0, mp4, to 'encoded_video_8.mp4':
+  Metadata:
+    major_brand     : qt
+    minor_version   : 0
+    compatible_brands: qt
+    encoder         : Lavf60.10.100
+    Stream #0:0[0x1](eng): Video: h264 (libx264) (avc1 / 0x31637661), yuv420p(tv, bt709), 640x360 [SAR 1:1 DAR 16:9], q=2-31, 335 kb/s, 24 fps, 24k tbn (default)
+    Stream #0:1[0x2](eng): Audio: aac (aac) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 50 kb/s (default)
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help.
+frame= 1944 fps=24 q=28.0 size=    3800kB time=00:01:21.018 bitrate=379kbits/s speed=1.0x    
+[Parsed_psnr_0 @ 0x81BE716] PSNR y:45.34 u:43.74 v:46.33 average:44.82 min:42.15 max:47.38
+video:3800kB audio:506kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.189%

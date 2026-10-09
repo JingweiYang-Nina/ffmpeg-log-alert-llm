@@ -1,0 +1,12 @@
+﻿ffmpeg version N-105267-ge74c7e4a1c-tess full_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+... (omitted verbose output)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'corrupted_file.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: mp42isom
+    creation_time   : 2023-01-01T12:00:00.000000Z
+  Duration: 00:00:10.00, start: 0.000000, bitrate: 1000 kb/s
+    Stream #0:0[0x1](eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 1280x720 [SAR 1:1 DAR 16:9], 999 kb/s, 29.97 fps, 29.97 tbr, 30k tbn (default)
+    Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 0 kb/s (default)
+Error while decoding stream #0:0: Invalid data found when processing input

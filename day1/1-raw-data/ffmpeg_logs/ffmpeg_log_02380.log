@@ -1,0 +1,4 @@
+﻿ffmpeg started
+frame= 2200 fps= 90 q=21.0 size= 9000kB time=00:02:15.00 bitrate=850.0kbits/s speed=1.6x
+PSNR average:49.34
+Transcoding successfully completed.

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown input format.",
+    "resolution_steps": "Specify the correct input format using `-f` or ensure FFmpeg supports the format of the input file.",
+    "log_file": "ffmpeg_log_02836.log"
+}

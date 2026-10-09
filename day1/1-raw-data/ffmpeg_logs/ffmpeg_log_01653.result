@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Output file #0 does not contain any stream",
+    "resolution_steps": "This typically means no video or audio streams were successfully processed or mapped to the output. Check the input file integrity and stream mapping options.",
+    "log_file": "ffmpeg_log_01653.log"
+}

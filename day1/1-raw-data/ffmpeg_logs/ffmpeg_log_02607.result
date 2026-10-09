@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Bitrate too high (20000k) for target codec/profile.",
+    "resolution_steps": "Reduce the target video bitrate. Some codecs/profiles have limits on maximum bitrates. Adjust `-b:v` value downwards.",
+    "log_file": "ffmpeg_log_02607.log"
+}

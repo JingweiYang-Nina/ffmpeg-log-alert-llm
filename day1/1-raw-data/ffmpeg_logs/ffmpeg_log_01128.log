@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105151-g7118182741-tessarade-git Copyright (c) 2000-2023 the FFmpeg developers
+... (log truncated)
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55712c019200] moov atom not found
+Corrupted input stream! Error while decoding stream #0:0: Invalid data found when processing input

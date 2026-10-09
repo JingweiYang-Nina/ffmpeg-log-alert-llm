@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'video.mp4':
+Output #0, mp4, to 'final.mp4':
+frame=  750 fps= 28 q=26.0 Lsize=   3456kB time=00:00:30.00 bitrate= 921.6kbits/s speed=0.9x
+PSNR_Y:37.80 PSNR_U:41.50 PSNR_V:41.20 PSNR_AVG:39.20

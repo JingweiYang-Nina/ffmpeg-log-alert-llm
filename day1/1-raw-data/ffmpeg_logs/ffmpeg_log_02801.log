@@ -1,0 +1,10 @@
+﻿ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 11 (Ubuntu 11.2.0-19ubuntu1)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'video_source.mp4':
+  Duration: 00:00:45.00, start: 0.000000, bitrate: 1500 kb/s
+    Stream #0:0(eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 1400 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+Output #0, mp4, to 'encoded_video.mp4':
+    Stream #0:0(eng): Video: h264 (H264 / 0x34363248), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 1200 kb/s, 30 fps (default)
+frame= 1350 fps= 30 q=-1.0 size=    6750kB time=00:00:45.00 bitrate=1200.0kbits/s speed=1.0x    PSNR=47.88
+video:6600kB audio:150kB
+Transcoding successfully finished.

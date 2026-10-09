@@ -1,0 +1,6 @@
+﻿Input #0, mp4, from 'source_6.mp4':
+...
+Output #0, avi, to 'output_6.avi':
+[libx26x @ 0x7c73a8e32906] Unknown encoder 'vp10' or unsupported codec.
+Error initializing output stream 0:0: Error while opening encoder for stream #0:0, try to use a different codec (e.g. libx264).
+Conversion failed!

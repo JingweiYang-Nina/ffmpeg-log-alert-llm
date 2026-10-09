@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Out of memory during transcoding process.",
+    "resolution_steps": "Reduce video resolution/bitrate, process in smaller chunks, or increase available system memory. Close other memory-intensive applications.",
+    "log_file": "ffmpeg_log_01264.log"
+}

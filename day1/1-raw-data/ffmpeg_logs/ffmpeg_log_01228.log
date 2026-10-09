@@ -1,0 +1,4 @@
+﻿ffmpeg version N-99999-gabcdefg Copyright (c) 2000-2023 the FFmpeg developers
+  built with gcc 10 (Ubuntu 10.3.0-1ubuntu1~20.04)
+Input #0, concat, from 'concat_list.txt':
+non_existent_input.mp4: No such file or directory

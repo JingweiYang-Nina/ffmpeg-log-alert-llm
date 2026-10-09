@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid output path or filename: FFmpeg cannot find a suitable output format.",
+    "resolution_steps": "Ensure the output file path is valid and accessible. Check for special characters or invalid drive letters. Sometimes this error can also indicate a problem with the specified output container format (e.g., '.mp4').",
+    "log_file": "ffmpeg_log_02434.log"
+}

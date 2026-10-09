@@ -1,0 +1,15 @@
+﻿ffmpeg -i input.mp4 -b:v 2000k output.webm
+ffmpeg version N-98319-g561a37c37e Copyright (c) 2000-2023 the FFmpeg developers
+  libavutil      58. 17.100 / 58. 17.100
+  libavcodec     60. 25.100 / 60. 25.100
+  libavformat    60. 10.100 / 60. 10.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input.mp4':
+  Duration: 00:00:10.00, start: 0.000000, bitrate: 1000 kb/s
+    Stream #0:0: Video: h264, yuv420p, 1920x1080, 25 fps
+Output #0, webm, to 'output.webm':
+  Stream #0:0: Video: vp8, yuv420p, 1920x1080, q=-1, 25 fps
+frame=  250 fps= 24 q=28.0 size=    2500kB time=00:00:10.00 bitrate= 2000.0kbits/s speed=0.975x    
+video:2500kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+[libvpx-vp8 @ 0x5558110b04c0] frame=250 PSNR Avg:41.22
+encoded 250 frames, 24.00 fps, 2000.0kbits/s
+Transcoding successful.

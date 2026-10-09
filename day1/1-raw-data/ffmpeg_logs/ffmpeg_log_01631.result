@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Error parsing options for output stream #0:0. Invalid 'keyint' option value.",
+    "resolution_steps": "Review the FFmpeg command for syntax errors in `-x264opts`. Ensure all parameters and their values are correct according to FFmpeg documentation (e.g., `keyint` expects an integer).",
+    "log_file": "ffmpeg_log_01631.log"
+}

@@ -1,0 +1,5 @@
+﻿ffmpeg -i clip.avi output.mp4
+[AVFoundation indev @ 0x12345] AVF: cannot find device with name "clip.avi"
+clip.avi: No such file or directory
+
+ffmpeg exited with code 1.

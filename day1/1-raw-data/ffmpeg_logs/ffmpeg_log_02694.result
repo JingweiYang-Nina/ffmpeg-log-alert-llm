@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Non-monotonic DTS (Decoding Time Stamp) issue in output stream, leading to muxing failure.",
+    "resolution_steps": "1. Try adding '-vsync 0' or '-async 1' to the FFmpeg command. 2. Re-encode the input file to ensure proper timestamping. 3. Use '-fflags +genpts' or '-f -i' to force timestamp generation or strict input parsing.",
+    "log_file": "ffmpeg_log_02694.log"
+}

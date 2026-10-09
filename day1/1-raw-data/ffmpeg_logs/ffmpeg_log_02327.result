@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid direction parameter for the 'transpose' video filter.",
+    "resolution_steps": "The 'transpose' filter expects an integer for 'dir' (0, 1, 2, or 3) or a preset name like 'cclock' or 'clock'. Correct the parameter.",
+    "log_file": "ffmpeg_log_02327.log"
+}

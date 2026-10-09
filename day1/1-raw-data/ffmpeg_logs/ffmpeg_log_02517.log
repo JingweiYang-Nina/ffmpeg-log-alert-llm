@@ -1,0 +1,6 @@
+﻿ffmpeg -i input.mp4 -vf crop=1000:700:0:0 -c:v libx264 -map 0:v -map 0:a? -c:a aac output.mp4
+ffmpeg version 4.4 Copyright (c) 2000-2021 Fabrice Bellard et al.
+[AVFilterGraph @ 0x...] Expected 'ratio' or 'r' for a ratio expression, but got nothing.
+[AVFilterGraph @ 0x...] Error initializing filter 'crop' with args '1000:700:0:0'
+Error configuring filters.
+Conversion failed!

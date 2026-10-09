@@ -1,0 +1,4 @@
+﻿ffmpeg -i input.mp4 -b:v invalid_bitrate output.mp4
+[AVCodecContext @ 0x559e8b62c140] Invalid value for AVOption 'b:v': 'invalid_bitrate'
+Error setting option b:v to invalid_bitrate.
+Exiting due to error.

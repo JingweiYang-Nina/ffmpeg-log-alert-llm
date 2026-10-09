@@ -1,0 +1,3 @@
+﻿ffmpeg version N-105156-gd58b5e905c Copyright (c) 2000-2022 The FFmpeg developers
+[mjpeg @ 0x...] internal error
+Error while decoding stream #0:0: Error number -22 occurred

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unsupported pixel format for the selected encoder.",
+    "resolution_steps": "Choose a pixel format supported by the encoder (e.g., 'yuv420p', 'yuv422p'). Use the '-pix_fmts' option with 'ffmpeg' to list available formats.",
+    "log_file": "ffmpeg_log_02669.log"
+}

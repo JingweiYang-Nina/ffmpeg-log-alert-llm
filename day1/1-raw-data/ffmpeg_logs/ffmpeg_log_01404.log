@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105267-ge74c7e4a1c-tess full_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+... (omitted verbose output)
+[AVFormatContext @ 0x55581b2f90c0] Could not find stream with codec id 0
+Error opening input file: invalid_format.xyz

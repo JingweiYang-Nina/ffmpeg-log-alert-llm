@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Error writing trailer of output file",
+    "resolution_steps": "Could be due to disk space, permissions, or a problem with the output container format. Check disk space and permissions. Try a different output format or simpler settings.",
+    "log_file": "ffmpeg_log_02494.log"
+}

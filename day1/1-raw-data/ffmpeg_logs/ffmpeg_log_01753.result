@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Stream selector or specifier error (e.g., non-existent audio/video stream index).",
+    "resolution_steps": "Verify the stream index in the command (e.g., 'a:1' or 'v:0') matches an existing stream in the input file. Use `ffprobe` to inspect input streams.",
+    "log_file": "ffmpeg_log_01753.log"
+}

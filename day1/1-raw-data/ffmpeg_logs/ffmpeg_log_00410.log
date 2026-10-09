@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'source.mp4':
+Output #0, mp4, to 'low_bitrate.mp4':
+frame=  300 fps= 18 q=31.0 Lsize=    800kB time=00:00:12.00 bitrate= 533.3kbits/s speed=0.7x
+PSNR_AVG:32.15

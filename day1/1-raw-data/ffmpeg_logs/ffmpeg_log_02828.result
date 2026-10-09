@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Generic conversion failure.",
+    "resolution_steps": "Review the full log for specific error messages or try simplifying the command to isolate the issue.",
+    "log_file": "ffmpeg_log_02828.log"
+}

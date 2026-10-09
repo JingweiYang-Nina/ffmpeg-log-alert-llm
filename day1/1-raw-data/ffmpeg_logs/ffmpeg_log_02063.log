@@ -1,0 +1,11 @@
+﻿ffmpeg -i input.mp4 output.mov
+ffmpeg version N-98319-g561a37c37e Copyright (c) 2000-2023 the FFmpeg developers
+  libavutil      58. 17.100 / 58. 17.100
+  libavcodec     60. 25.100 / 60. 25.100
+  libavformat    60. 10.100 / 60. 10.100
+Output #0, mov, to 'output.mov':
+  Metadata:
+    encoder         : Lavf60.10.100
+Could not write header for output file #0 (incorrect codec parameters ?): No space left on device
+Error writing trailer of output.mov: No space left on device
+Conversion failed!

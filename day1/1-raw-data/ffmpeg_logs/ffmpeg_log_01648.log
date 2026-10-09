@@ -1,0 +1,6 @@
+﻿ffmpeg -i invalid_format.txt -c:v copy output.mp4
+ffmpeg version 4.4.2 Copyright (c) 2000-2021 the FFmpeg developers
+...
+[txt @ 0x55d7f191a300] Could not find codec parameters for stream #0 (Video: mpeg4, none): unspecified size
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+invalid_format.txt: Invalid data found when processing input

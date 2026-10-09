@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Cannot allocate memory",
+    "resolution_steps": "Reduce the complexity of the transcoding task (e.g., lower resolution, simpler filters, or shorter duration). Ensure sufficient system memory is available or close other demanding applications.",
+    "log_file": "ffmpeg_log_02726.log"
+}

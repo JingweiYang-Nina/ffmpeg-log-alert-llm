@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown error during video encoding.",
+    "resolution_steps": "Check for sufficient disk space. Try updating FFmpeg. Experiment with different video codecs or encoding presets. Simplify the command to isolate the issue.",
+    "log_file": "ffmpeg_log_02674.log"
+}

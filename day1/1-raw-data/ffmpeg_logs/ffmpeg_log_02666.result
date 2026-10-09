@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Required library for hardware acceleration (e.g., CUDA) not found or incompatible driver.",
+    "resolution_steps": "Ensure necessary GPU drivers and libraries (like CUDA Toolkit) are installed and correctly configured in your system's PATH or LD_LIBRARY_PATH. Try disabling hardware acceleration if not required.",
+    "log_file": "ffmpeg_log_02666.log"
+}

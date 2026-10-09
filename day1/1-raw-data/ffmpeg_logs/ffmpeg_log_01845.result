@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input file access denied",
+    "resolution_steps": "Ensure the FFmpeg process has read access to the input file, especially on network shares or restricted directories.",
+    "log_file": "ffmpeg_log_01845.log"
+}

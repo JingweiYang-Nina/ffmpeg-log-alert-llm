@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid argument: Option 'invalid_filter_name' not found.",
+    "resolution_steps": "Review the FFmpeg command line arguments for typos or incorrect parameters. Consult FFmpeg documentation for valid options for your specific command.",
+    "log_file": "ffmpeg_log_00209.log"
+}

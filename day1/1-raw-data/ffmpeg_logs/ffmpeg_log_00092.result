@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input/output error.",
+    "resolution_steps": "Examine the full FFmpeg log for more details. Try simplifying the command or testing with a different input file.",
+    "log_file": "ffmpeg_log_00092.log"
+}

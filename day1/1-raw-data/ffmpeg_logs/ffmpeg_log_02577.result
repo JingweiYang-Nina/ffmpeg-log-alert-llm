@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Output file is empty",
+    "resolution_steps": "Verify input file integrity and playback. Check '-ss' (seek start) and '-t' (duration) parameters to ensure they define a valid time range for encoding.",
+    "log_file": "ffmpeg_log_02577.log"
+}

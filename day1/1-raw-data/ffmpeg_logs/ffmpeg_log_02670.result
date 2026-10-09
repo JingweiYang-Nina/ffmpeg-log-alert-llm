@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Output file already exists without overwrite flag.",
+    "resolution_steps": "Either specify a new output filename, or add '-y' to your FFmpeg command to force overwrite the existing file.",
+    "log_file": "ffmpeg_log_02670.log"
+}

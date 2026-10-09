@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid FFmpeg command line parameters.",
+    "resolution_steps": "Check the FFmpeg documentation for valid options and their correct usage. Some options are encoder-specific.",
+    "log_file": "ffmpeg_log_02816.log"
+}

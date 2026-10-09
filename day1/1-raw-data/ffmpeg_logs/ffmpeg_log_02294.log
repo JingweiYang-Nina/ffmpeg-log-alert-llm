@@ -1,0 +1,4 @@
+﻿ffmpeg -i udp://127.0.0.1:1234 -c:v copy -c:a copy output.ts
+ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 FFmpeg developers
+[udp @ 0x...] bind failed: Address already in use
+udp://127.0.0.1:1234: Address already in use

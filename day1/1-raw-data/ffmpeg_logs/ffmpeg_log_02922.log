@@ -1,0 +1,3 @@
+﻿FFmpeg version 4.2.7-0ubuntu0.1 for Ubuntu 18.04
+[libopus @ 0x5580a1586e00] Specified bitrate 192k is out of range [6k, 510k]
+Error initializing output stream 0:1 -- Error while opening encoder for output stream #0:1 - maybe incorrect parameters such as codec tags (bit_rate, extra_data or key_frame_rate) or missing headers

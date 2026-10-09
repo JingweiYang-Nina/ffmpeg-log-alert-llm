@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "No audio stream found in input file.",
+    "resolution_steps": "If audio is expected, verify the input file. If not, ignore this warning or use `-an` to disable audio processing.",
+    "log_file": "ffmpeg_log_00443.log"
+}

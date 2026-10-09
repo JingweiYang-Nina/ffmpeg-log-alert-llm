@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid video dimensions (e.g., width or height not a multiple of 2) for the chosen codec.",
+    "resolution_steps": "1. Adjust the output resolution to be even (e.g., 1920x1080). 2. Use a scale filter with 'ceil(iw/2)*2:ceil(ih/2)*2' to automatically adjust dimensions. 3. Check codec-specific requirements for video dimensions.",
+    "log_file": "ffmpeg_log_02695.log"
+}

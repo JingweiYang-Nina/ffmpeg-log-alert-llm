@@ -1,0 +1,25 @@
+﻿ffmpeg -i input.mp4 -vf "scale=iw/2:ih/2" -c:v libx264 -crf 20 -c:a copy output_half_size.mp4
+ffmpeg version 4.4 Copyright (c) 2000-2021 Fabrice Bellard et al.
+  libavutil      56. 70.100 / 56. 70.100
+  libavcodec     58.134.100 / 58.134.100
+  libavformat    58. 76.100 / 58. 76.100
+  libavdevice    58. 13.100 / 58. 13.100
+  libavfilter     7.110.100 /  7.110.100
+  libswscale      5.  9.100 /  5.  9.100
+  libswresample   3.  9.100 /  3.  9.100
+  libpostproc    55.  9.100 / 55.  9.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input.mp4':
+  Duration: 00:00:10.00, start: 0.000000, bitrate: 1500 kb/s
+    Stream #0:0: Video: h264 (High), yuv420p(tv), 1920x1080, 1400 kb/s, 30 fps
+    Stream #0:1: Audio: aac (LC), 44100 Hz, stereo, fltp, 100 kb/s
+Output #0, mp4, to 'output_half_size.mp4':
+  Metadata:
+    encoder         : Lavf58.76.100
+    Stream #0:0: Video: h264 (High) (libx264), yuv420p(tv), 960x540 [SAR 1:1 DAR 16:9], q=2-31, 1400 kb/s, 30 fps
+    Stream #0:1: Audio: aac (LC) (copy), 44100 Hz, stereo, fltp, 100 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> libx264)
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help.
+frame=  300 fps= 29 q=20.0 Lsize=     900kB time=00:00:10.00 bitrate= 720.0kbits/s speed=0.96x
+video:800kB audio:100kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.0%

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Encoder did not produce proper mp4 header.",
+    "resolution_steps": "Try updating FFmpeg, using a different encoder, or checking encoder-specific configuration parameters. Ensure the input is not severely corrupted.",
+    "log_file": "ffmpeg_log_02734.log"
+}

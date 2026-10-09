@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Failed to open encoder for output stream due to incorrect parameters.",
+    "resolution_steps": "Review your FFmpeg command for invalid video or audio parameters (bitrate, resolution, codec). Check if the target format supports the specified settings.",
+    "log_file": "ffmpeg_log_01152.log"
+}

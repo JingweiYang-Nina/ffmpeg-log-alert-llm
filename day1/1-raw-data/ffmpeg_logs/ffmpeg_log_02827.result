@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Deprecated option used.",
+    "resolution_steps": "Update the FFmpeg command to use the recommended option 'segment_atclocktime' instead of 'segment_times'.",
+    "log_file": "ffmpeg_log_02827.log"
+}

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown encoder 'libvpx-vp8-unsupported'",
+    "resolution_steps": "The specified encoder 'libvpx-vp8-unsupported' is not supported or installed. Check FFmpeg's available encoders ('ffmpeg -encoders'), install the necessary library, or use a supported encoder like 'libx264'.",
+    "log_file": "ffmpeg_log_00702.log"
+}

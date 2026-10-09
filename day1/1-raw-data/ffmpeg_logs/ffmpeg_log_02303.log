@@ -1,0 +1,17 @@
+﻿ffmpeg -i input.mp4 -threads 0 -c:v libx264 -crf 23 output.mp4
+ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 FFmpeg developers
+[libx264 @ 0x...] Too many threads for your CPU. This may result in reduced performance.
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'input.mp4':
+  Duration: 00:00:25.00, start: 0.000000, bitrate: 1800 kb/s
+    Stream #0:0: Video: h264 (High), yuv420p, 1280x720, 25 fps
+Output #0, mp4, to 'output.mp4':
+  Metadata:
+    encoder         : Lavf58.76.100
+    Stream #0:0: Video: h264 (libx264), yuv420p, 1280x720, q=-1--1, 25 fps
+    Stream #0:1: Audio: aac (native), 48000 Hz, stereo, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> libx264 (libx264))
+  Stream #0:1 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help.
+frame=  625 fps= 24 q=28.0 size=   4500kB time=00:00:25.00 bitrate=1440.0kbits/s speed=0.96x
+video:4250kB audio:250kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%

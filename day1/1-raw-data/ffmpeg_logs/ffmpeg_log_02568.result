@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Output file already exists, user aborted",
+    "resolution_steps": "Use the '-y' flag to automatically overwrite the output file, or specify a different output filename.",
+    "log_file": "ffmpeg_log_02568.log"
+}

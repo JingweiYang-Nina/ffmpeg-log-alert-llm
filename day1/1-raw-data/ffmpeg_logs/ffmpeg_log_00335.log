@@ -1,0 +1,5 @@
+﻿ffmpeg -i audio_only.mp3 -c:a aac -b:a 96k output.m4a
+... (log lines) ...
+size=     988kB time=00:01:22.00 bitrate=96.0kbits/s speed=1.0x
+video:0kB audio:988kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.0%
+PSNR y:0.00 u:0.00 v:0.00 average:0.00 min:0.00 max:0.00

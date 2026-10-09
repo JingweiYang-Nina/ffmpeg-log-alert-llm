@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Input file 'nonexistent_video.mp4' not found.",
+    "resolution_steps": "Ensure the input file path is correct and the file exists. Check for typos in the filename or path, and verify file permissions.",
+    "log_file": "ffmpeg_log_02398.log"
+}

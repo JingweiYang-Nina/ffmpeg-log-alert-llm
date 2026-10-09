@@ -1,0 +1,3 @@
+﻿ffmpeg -i input.mp4 -vf scale=640:-1 -invalid_option output.mp4
+Option 'invalid_option' not found.
+Error parsing global options: Option not found

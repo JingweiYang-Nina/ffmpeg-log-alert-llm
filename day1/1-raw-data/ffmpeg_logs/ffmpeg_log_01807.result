@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Stream specifier in filtergraph does not match an existing stream (e.g., [0:v:1] when only [0:v:0] exists).",
+    "resolution_steps": "Review the FFmpeg command and correct the stream specifier in the filtergraph. Ensure you are targeting the correct video/audio stream index (usually 0:v:0 or 0:a:0).",
+    "log_file": "ffmpeg_log_01807.log"
+}

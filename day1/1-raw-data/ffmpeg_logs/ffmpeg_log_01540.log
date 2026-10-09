@@ -1,0 +1,6 @@
+﻿ffmpeg version N-105151-g25e9d9e6f8 Copyright (c) 2000-2024 the FFmpeg developers
+Input #0, mpegts, from 'unsupported_stream.ts':
+  Duration: N/A, start: 0.000000, bitrate: N/A
+[mpegts @ 0x...] Could not find codec parameters for stream 0 (Video: unknown, 0x0000): unspecified size
+Consider increasing the stream q_buffer_size
+unsupported_stream.ts: could not find codec parameters

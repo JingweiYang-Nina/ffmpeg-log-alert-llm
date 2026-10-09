@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'input.mp4':
+Output #0, mp4, to 'output_low_bitrate.mp4':
+frame=  300 fps= 31 q=-1.0 Lsize=    800kB time=00:00:10.00 bitrate=640.0kbits/s speed=1.03x
+video:750kB audio:50kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.200000%
+PSNR=35.15dB

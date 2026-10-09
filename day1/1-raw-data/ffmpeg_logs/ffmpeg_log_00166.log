@@ -1,0 +1,14 @@
+﻿ffmpeg version N-105151-g030f250cd8-tessaract Copyright (c) 2000-2021 the FFmpeg developers
+built on Aug 18 2021 16:34:00 with gcc 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04)
+configuration: --enable-gpl --enable-libx264 --enable-libx265 --enable-libvpx --enable-libopus --enable-libfdk-aac --enable-libmp3lame
+Output #0, flv, to 'output_9.flv':
+  Metadata:
+    encoder         : Lavf58.76.100
+    Stream #0:0: Video: flv1 (FLV1 / 0x31564C46), yuv420p, 640x360, q=-1.0, 20 fps, 12800 tbn (default)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> flv (flv))
+Press [q] to stop, [?] for help.
+frame=  600 fps= 20 q=-1.0 Lsize=   2500kB time=00:00:30.00 bitrate=666.0kbits/s speed=1.00x    
+video:2400kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.100%
+PSNR=35.11 dB
+Conversion successful.

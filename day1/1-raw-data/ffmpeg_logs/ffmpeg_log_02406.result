@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unrecognized option 'invalid_quality'.",
+    "resolution_steps": "Check the FFmpeg command for typos or incorrect parameters. Refer to the FFmpeg documentation for correct syntax and available options. Remove or correct the 'invalid_quality' option.",
+    "log_file": "ffmpeg_log_02406.log"
+}

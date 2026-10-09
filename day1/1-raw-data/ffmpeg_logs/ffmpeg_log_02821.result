@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid codec parameters or output file issues.",
+    "resolution_steps": "Verify output codec parameters and container format. Ensure the output path is valid and writable.",
+    "log_file": "ffmpeg_log_02821.log"
+}

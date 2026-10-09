@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Output file contains no streams (e.g., missing video/audio mapping).",
+    "resolution_steps": "Ensure input streams are properly mapped to output streams using '-map' options if necessary. Check that input files have valid streams.",
+    "log_file": "ffmpeg_log_01731.log"
+}

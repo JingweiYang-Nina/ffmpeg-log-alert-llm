@@ -1,0 +1,4 @@
+﻿ffmpeg -i input.mp4 -vf scale=640x output.mp4
+[Parsed_scale_0 @ 0x12345678] Option 'w' has not been set
+[AVFilterGraph @ 0x12345678] Error initializing filter 'scale' with args 'scale=640x'
+Error initializing complex filters.

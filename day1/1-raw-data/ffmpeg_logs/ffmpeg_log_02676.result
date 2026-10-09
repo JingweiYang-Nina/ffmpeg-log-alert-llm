@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Specified input stream (e.g., audio) does not exist.",
+    "resolution_steps": "Verify that the input file contains the stream type (video, audio, subtitle) you are trying to map or process. Adjust stream specifiers like '-map 0:a:0' if the stream index is incorrect or the stream is missing.",
+    "log_file": "ffmpeg_log_02676.log"
+}

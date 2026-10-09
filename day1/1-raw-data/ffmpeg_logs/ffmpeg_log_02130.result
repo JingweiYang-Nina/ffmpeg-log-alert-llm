@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid video encoding parameters (bitrate too high).",
+    "resolution_steps": "Adjust the video bitrate to be within acceptable limits for the given resolution, or select a higher resolution/lower compression if acceptable.",
+    "log_file": "ffmpeg_log_02130.log"
+}

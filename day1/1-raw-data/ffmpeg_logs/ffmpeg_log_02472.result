@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Out of memory while allocating a buffer",
+    "resolution_steps": "The system ran out of RAM. Reduce resolution, bitrate, or complexity of filters. Increase available RAM or swap space.",
+    "log_file": "ffmpeg_log_02472.log"
+}

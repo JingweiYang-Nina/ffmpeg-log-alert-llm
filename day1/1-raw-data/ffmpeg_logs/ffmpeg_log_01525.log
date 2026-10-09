@@ -1,0 +1,7 @@
+﻿ffmpeg version N-105151-g25e9d9e6f8 Copyright (c) 2000-2024 the FFmpeg developers
+Input #0, m4v, from 'short.m4v':
+  Duration: 00:00:03.00
+Output #0, mp4, to 'short_conv.mp4':
+  Stream #0:0: Video: h264 (libx264), yuv420p, 640x360, 24 fps
+frame=   72 fps= 24 q=-1.0 Lsize=    2500kB time=00:00:03.00 bitrate=6666.7kbits/s speed=1.0x    
+video:2450kB audio:50kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000%

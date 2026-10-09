@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+Input #0, mov,mp4, from 'presentation.mp4':
+  Duration: 00:00:25.00
+Output #0, mp4, to 'presentation_compressed.mp4':
+frame=  625 fps= 30 q=-1.0 Lsize=   31250kB time=00:00:25.00 bitrate=10000.0kbits/s speed=1.20x
+PSNR=40.50 dB

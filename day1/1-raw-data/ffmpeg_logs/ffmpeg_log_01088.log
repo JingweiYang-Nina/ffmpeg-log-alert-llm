@@ -1,0 +1,8 @@
+﻿ffmpeg version N-105009-g20b8e9b0d2 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 11.4.0 (Ubuntu 11.4.0-1ubuntu1~22.04)
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'fail_input_5.mp4':
+  Duration: 00:00:05.00, start: 0.000000, bitrate: 2500 kb/s
+    Stream #0:0: Video: h264, yuv420p, 1280x720, 25 fps
+Output #0, mp4, to 'fail_output_5.mp4':
+fail_output_5.mp4: Permission denied
+Conversion failed!

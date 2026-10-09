@@ -1,0 +1,4 @@
+﻿ffmpeg version N-105151-g22bb76f8c7-tessarade-master-test Copyright (c) 2000-2023 the FFmpeg developers
+...
+[AVF] Invalid pixel format 'yuv444p10le'.
+Error: Invalid pixel format specified.

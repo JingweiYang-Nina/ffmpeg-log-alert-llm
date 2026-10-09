@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Could not write header for output file due to incorrect codec parameters.",
+    "resolution_steps": "Check the specified codecs (`-c:v`, `-c:a`) and their parameters. Ensure they are compatible with the chosen output format and input streams. Try simpler codec settings.",
+    "log_file": "ffmpeg_log_02209.log"
+}

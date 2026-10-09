@@ -1,0 +1,4 @@
+﻿ffmpeg version 5.1 Copyright (c) 2000-2022 Fabrice Bellard et al.
+[h264 @ 0x55b14f85e100] non-existing PPS 0 referenced
+[h264 @ 0x55b14f85e100] SPS unavailable in current MP4 stream.
+Error while decoding stream #0:0: Invalid data found when processing input

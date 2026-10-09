@@ -1,0 +1,6 @@
+﻿ffmpeg version 4.3.1-2021-01-01 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4 from 'episode.mp4':
+  Duration: 00:00:40.00
+Output #0, mp4, to 'episode_out.mp4':
+frame= 1000 fps= 30 q=28.0 size=   9792kB time=00:00:40.00 bitrate=1999.9kbits/s speed=1.1x    PSNR=38.45dB
+video:9792kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%

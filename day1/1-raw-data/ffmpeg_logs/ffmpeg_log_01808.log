@@ -1,0 +1,5 @@
+﻿ffmpeg version 5.1.2-0ubuntu1 Copyright (c) 2000-2022 FFmpeg developers
+Input #0, mov, from 'input.mp4':
+[AVFilterGraph @ 0x55f9a65c7140] No such filter: 'non_existent_filter'
+Error initializing filter 'non_existent_filter' with args 'size=640x480'
+Error configuring filters.

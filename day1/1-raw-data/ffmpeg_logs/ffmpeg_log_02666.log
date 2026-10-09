@@ -1,0 +1,4 @@
+﻿ffmpeg -hwaccel cuda -i input.mp4 output.mp4
+[h264_cuvid @ 0x...] Driver does not support the NVIDIA CUDA Toolkit version.
+[h264_cuvid @ 0x...] Failed to initialise CUDA.
+Error while opening decoder for input stream #0:0 : Generic error in an external library

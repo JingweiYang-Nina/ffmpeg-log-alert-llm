@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Output file exists and 'overwrite' option is not specified.",
+    "resolution_steps": "Either delete the existing output file, or add the `-y` flag to the FFmpeg command to force overwrite.",
+    "log_file": "ffmpeg_log_01575.log"
+}

@@ -1,0 +1,4 @@
+﻿ffmpeg -i input.mp4 -b:v 100000k output.mp4
+ffmpeg version 4.4 Copyright (c) 2000-2021 Fabrice Bellard et al.
+[mp4 @ 0x...] Specified bitrate is too high for format (maximum is 300000k)
+Output file #0 does not contain any stream

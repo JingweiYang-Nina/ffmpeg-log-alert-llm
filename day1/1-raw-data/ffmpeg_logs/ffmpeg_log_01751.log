@@ -1,0 +1,3 @@
+﻿frame=  480 fps= 24 q=-1.0 Lsize=   28800kB time=00:00:20.00 bitrate=11520.0kbits/s speed=1.0x
+video:28780kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.069444%
+[libvpx-vp9 @ 0x5560b2400] PSNR Y:36.70 U:39.80 V:41.10 Avg:38.25 Global:38.35

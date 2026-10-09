@@ -1,0 +1,4 @@
+﻿ffmpeg -i input.mp4 -vf 'boxblur=luma=10:luma_r=2:luma_g=5, colorbalance=rs=0.5:gs=-0.2' output.mp4
+[Parsed_colorbalance_1 @ 0x...] No such filter: 'colorbalance'
+Error initializing complex filters.
+Invalid argument

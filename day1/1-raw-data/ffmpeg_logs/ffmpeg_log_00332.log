@@ -1,0 +1,5 @@
+﻿ffmpeg -i remote_file.mp4 -c:v libx264 local_copy.mp4
+... (log lines) ...
+frame= 900 fps= 30 q=-1.0 Lsize=   50000kB time=00:00:30.00 bitrate=13333.3kbits/s speed=1.0x
+video:49000kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.8%
+PSNR y:45.00 u:48.00 v:47.80 average:46.93 min:35.00 max:50.00

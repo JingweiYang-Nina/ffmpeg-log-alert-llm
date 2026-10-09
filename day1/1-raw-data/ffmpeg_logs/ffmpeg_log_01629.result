@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Error initializing QSV device: Device not found.",
+    "resolution_steps": "Ensure Intel Quick Sync Video (QSV) hardware is enabled in BIOS, drivers are installed, and FFmpeg is compiled with QSV support. Verify QSV device visibility in the system.",
+    "log_file": "ffmpeg_log_01629.log"
+}

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unknown encoder 'custom_vp9'",
+    "resolution_steps": "The specified encoder 'custom_vp9' is not supported or installed. Check FFmpeg's available encoders ('ffmpeg -encoders'), install the necessary library, or use a supported encoder like 'aac'.",
+    "log_file": "ffmpeg_log_00698.log"
+}

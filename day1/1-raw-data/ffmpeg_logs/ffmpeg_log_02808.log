@@ -1,0 +1,3 @@
+﻿ffmpeg -i input.mp4 -pix_fmt yuv444p16 output.mp4
+[libx264 @ 0x...] p_pix_fmt yuv444p16 not supported by codec. 
+Error initializing video encoder: Invalid argument.

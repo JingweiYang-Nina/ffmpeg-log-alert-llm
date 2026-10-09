@@ -1,0 +1,8 @@
+﻿ffmpeg version N-105572-g0a0b1c2d3e Copyright (c) 2000-2023 the FFmpeg developers
+built with gcc 11.2.0 (GCC)
+...
+[AVFormatContext @ 0x...] Error parsing a packet.
+Cannot allocate memory
+Error while decoding stream #0:0: Cannot allocate memory
+Conversion failed!
+PSNR=0.00 dB

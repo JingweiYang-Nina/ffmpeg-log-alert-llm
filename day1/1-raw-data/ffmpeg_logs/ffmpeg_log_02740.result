@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Unable to find a suitable output format for streaming URL or invalid argument.",
+    "resolution_steps": "Ensure the streaming URL is correctly formatted and the output format is supported for network streaming. If it's a local file path, check for typos and ensure it's a valid local path, not a URL.",
+    "log_file": "ffmpeg_log_02740.log"
+}

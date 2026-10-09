@@ -1,0 +1,6 @@
+﻿ffmpeg version 5.1.2-0ubuntu1 Copyright (c) 2000-2022 FFmpeg developers
+Input #0, mov, from 'input.mp4':
+Output #0, mp4, to 'output.mp4':
+[Parsed_transpose_0 @ 0x55f9a65c7140] Option 'direction' not found.
+Error initializing filter 'transpose' with args 'direction=1'
+Error configuring filters.

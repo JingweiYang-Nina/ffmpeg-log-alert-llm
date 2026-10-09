@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Output codec 'libvpx-vp9' not found or configured incorrectly.",
+    "resolution_steps": "Install the required FFmpeg codec library (libvpx-vp9) or check codec parameters.",
+    "log_file": "ffmpeg_log_01373.log"
+}

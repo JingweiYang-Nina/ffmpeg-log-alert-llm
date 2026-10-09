@@ -1,0 +1,4 @@
+﻿ffmpeg version 4.3.1-2020-11-09-git Copyright (c) 2000-2020 the FFmpeg developers
+Error initializing filter 'scale' with 'iw:ih': Cannot allocate memory
+Error reinitializing video encoding: Cannot allocate memory
+Failed to inject a frame into the filter network: Cannot allocate memory

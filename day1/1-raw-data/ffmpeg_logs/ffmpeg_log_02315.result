@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "The MP4 container does not support direct stream copying of the specified subtitle format (ASS/SRT).",
+    "resolution_steps": "Either embed the subtitles by burning them into the video (using the 'subtitles' video filter) or choose a different output container format that supports the subtitle codec (e.g., MKV).",
+    "log_file": "ffmpeg_log_02315.log"
+}

@@ -1,0 +1,6 @@
+﻿ffmpeg -i input.webm -c:v copy -b:v 10M -c:a copy output.mp4
+ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 FFmpeg developers
+[mp4 @ 0x...] Using AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[mp4 @ 0x...] Tag mp4v is not supported with codec id 12 and format 'mp4'.
+Could not write header for output file 'output.mp4': Invalid argument
+Conversion failed!

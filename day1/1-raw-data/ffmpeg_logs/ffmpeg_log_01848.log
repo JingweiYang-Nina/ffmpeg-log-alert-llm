@@ -1,0 +1,5 @@
+﻿ffmpeg version 4.4 Copyright (c) 2000-2021 the FFmpeg developers
+Input #0, mov,mp4, from 'input_video.mp4':
+[AVInputFile @ 0x...] Failed to read frame size from input file: Operation timed out
+Error while reading input stream #0:0: Operation timed out
+Conversion failed!

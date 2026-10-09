@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid command line arguments",
+    "resolution_steps": "Review FFmpeg documentation for correct syntax and parameter usage.",
+    "log_file": "ffmpeg_log_01823.log"
+}

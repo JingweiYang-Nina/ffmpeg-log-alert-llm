@@ -1,0 +1,6 @@
+﻿ffmpeg version N-105151-g22bb76f8c7-tessarade-master-test Copyright (c) 2000-2023 the FFmpeg developers
+...
+[AVERROR: Unknown encoder 'libx267']
+Error initializing output stream 0:0 -- codec not found
+Could not write header for output file #0 (incorrect codec parameters ?): Invalid argument
+Error encoding.

@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Too many pixels for the specified pixel format / Invalid argument in stream parameters.",
+    "resolution_steps": "Reduce the output resolution or bitrate to fit the encoder's limits. Review the video encoder settings for valid parameters.",
+    "log_file": "ffmpeg_log_02720.log"
+}

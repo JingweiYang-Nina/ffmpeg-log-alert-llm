@@ -1,0 +1,5 @@
+﻿ffmpeg -i very_long_input.mp4 -ss 00:10:00 -to 00:11:00 -c copy short_segment.mp4
+... (log lines) ...
+frame= 1800 fps= 30 q=-1.0 Lsize=   60000kB time=00:01:00.00 bitrate=8000.0kbits/s speed=10.0x
+video:59000kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.6%
+PSNR y:48.00 u:50.00 v:49.80 average:49.27 min:38.00 max:52.00

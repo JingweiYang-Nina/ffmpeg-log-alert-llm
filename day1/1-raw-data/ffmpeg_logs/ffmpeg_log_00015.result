@@ -1,0 +1,7 @@
+{
+    "is_succ": false,
+    "psnr_value": 0.0,
+    "error_message": "Invalid stream mapping specified, possibly trying to map a non-video/audio stream type.",
+    "resolution_steps": "Review your stream mapping commands (-map). Ensure you are only mapping video (v) and audio (a) streams to the output.",
+    "log_file": "ffmpeg_log_00015.log"
+}

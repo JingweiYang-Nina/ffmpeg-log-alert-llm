@@ -1,0 +1,3 @@
+﻿ffmpeg version 6.0 Copyright (c) 2000-2023 Fabrice Bellard et al.
+[AVHWDeviceContext @ 0x5580a1c6e180] Failed to create VAAPI device: -5 (unknown error)
+Error while opening decoder for input stream #0:0 : Input/output error
