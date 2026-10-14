@@ -4,3 +4,4 @@ outputs/
 fine_tuning_dataset.jsonl
 .venv/
 *_output.mp4
+.idea/

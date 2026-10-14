@@ -1,6 +1,6 @@
 import requests
 
-# 飞书机器人 Webhook URL（请替换为您自己的地址）
+# 飞书机器人 Webhook URL（替换为grep -rn "open.feishu.cn\|hook\|token\|api_key\|sk-" . --exclude-dir=.git --exclude-dir=.idea --include="*.py" --include="*.sh" --include="*.toml"）
 webhook_url = "https://open.feishu.cn/open-apis/bot/v2/hook/4a857461-572f-48c7-853b-cb758cc7d7e8"
 
 def send_alert(message):
